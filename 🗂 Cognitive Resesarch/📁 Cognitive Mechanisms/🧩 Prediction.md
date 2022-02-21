@@ -1,0 +1,1 @@
+Mainly stuff from the HTM framework. It may be worth bringing my [[📑 "HTM Abstract" - On Intelligence Summary]] document here.

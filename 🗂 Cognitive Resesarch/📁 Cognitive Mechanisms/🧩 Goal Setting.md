@@ -1,0 +1,2 @@
+* Changes what attention prioritizes
+* Help each other get to the goal of the other. Like when I sent a message to the therapist asking "Cual erá la dirección?" because I'm not asking "cual es la direccion" which is in present time. Someone who takes a text literal would maybe give the old address. But a normal person would give the current address.

@@ -1,0 +1,1 @@
+Space representations seem to be analogous to network representations. I used to think that visual patterns lead to the idea of space and layout but I think it's the other way around. Network representaions lead to patterns that can be represented visually.

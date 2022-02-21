@@ -1,0 +1,1 @@
+Humans and AMIs would coexist in this world which means we need [[📝 Analogue Controls]] for humans that trigger the [[🧩 Mirror neurons]] of AMIs.

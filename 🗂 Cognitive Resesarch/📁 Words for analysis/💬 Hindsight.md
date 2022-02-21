@@ -1,0 +1,1 @@
+What's interesting about this word is that a person is able to compare the knowledge from a previous state to the current state of being. I think Bach calls this [[🧩 Biographical Memory]].
