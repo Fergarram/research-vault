@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "04c6f87a22929740",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33f24a21217b666",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25d899adba0fda2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fb7ad29a5bcf673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec7380ab3f8613df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc1ac34969a5d8a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#unanswered",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b0fc821839b5cad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266
+  },
+  "right": {
+    "id": "7033de4cb9d71c71",
+    "type": "split",
+    "children": [
+      {
+        "id": "45f4d0c0ff857ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96ee24767e271122",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c33f24a21217b666",
+  "lastOpenFiles": [
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Prediction.md",
+    "External Resources/📑 \"HTM Abstract\" - On Intelligence Summary.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Attention.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Mental Simulations.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Spatial or Network or Social Awareness.md",
+    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Technical Implementation.md",
+    "🗂 Cognitive Resesarch/📁 World Building/📝 Artificial Bodies.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Mirror neurons.md",
+    "Guide/👨🏻‍💻 Vault.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/📝 Cognitive Architecture.md"
+  ]
+}

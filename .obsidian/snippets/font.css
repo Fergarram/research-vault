@@ -1,0 +1,31 @@
+.view-content * {
+    font-family: "Fira Code" !important;
+    font-weight: 400 !important;
+    font-size: 0.85rem;
+}
+
+.view-content h1, .cm-header-1 {
+    font-size: 1.9em !important;
+}
+
+.view-content h2, .cm-header-2 {
+    margin-top: 1.5em;
+    font-size: 1.75em !important;
+}
+
+.view-content h3, .cm-header-3 {
+    margin-top: 1em;
+    font-size: 1.35em !important;
+}
+
+.view-content h4, .cm-header-4 {
+    margin-top: 1em;
+    font-size: 1.15em !important;
+    text-transform: unset !important;
+    font-variant: normal !important;
+    font-style: normal !important;
+}
+
+.nav-folder-children .nav-folder-children {
+    margin-left: 36px !important;
+}

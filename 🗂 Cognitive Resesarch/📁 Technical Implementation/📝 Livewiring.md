@@ -16,3 +16,5 @@ Change only becomes hard to "save" when there's emotional intentions that recomm
 So, getting back to the real implementation, I think the "brain" would need to know when a module is added or removed. The real optimization with more modules is parallelism — the processing power gets delegated accross the whole cluster.
 
 This would also make it portable to handheld devices with less power. It could be made faster by extending the handheld device with modules in the net. The problem would come when having clones. You can't have clones. they will become different as they do things and merging might result in weird results. So this would mean that you can only run one mind at a time whether it's on your local network at home, remotely or offline in your handheld device.
+
+[[🌎 "T2Tile" and "Living Computation"]] Seems to be exactly or very similar to my philosophy of how hardware should work to support "Livewiring".

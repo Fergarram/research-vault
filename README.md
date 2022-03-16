@@ -10,11 +10,9 @@ I need to keep the goal obvious: To make an artificial mind capable of speaking 
 I got inspired by this: [[🎥 "Comprehensive Obsidian Zettelkasten Workflow"]]
 
 
-
 ## On managing resources
 
 [[👨🏻‍💻 Resources]]
-
 
 
 ## Collaboration

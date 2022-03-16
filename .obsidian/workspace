@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b4db1cf4a61c2460",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2489a9178fe8f36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guide/📬 TODO.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01922d988f49440f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5177ba6772f4fe45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb68ff78ce792447",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "79040fcc9927e262",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#list",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc2f2cf1b1618891",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87f06400432ec88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8785f01e238ef62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guide/📬 TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b2489a9178fe8f36",
+  "lastOpenFiles": [
+    "Guide/📬 TODO.md",
+    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Attention & Focus.md",
+    "🗂 Cognitive Resesarch/📁 Technical Implementation/❓ List of problems for ego-cells to solve.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/📝 Cognitive Architecture.md",
+    "Guide/👨🏻‍💻 Resources.md",
+    "🗂 OS Research/🔤 Glossary.md",
+    "🗂 OS Research/💡 OS Development Notes.md",
+    "🗂 OS Research/📝 File Systems.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md"
+  ]
+}

@@ -1,6 +1,6 @@
 #list [[📝 Ego Cells]]
 
-Syntax highlighting, and some types of text parsing might be good sample use cases for ego-cells. 
+Syntax highlighting, and some types of text parsing might be good sample use cases for ego cells. 
 
 Focus goes letter by letter and there’s an amount of time or space that denotes whether it’s part of a word and same applies for words inside phrases.
 

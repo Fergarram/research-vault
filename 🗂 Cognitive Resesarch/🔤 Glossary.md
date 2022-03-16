@@ -8,3 +8,4 @@
 * [[📝 Artificial Worlds]]
 * [[📝 Developmental Training]]
 * [[📝 Analogue Controls]]
+* Alife: stands for artificial life!

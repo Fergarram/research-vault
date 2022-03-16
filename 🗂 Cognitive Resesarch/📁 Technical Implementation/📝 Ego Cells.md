@@ -36,36 +36,36 @@ int
 main()
 {
 	int variable = 123;
-	myFunction( "const param", variable );
-
 	...
 
 ```
 
-=== NOTES
 If I were to process this only being able to look at a small part (visually speaking) at a time, in my mind I would know that since I already saw an opening for a function definition, I know that what's next corresponds to an inner scope of that function.
 
-Visually, what helps me is indentation. This is something that could also be processed by being aware of how much actual space there is between the words in a bi-dimensional way. not only how much space there is horizontaly by also vertically. It denotes groupings and scope.
+	=== NOTES ABOUT [[🧩 Attention & Focus]]
+	So, basically the way to implement visual focus is by being able to see the general shape, so instead of being able to process each individual character we can see if a place in a grid is filled or not:
+
+```
+	00
+	000000         <-- I can see the specific characters, only the filling
+	0
+		nnn iiiiiiii m 000i    <-- If closer, maybe an aproximation
+		myFunction( "const param", variable );
+
+		...
+
+```
+
+	I don't know exactly how to interpolate this to different scope scales but I think this is a good path forward.
+	=== /
+
+Visually, what helps me is indentation. This is something that could also be processed by being aware of how much actual space there is between the words in a bi-dimensional way. Not only how much space there is horizontaly by also vertically. It denotes groupings and scope.
 
 Another example of the mental flexibility and resiliency is for example when I need to read badly formatted code. Analyzing the process where I format it in order to understand it could also be benenficial for this research.
 
 This reminds me of slow vs fast thinking. If my understanding is correct, there's a fast way to quickly get an impression and work with that vs reading it bit-by-bit kinda like a computer would do it.
-=== /
 
-
-=== NOTES
-When I personally look at the code example, it goes like this:
-
-1. My mind first recognizes that there's a chunk of code that runs something.
-2. I look at the `int main() {` part to know that I'm at the **name** of this chunk of code.
-3. I get an idea of how big is this chunk of code.
-
-Almost because of "culture", I can assume that `main` is the block that will be executed first.
-
-This is how I go about reading, but reading doesn't change the model of how I know this langauge works.
-=== /
-
-Going into the details, I can look at the **name** to see what this block of execution is about. So it says `int`, `main()`, `{`. For this specific language, I know that `int` is a **primitive**. and that whenever there's a **word** with parenthesis next to the right it means that I'm looking at a function. Since there's **typename** at the left without an **identifier** and after the name there's an opening curly brace, I can be sure that this is a **funciton definition**. If the curly brace was instead a `;` semicolon I would know this is **declaration**.
+Going into the details, I can look at the **name** to see what this block of execution is about. So it says `int`, `main()`, `{`. For this specific language, I know that `int` is a **primitive**. and that whenever there's a **word** with parenthesis next to the right it means that I'm looking at a function. Since there's **typename** at the left with an **identifier** and after the name there's an opening curly brace, I can be sure that this is a **funciton definition**. If the curly brace was instead a `;` semicolon I would know this is **declaration**.
 
 This is just a brief sneakpeak into my mental model of how C syntax works mixed with my mental model of what programming languages can do and how they are used.
 
@@ -75,9 +75,8 @@ Execution of this program would be on a different scope/mental model, though. Ov
 
 You need a source of truth. One that says if an assumption is correct. An entity that adds weight.
 
-```
-Re-reading notes after about a week an a half
-```
+
+### Re-reading notes after about a week an a half
 
 I'm realizing that the importance of these ideas goes around the fact that there are models that represent given mechanics. These models can be created based on direct experience, like in the exercise above, but there are also models that are very specific and have very well defined rules. For example, The C programming language's syntax rules can be represented to a very exact match with a mental model. One that doesn't necessarily emulate my own way of thinking and **reading** the code.
 
@@ -110,11 +109,12 @@ For example:
 
 I can write more test cases and look at my own thought process.
 
+At some part I might also encounter expectations where syntax is broken, this could present as an opportunity to present a fix.
+
 ## Rules for MD
 
 Documents have text characters:
-* abc123!@#$ ...
-* empty
+* abc123!@#$ ... (includes 'spaces', tabs would break as spaces)
 
 Not sure about this one:
 ```
@@ -151,3 +151,4 @@ Block types are:
 I think the goal is to be able to ask questions like "what does this part represent?" while pointing to a selection of the text buffer in the input, or like asking an ego cell "who are you?"
 
 Also, I think in order for this experiment to be successful, every rule must be represented with ego cells. So, for example, a character is an ego cell.
+
