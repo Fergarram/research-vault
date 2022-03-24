@@ -1,1 +1,1 @@
-Mainly stuff from the HTM framework. It may be worth bringing my [[📑 "HTM Abstract" - On Intelligence Summary]] document here.
+Mainly stuff from the HTM framework. It may be worth bringing my [[📕 "On Intelligence" -  HTM Abstract]] document here.

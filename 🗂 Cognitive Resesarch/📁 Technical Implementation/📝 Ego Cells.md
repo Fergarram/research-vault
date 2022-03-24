@@ -126,7 +126,8 @@ Text characters have coords:
 Documents have blocks.
 Blocks are made of text characters.
 
-There are two main block kinds:
+There are three main block kinds:
+* in-line
 * single-line
 * multi-line
 
@@ -148,7 +149,27 @@ Block types are:
 * Proximity
 * Identity
 
-I think the goal is to be able to ask questions like "what does this part represent?" while pointing to a selection of the text buffer in the input, or like asking an ego cell "who are you?"
 
-Also, I think in order for this experiment to be successful, every rule must be represented with ego cells. So, for example, a character is an ego cell.
 
+
+## Prototype
+
+### Goal and rules
+
+The goal is to create a program that with a given markdown file, the ego cells can detect what part of a model they are based on proximity and information available to each cell.
+
+This program is not intended to learn or to improve as the mental model would be initially loaded (proximity rules and temporal memory).
+
+The long term goal with this experiment is to be able to create a program that can allow for the creation of mental models defined by rules through an interface so that one could, for example, create parsers for multiple languages. 
+
+This program would initially be only for character grids, but the aim would be to take those same principles and be able to use other types of inputs.
+
+
+### Assumptions
+
+Given simple proximity rules and access to temporal memory, it's possible to implement an accurate markdown parser or any other programming language parser which can also detect errors and possible solutions based on the expectations.
+
+
+### Explorations
+
+I'm expecting to find conclusions about the difference between dynamically-learned mental models and hardcoded mental models. I'm hoping to find some principles of mental model encoding and some insights about the general mechanics of using cells and proximity rules (cellular automata) to convert a raw set data to abstracted concepts.

@@ -29,6 +29,12 @@ https://cognitive-ai-panel.webflow.io/panels
 
 ## Books
 
+The Book of Minds
+by Philip Ball
+Publishing date: 23 June 2022
+Notes: I think this might be a new game changer book for my research, kinda like finding out about Numenta or Joscha Bach.
+https://play.google.com/store/books/details/Philip_Ball_The_Book_of_Minds?id=-WBKEAAAQBAJ
+
 Consciousness and the Social Brain
 by Michael S. A. Graziano
 https://www.amazon.fr/Consciousness-Social-Brain-Michael-Graziano-ebook/dp/B00E1HGJOE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
