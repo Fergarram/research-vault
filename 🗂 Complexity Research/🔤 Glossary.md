@@ -19,3 +19,5 @@
 - Onset of Chaos
 - Growth Rate
 - Initial conditions
+- Fractals
+- Fractal-like

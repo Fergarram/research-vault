@@ -8,7 +8,7 @@ These ideas can be merged, deleted, etc. or more can be added.
 
 * [[🧩 Mirror neurons]]
 * [[🧩 Analogies or Projections]]
-* [[🧩 Prediction]]
+* [[🧩 Prediction & Learning]]
 * [[🧩 Attention & Focus]]
 * [[🧩 Spatial or Network or Social Awareness]]
 * [[🧩 Runtime Modeling]]

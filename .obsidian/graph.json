@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#list",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,7 +18,7 @@
       "query": "file:📝",
       "color": {
         "a": 1,
-        "rgb": 13583428
+        "rgb": 4491215
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 15.6377551020408,
   "linkStrength": 0.477279974489796,
   "linkDistance": 105,
-  "scale": 1.7685797212807717,
+  "scale": 0.6797398871867645,
   "close": false
 }
