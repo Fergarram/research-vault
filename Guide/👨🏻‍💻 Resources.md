@@ -1,28 +1,30 @@
 #list
 
-In order to not fill my resources list with a bunch of shit, I need to have some rules as to how much content I can add before I use it.
-
-For example, for webistes, papers and videos, I can't have more than 3 unseen and unnoted resources. I have to write notes and tags for each so that they are nicely archived.
-
-
+This is not a TODO list. It's not guaranteed that everything here will be read.
 
 ## Papers
 
-“Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation” by Anthony Simeonov et al.
-https://arxiv.org/abs/2112.05124
+"Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex" by Numenta
+https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full
 
-“Vector Neurons: A General Framework for SO(3)-Equivariant Networks” by Congyue Deng et al. 
-https://arxiv.org/abs/2104.12229
+"A Theory of How Columns in the Neocortex Enable Learning the Structure of the World" by Numenta
+https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full
 
 "On Crashing the Barrier of Meaning in AI" by Melanie Mitchell
 https://melaniemitchell.me/PapersContent/AIMagazine2020.pdf
 
 
 
-## Websites
+## Websites or Articles
+
+A GPU Approach to Conway's Game of Life
+https://nullprogram.com/blog/2014/06/10/
+
+Efficient simulation execution of cellular automata on GPU
+https://www.sciencedirect.com/science/article/pii/S1569190X22000259
 
 Cognitive AI
-This is a collection of conferences by 4 people where Bach is one of them, they talk about aspects of cognition and it's artificial counterpart. They also write posts about that.
+> This is a collection of conferences by 4 people where Bach is one of them, they talk about aspects of cognition and it's artificial counterpart. They also write posts about that.
 https://cognitive-ai-panel.webflow.io/panels
 
 
@@ -30,29 +32,33 @@ https://cognitive-ai-panel.webflow.io/panels
 ## Books
 
 The Book of Minds
-by Philip Ball
-Publishing date: 23 June 2022
-Notes: I think this might be a new game changer book for my research, kinda like finding out about Numenta or Joscha Bach.
+> by Philip Ball
+> Notes: I think this might be a new game changer book for my research, kinda like finding out about Numenta or Joscha Bach.
+> _Publishing date: 23 June 2022_
 https://play.google.com/store/books/details/Philip_Ball_The_Book_of_Minds?id=-WBKEAAAQBAJ
 
+A Thousand Brains: A New Theory of Intelligence
+> by Jeff Hawkins
+https://www.amazon.com.mx/Thousand-Brains-New-Theory-Intelligence/dp/1541675819/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1649637149&sr=8-1
+
 Consciousness and the Social Brain
-by Michael S. A. Graziano
+> by Michael S. A. Graziano
 https://www.amazon.fr/Consciousness-Social-Brain-Michael-Graziano-ebook/dp/B00E1HGJOE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
 
 The Mind's I: Fantasies And Reflections On Self & Soul
-by Douglas R Hofstadter
+> by Douglas R Hofstadter
 https://www.amazon.com/Minds-Fantasies-Reflections-Self-Soul/dp/0465030912
 
 Complexity: A Guided Tour
-by Melanie Mitchell
+> by Melanie Mitchell
 https://www.amazon.com/gp/product/0199798109/ref=s9_simh_gw_p14_d0_i1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-4&pf_rd_r=1P50F9TV1NPZ4751AWY2&pf_rd_t=101&pf_rd_p=470938731&pf_rd_i=507846
 
 Out of the Cave: A Natural Philosophy of Mind and Knowing
-by Mark L. Johnson
+> by Mark L. Johnson
 https://www.amazon.com/Out-Cave-Natural-Philosophy-Knowing/dp/0262046210
 
 The Big Book of Concepts (A Bradford Book)
-by Gregory Murphy
+> by Gregory Murphy
 https://www.amazon.com/Big-Book-Concepts-Bradford/dp/0262632993
 
 

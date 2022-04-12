@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "External Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
+            "file": "Guide/👨🏻‍💻 Resources.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "External Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
+                "file": "Guide/👨🏻‍💻 Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1a9fd6b714a0f623",
   "lastOpenFiles": [
+    "Guide/👨🏻‍💻 Resources.md",
     "External Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
     "External Resources/📑 \"SCIENCE AND COMPLEXITY\" by WARREN WEAVER.md",
     "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Prediction & Learning.md",
@@ -96,7 +97,6 @@
     "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 3.md",
     "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 1.md",
     "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 2.md",
-    "🗂 Complexity Research/🔤 Glossary.md",
-    "🗂 Complexity Research/📝 Complexity Research.md"
+    "🗂 Complexity Research/🔤 Glossary.md"
   ]
 }
