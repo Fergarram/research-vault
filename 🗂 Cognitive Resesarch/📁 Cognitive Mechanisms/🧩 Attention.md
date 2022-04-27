@@ -1,6 +1,6 @@
 ## Notes from meditation session
 
-I was in a meditation session and visualized attention as an entity whose constantly called by different things, for example, thoughts and sensations. I also saw how there is focus which is what happens when something (someone) in the space of awareness gets “attention” to pay attention.
+I was in a meditation session and visualized attention as an entity whose constantly called by different things, for example, thoughts and sensations. I also saw how there is [[🧩 Focus]] which is what happens when something (someone) in the space of awareness gets “attention” to pay attention.
 
 I imagined little raised hands, little people each representing a thought, idea, sensation, sound, etc.
 

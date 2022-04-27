@@ -1,0 +1,1 @@
+Refering to the basic constructs for world modeling that are wired up starting when being conceived.

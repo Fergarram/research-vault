@@ -1,0 +1,2 @@
+## Present moment perception
+For [[🧩 Spatial or Network or Social Awareness]], there’s a [[🧩 Focus]] area like a circular gradient fixed on a central point illuminating it’s sueroundings, I think that the same approach can be replicated on the temporal pattern line and that would be called the present.

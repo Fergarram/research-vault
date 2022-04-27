@@ -42,8 +42,9 @@ main()
 
 If I were to process this only being able to look at a small part (visually speaking) at a time, in my mind I would know that since I already saw an opening for a function definition, I know that what's next corresponds to an inner scope of that function.
 
-	=== NOTES ABOUT [[🧩 Attention & Focus]]
-	So, basically the way to implement visual focus is by being able to see the general shape, so instead of being able to process each individual character we can see if a place in a grid is filled or not:
+
+=== NOTES ABOUT [[🧩 Attention]][[🧩 Focus]]
+So, basically the way to implement visual focus is by being able to see the general shape, so instead of being able to process each individual character we can see if a place in a grid is filled or not:
 
 ```
 	00
@@ -56,8 +57,8 @@ If I were to process this only being able to look at a small part (visually spea
 
 ```
 
-	I don't know exactly how to interpolate this to different scope scales but I think this is a good path forward.
-	=== /
+I don't know exactly how to interpolate this to different scope scales but I think this is a good path forward.
+=== /
 
 Visually, what helps me is indentation. This is something that could also be processed by being aware of how much actual space there is between the words in a bi-dimensional way. Not only how much space there is horizontaly by also vertically. It denotes groupings and scope.
 
@@ -173,3 +174,30 @@ Given simple proximity rules and access to temporal memory, it's possible to imp
 ### Explorations
 
 I'm expecting to find conclusions about the difference between dynamically-learned mental models and hardcoded mental models. I'm hoping to find some principles of mental model encoding and some insights about the general mechanics of using cells and proximity rules (cellular automata) to convert a raw set data to abstracted concepts.
+
+
+### Observations Post-start
+
+I've come to realize thtat there's an overwhelming set of ways to solve categorization problems. And that there are many possible cell types that could solve this problem.
+
+Having no real constraints on what cells can or can't do sets me up for frustration.
+
+My new take:
+
+Any type of artificial cell or mind needs to be created based on the host/animal and that needs to be set based on the needs for that host to survive, then those needs need to be set by the rules in the world it lives.
+
+So, development needs to go Top-down instead of bottom-up:
+
+`God Intentions -> World -> Host -> Cells`
+
+In my case, I (God) want to create a world where different humans can play as animals with other virtual animals (AMIs) where the goal is to survive similar to an survival RPG with permadeath. The rules of this game (world) are set by the "God Intentions" or the developer's ideas for this game.
+
+Then once that's done, the host will have a set of survival requirements that will depend on mechanisms available to it that deal with understanding the world. Those mechanisms are created based on the world rules and are made up with "Cells" optimized to run on the laws/limitations of this world.
+
+### Continuation of this prototype
+
+I'll continue with the current type of Cell I'm developing. I'll take it as far as having something that can return a high-level set of blocks able to point to the details so that syntax highlighting would be possible.
+
+### On learning
+
+After working for some time on this prototype, I've come to the realization that when systems are not perfectly defined by hard rules it's hard or maybe impossible to arrive to an exact or finite model that can be followed by cells. This is where learning comes in. One can start by providing an initial model and some rules or high-level assumptions. Learning would be done with corrections. It reminds me of when learning a language, sometimes you don't understand the rules by describing them but by seeing multiple examples and contexts. I believe there's an algorithm or system that allows for stacking examples and validating them trying to see which new rules come out so that we can learn, it's probably some kind of map overlapping of sorts.

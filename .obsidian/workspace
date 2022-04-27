@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9fd6b714a0f623",
+        "id": "60a269dd4e8bb11c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Guide/👨🏻‍💻 Resources.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#list",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide/👨🏻‍💻 Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a9fd6b714a0f623",
+  "active": "60a269dd4e8bb11c",
   "lastOpenFiles": [
-    "Guide/👨🏻‍💻 Resources.md",
-    "External Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
-    "External Resources/📑 \"SCIENCE AND COMPLEXITY\" by WARREN WEAVER.md",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Prediction & Learning.md",
-    "Media/Joscha Bach's Cognitive Architecture of a Human (?).png",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/📝 Cognitive Architecture.md",
-    "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 3.md",
-    "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 1.md",
-    "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 2.md",
-    "🗂 Complexity Research/🔤 Glossary.md"
+    "🗂 Cognitive Resesarch/📁 The First Prototype/🧠 Brain dump for the first prototype.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Spatial or Network or Social Awareness.md",
+    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Time Perseption.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Biographical Memory.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 General Memory.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Mirror neurons.md",
+    "🧩 Developmental Modeling.md",
+    "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
+    "🗂 Cognitive Resesarch/📝 Cognitive Architecture.md"
   ]
 }

@@ -29,3 +29,12 @@
 .nav-folder-children .nav-folder-children {
     margin-left: 36px !important;
 }
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+    color: #d6a03e;
+    font-size: 1em;
+}
+
+.HyperMD-codeblock {
+    font-size: 1em;
+}

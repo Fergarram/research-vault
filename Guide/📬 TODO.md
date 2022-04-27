@@ -13,8 +13,3 @@
 ## Research, Study, Interview
 
 - [ ] Edit the podcast episode with Nick so that I can proceed to interview Alexander and others.
-
-
-## Optimizations
-
-- [ ] Setup a system where I periodically review all `#list`s like the [[❓ Words for analysis]] list or the [[📝 Cognitive Mechanisms]] list. Basically setup a research system.
