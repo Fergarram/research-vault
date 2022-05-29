@@ -14,6 +14,8 @@ It makes for a great show and social experiment kinda thing.
 
 It's a safe test environment. Why? because those artificial minds are not plugable into the real world. They would be limited to that fake world only.
 
+It would make sense to make the humans some kind of "witcher" type beings that aren't quite as the AMIs in there.
+
 
 ### Midnight idea about feelings
 

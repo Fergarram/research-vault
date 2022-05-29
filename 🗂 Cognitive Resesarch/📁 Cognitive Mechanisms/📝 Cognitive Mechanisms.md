@@ -6,14 +6,17 @@ Ideally, I want to be developing each of these mechanisms into full ideas that c
 
 These ideas can be merged, deleted, etc. or more can be added.
 
-* [[🧩 Mirror neurons]]
 * [[🧩 Analogies or Projections]]
-* [[🧩 Prediction & Learning]]
 * [[🧩 Attention]]
-* [[🧩 Spatial or Network or Social Awareness]]
-* [[🧩 Runtime Modeling]]
-* [[🧩 Time Perseption]]
+* [[🧩 Biographical Memory]]
+* [[🧩 Developmental Modeling]]
+* [[🧩 Focus]]
+* [[🧩 General Memory]]
 * [[🧩 Goal Setting]]
 * [[🧩 Mental Simulations]]
-* [[🧩 Biographical Memory]]
+* [[🧩 Mirror neurons]]
 * [[🧩 Motivation]]
+* [[🧩 Prediction & Learning]]
+* [[🧩 Runtime Modeling]]
+* [[🧩 Spatial or Network or Social Awareness]]
+* [[🧩 Time Perseption]]

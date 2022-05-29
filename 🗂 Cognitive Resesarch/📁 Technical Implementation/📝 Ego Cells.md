@@ -1,3 +1,15 @@
+## Abstract
+
+TODO
+
+
+## Experiments
+
+[[🔬 Ego Cells - Experiment 001]]
+
+
+## Background
+
 You basically have different units that represent an entity within a space of interactions. Each ego cell has a role within a model of something.
 
 Let's think of a real model of something, like a programming language.

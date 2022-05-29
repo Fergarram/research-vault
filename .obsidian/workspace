@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "60a269dd4e8bb11c",
+        "id": "41d6930f8eaf72f5",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Guide/📬 TODO.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guide/📬 TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "60a269dd4e8bb11c",
+  "active": "41d6930f8eaf72f5",
   "lastOpenFiles": [
-    "🗂 Cognitive Resesarch/📁 The First Prototype/🧠 Brain dump for the first prototype.md",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Spatial or Network or Social Awareness.md",
-    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Time Perseption.md",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Biographical Memory.md",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 General Memory.md",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Mirror neurons.md",
-    "🧩 Developmental Modeling.md",
+    "Guide/📬 TODO.md",
+    "README.md",
     "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
-    "🗂 Cognitive Resesarch/📝 Cognitive Architecture.md"
+    "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 1.md",
+    "🗂 Complexity Research/📝 Complexity Research.md",
+    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md",
+    "🗂 OS Research/📝 UI Design Language.md",
+    "🗂 OS Research/🧠 OS Development Notes.md",
+    "🗂 OS Research/🧠 Minimum Viable Interface.md",
+    "🗂 Complexity Research/🔤 Glossary.md"
   ]
 }

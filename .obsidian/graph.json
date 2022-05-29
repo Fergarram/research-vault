@@ -1,7 +1,7 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -18,14 +18,42 @@
       "query": "file:📝",
       "color": {
         "a": 1,
-        "rgb": 4491215
+        "rgb": 16770698
       }
     },
     {
       "query": "file:💬",
       "color": {
         "a": 1,
-        "rgb": 14729554
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:🔬",
+      "color": {
+        "a": 1,
+        "rgb": 5341906
+      }
+    },
+    {
+      "query": "file:❓",
+      "color": {
+        "a": 1,
+        "rgb": 12914961
+      }
+    },
+    {
+      "query": "path:\"External Resources\"",
+      "color": {
+        "a": 1,
+        "rgb": 10303202
+      }
+    },
+    {
+      "query": "file:🧠",
+      "color": {
+        "a": 1,
+        "rgb": 15890607
       }
     }
   ],
@@ -39,6 +67,6 @@
   "repelStrength": 15.6377551020408,
   "linkStrength": 0.477279974489796,
   "linkDistance": 105,
-  "scale": 0.23211377702493505,
+  "scale": 0.22668820756354038,
   "close": false
 }

@@ -8,8 +8,6 @@ https://people.physics.anu.edu.au/~tas110/Teaching/Lectures/L1/Material/WEAVER19
 
 [[📝 Complexity Research]]
 [[👨🏻‍💻 On Publishing]]
-[[🏷 Science]]
-[[🏷 Ethics]]
 
 ## Summary
 
