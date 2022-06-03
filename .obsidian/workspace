@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
+            "file": "Guide/👨🏻‍💻 On Publishing.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
+                "file": "Guide/👨🏻‍💻 On Publishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "active": "41d6930f8eaf72f5",
   "lastOpenFiles": [
+    "Guide/👨🏻‍💻 On Publishing.md",
     "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
+    "External Resources/🐦 Tweet about actions by @tommoor.md",
+    "🗂 OS Research/📝 OS Research.md",
+    "🗂 OS Research/📝 Actions.md",
     "🗂 Cognitive Resesarch/📁 World Building/📝 Analogue Controls.md",
+    "🗂 OS Research/📝 Universal Data Portability.md",
     "External Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
     "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Spatiotemporal or Network or Social Awareness.md",
-    "🗂 Cognitive Resesarch/📁 The First Prototype/🧠 Brain dump for the first prototype.md",
-    "Guide/👨🏻‍💻 Resources.md",
-    "Guide/📬 TODO.md",
-    "README.md",
-    "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 1.md",
-    "🗂 Complexity Research/📝 Complexity Research.md"
+    "🗂 Cognitive Resesarch/📁 The First Prototype/🧠 Brain dump for the first prototype.md"
   ]
 }

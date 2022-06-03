@@ -1,5 +1,4 @@
-## Links / Tags
-#resource/tweet [[📝 Universal Data Portability]]
+#resource/tweet
 
 ```
 "actions" are the secret here – an abstraction that defines every mutation and user interaction in Linear including it's shortcut.
