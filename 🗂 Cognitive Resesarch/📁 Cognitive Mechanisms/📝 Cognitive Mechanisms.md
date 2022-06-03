@@ -18,5 +18,5 @@ These ideas can be merged, deleted, etc. or more can be added.
 * [[🧩 Motivation]]
 * [[🧩 Prediction & Learning]]
 * [[🧩 Runtime Modeling]]
-* [[🧩 Spatial or Network or Social Awareness]]
+* [[🧩 Spatiotemporal or Network or Social Awareness]]
 * [[🧩 Time Perseption]]

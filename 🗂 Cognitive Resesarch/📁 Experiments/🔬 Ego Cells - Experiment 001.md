@@ -1,11 +1,10 @@
-
 ## Introduciton
 
 Before I explain what this experiment is about, let me tell you about a type of neuron that I'm calling "Ego Cells". Essentially, an ego cell's purpose is to identify itself as a part of a larger model or system to constantly update its identity based on its surroundings.
 
 So for example, an ego cell could represent a letter in a word or a word in a sentence. It could also represent a person in a group of people. The main idea behind this type of cell is that it will constantly verify if its identity is correct based on its input and the relationships and interactions with neighboring cells.
 
-In other words, ego cells serve as a way to infer conclusions about raw data in relation to a model of a system. You can read my raw ideas about ego cells in my [research vault](https://github.com/Fergarram/research-vault) if you're brave.
+In other words, ego cells serve as a way to infer conclusions about raw data in relation to a model of a system. You can read my uneloquent raw ideas about ego cells in my [research vault](https://github.com/Fergarram/research-vault).
 
 
 ## Goals
@@ -18,8 +17,11 @@ I started this experiment with the intentions of discovering general observation
 What I came to realize is that my mental model of markdown has some weaknesses — it's not as rigid as I thought. This complicated my process but at the same time it showed me how rigid models depend on hard non-overlapping rules.
 
 {`@NOTE: What's a non-overlapping rule?"`}
+```
+Where are the hard-rules? I have to remember that there were a few initial ideas with this experiment. How do I represent a rigid model? Is it some kind of dead ego cell? Dead in the sense that it's not constantly validating itself but it can be updated by external mechanisms.
+```
 
-In my mental model, there's a high-level representation of markdown syntax which consists of the output it generates: headings 1 to 6, paragraphs, links, etc. Those are HTML elements and I know how they look when written in markdown syntax and what their intentions are within the scope of human communication. But when it came to the feature-level of rules, I found myself improvising or rather discovering the neighboring rules as I set myself to do so. What this means is that I came up with neighboring rules via trial-and-error only to figure out there could be a ton. I could argue that the high-level representation is based on my direct experience of the output or the actual rendering of the output HTML — Everything is text, Headings are big and vary in size, links are blue and clickable, lists have indentation and bullet points, code has a colored background,etc.
+In my mental model, there's a high-level representation of markdown syntax which consists of the output it generates: headings 1 to 6, paragraphs, links, etc. Those are HTML elements and I know how they look when written in markdown syntax and what their intentions are within the scope of human communication. But when it came to the feature-level of rules, I found myself improvising or rather discovering the neighboring rules as I set myself to do so. What this means is that I came up with neighboring rules via trial-and-error only to figure out there could be a ton. I could argue that the high-level representation is based on my direct experience of the output or the actual rendering of the output HTML — Everything is text, Headings are big and vary in size, links are blue and clickable, lists have indentation and bullet points, code has a colored background, etc.
 
 What I suspect is that we are always trying to figure out the low-level or "feature" details about our high-level models. Constantly re-evaluating them. This is what ego cells are for. But ego cells are not the whole system. There's obviously a very important part which is the process by which the system learns and "thinks" about new rules which then goes and validates.
 
@@ -56,20 +58,45 @@ Initially, I thought that some kind of memory was going to be needed to keep tra
 
 This leaves me with either using a memory and/or using some kind of sequential pattern recognition cell type. I'm still not sure about how, but it's clear that since the nature of written language i.e. markdown is sequential, a cell for this would make sense to exist.
 
-`NOTES TO MYSELF:`
-```
-The current problem is recognizing the fact that I need sequential cells to fully represent my internal model of markdown.
 
-The problem comes down to that — be able to abstract the problem of parsing markdown into the tempo-spatial mechanisms that allow for processing that information into relevant conclusions about that data.
+## Walls and limits — Are these place cells?
+
+Initially, I was thinking that there shouldn't be a need to keep track of walls, but this turned out to be necessary. Raycasting means collision and a ray cannot go forever into a boundless canvas. At least mentally for me that's not the case when I look at a text file — I know it has a start and an end. This is an important concept. I don't know if or how it translates into cells but there has to be a connection.
+
+
+## Lattices
+
+Every cell is preconnected through a lattice. Those neighboring connections represent the basis of their spatial interactions. In the same way, cells need to be preconnected through a string representing sequence or time. Walls and/or corner cells would work similarly.
+
+Since one of the limits I set for this experiment was to not use absolute coordinates as data available to cells, they instead have connections to cells representing important relative information about their position in space, time and any other dimension that could be needed.
+
+Lattices function as some kind of organ tissue. The function of the organ in this analogy would be to parse markdown or anything else that can be represented spatially and sequentially within a grid.
+
+
+## General ideas (rename this heading)
+
+I think that more experiments will lead to discovering more patterns about how to represent and store information in transparent human semi-readable way. I have a feeling that all models are based on low-level spatiotemporal relationships between feature cells. The higher up the less "tangible" things are. I could be wrong but this is a feeling I have.
+
+I'm also very interested in the "self-modifying" aspect of this approach. What I mean by that is, I'm interested in creating a system that can determine the preconnections of a tissue based on a given problem. I think this is where the real magic happens.
+
+
+`@NOTES: What's next`
+```
+I'm probably gonna need to finish the whole experiment and walk through the code in a video format before publishing this.
+
+This experiment being the first one sure overwhelmes me. But it makes me happy to see a path, blurry but there it is.
+
+I don't really know where to move next. I think it would be to implement spatial and temporal raycasting cells. But I need to develop the conceptual cell for that.
+
+I also need to remember to mention my reasoning behind the limits I'm setting and show that cell dendrite diagram I made.
 ```
 
-{`@LOST: I'm probably gonna need to finish the whole experiment and walk through the code in a video format before publishing this.`}
+In theory this system would allow for error detection mechanisms. But that would be proven later on a different experiment probably.
 
 ---
 
 Vault Relationships:
 
-- [[🧩 Spatial or Network or Social Awareness]]
+- [[🧩 Spatiotemporal or Network or Social Awareness]]
 - [[🧩 Time Perseption]]
 - [[🧩 Runtime Modeling]]
-- 

@@ -3,7 +3,7 @@
 ## Related Topics
 
 [[📝 Complexity Research]]
-[[🧩 Spatial or Network or Social Awareness]]
+[[🧩 Spatiotemporal or Network or Social Awareness]]
 
 
 # What is complexity?
@@ -51,5 +51,5 @@ Props:
 	- Evolution and learning (adaptation)
 
 Ideas:
-- Space representations ([[🧩 Spatial or Network or Social Awareness]]) seem to be analogous to network representations. I used to think that visual patterns lead to the idea of space and layout but I think it's the other way around. Network representaions lead to patterns that can be represented visually.
+- Space representations ([[🧩 Spatiotemporal or Network or Social Awareness]]) seem to be analogous to network representations. I used to think that visual patterns lead to the idea of space and layout but I think it's the other way around. Network representaions lead to patterns that can be represented visually.
 - One can't represent complex systems with static representations (like equations) because it would mean that one would need an equation per part per moment that flows through time. Maybe lol.

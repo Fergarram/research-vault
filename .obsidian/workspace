@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guide/📬 TODO.md",
+            "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 339
   },
   "right": {
     "id": "dc2f2cf1b1618891",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide/📬 TODO.md",
+                "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5,
+    "collapsed": true
   },
   "active": "41d6930f8eaf72f5",
   "lastOpenFiles": [
+    "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
+    "🗂 Cognitive Resesarch/📁 World Building/📝 Analogue Controls.md",
+    "External Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
+    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/🧩 Spatiotemporal or Network or Social Awareness.md",
+    "🗂 Cognitive Resesarch/📁 The First Prototype/🧠 Brain dump for the first prototype.md",
+    "Guide/👨🏻‍💻 Resources.md",
     "Guide/📬 TODO.md",
     "README.md",
-    "🗂 Cognitive Resesarch/📁 Experiments/🔬 Ego Cells - Experiment 001.md",
     "External Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 1.md",
-    "🗂 Complexity Research/📝 Complexity Research.md",
-    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md",
-    "🗂 OS Research/📝 UI Design Language.md",
-    "🗂 OS Research/🧠 OS Development Notes.md",
-    "🗂 OS Research/🧠 Minimum Viable Interface.md",
-    "🗂 Complexity Research/🔤 Glossary.md"
+    "🗂 Complexity Research/📝 Complexity Research.md"
   ]
 }

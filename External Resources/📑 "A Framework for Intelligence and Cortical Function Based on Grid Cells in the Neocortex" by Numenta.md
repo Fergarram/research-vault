@@ -7,7 +7,7 @@ https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full
 ## Related Topics
 
 [[📝 Ego Cells]]
-[[🧩 Spatial or Network or Social Awareness]]
+[[🧩 Spatiotemporal or Network or Social Awareness]]
 [[🧩 Analogies or Projections]]
 
 ## Notes
