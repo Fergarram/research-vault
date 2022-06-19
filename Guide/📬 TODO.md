@@ -4,5 +4,5 @@
 
 ----------------------------------------------------------------------------
 
-- [-] Finish the ego cells experiment [[🔬 Ego Cells - Experiment 001]]
+- [-] Finish the ego cells experiment [[🔬 Experiment 001 - Ego Cells]]
 - [ ] Review all the `#lists`, specially the [[❓ Words for analysis]] one

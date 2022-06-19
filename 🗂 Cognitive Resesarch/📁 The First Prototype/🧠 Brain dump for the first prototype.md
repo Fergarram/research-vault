@@ -53,4 +53,4 @@ Even characters themselves could be zoomed-in and seen as grids of pixels  repre
 * Color Space Representation
 	* Contrast representation, etc.
 
-{`@NOTE: I watched this video as I was typing the above: https://www.youtube.com/watch?v=JxI3Eu5DPwE`}
+%%`@NOTE: I watched this video as I was typing the above: https://www.youtube.com/watch?v=JxI3Eu5DPwE`%%

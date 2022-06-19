@@ -1,9 +1,9 @@
-Why is there no memory loss when half a brain is removed?
+Why is there no memory loss when a brain's hemisphere is removed?
 
 Here's some context:  
 [https://www.scientificamerican.com/article/strange-but-true-when-half-brain-better-than-whole/](https://www.scientificamerican.com/article/strange-but-true-when-half-brain-better-than-whole/)
 
-When it comes to the physical architecture of a computer/brain for an artificial mind, I envision having a functionality much like the brain where you can remove half of it and it will re-adapt.
+When it comes to the physical architecture of a computer/brain for an artificial mind, I envision having a functionality much like the brain where you can remove the simetrical half of it and it will re-adapt.
 
 To be able to implement something like this with electronics, I imagine a cluster of computer modules (much like a Rasp Pi module cluster) where you can simply replace one with a new one.
 
@@ -17,4 +17,10 @@ So, getting back to the real implementation, I think the "brain" would need to k
 
 This would also make it portable to handheld devices with less power. It could be made faster by extending the handheld device with modules in the net. The problem would come when having clones. You can't have clones. they will become different as they do things and merging might result in weird results. So this would mean that you can only run one mind at a time whether it's on your local network at home, remotely or offline in your handheld device.
 
-[[🌎 "T2Tile" and "Living Computation"]] Seems to be exactly or very similar to my philosophy of how hardware should work to support "Livewiring".
+
+---
+
+Vault Relationships:
+
+- [[📑 "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex" by Numenta]]
+- [[🌎 "T2Tile" and "Living Computation"]]

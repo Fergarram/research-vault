@@ -38,3 +38,7 @@
 .HyperMD-codeblock {
     font-size: 1em;
 }
+
+.cm-comment:not(.cm-inline-code) {
+    color: #808080 !important;
+}

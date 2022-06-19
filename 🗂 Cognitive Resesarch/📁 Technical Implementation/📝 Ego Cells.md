@@ -5,7 +5,7 @@ TODO
 
 ## Experiments
 
-[[🔬 Ego Cells - Experiment 001]]
+[[🔬 Experiment 001 - Ego Cells]]
 
 
 ## Background
