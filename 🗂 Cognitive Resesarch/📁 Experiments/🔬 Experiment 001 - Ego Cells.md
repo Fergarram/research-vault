@@ -1,6 +1,6 @@
 %%`@TODO`
-[ ] Work on a different version of the current program where each cell is not in every layer.
-[ ] What's the end point? I think the end point is actually using the gen algo to get the end result — stick to the end, it's worth it.
+[ ] Follow the cell specs to implement that.
+[ ] Implement GA pipeline that works with OpenCL.
 %%
 
 
@@ -13,9 +13,10 @@ Essentially, an ego cell's purpose is to identify itself as a part of a larger m
 So for example, an ego cell could represent a letter in a word or a word in a sentence. It could also represent a person in a group of people.
 
 
-## Goals
+## Experiment goals
 
 I started this experiment with the intentions of exploring this type of CA (cellular automata). I wanted to know how feasable it was to implement a small program that converts characters in a markdown file into multiple layers of ego cells that determines which syntactical component within markdown's syntax it represents. One could "ask" each character if they are part of a heading 3 or if they are part of the URL in a link, etc.
+
 
 ### How does this integrate into the big picture?
 
@@ -24,11 +25,6 @@ Essentially I need a way to represent agent-based models that's flexible enough 
 For example, characters can be linked to words and words to named experiences. At the same time named experiences can be linked to sensations to other people to names to producing hormones to contracting muscles and so on. Following the biological analogy, this example would cover a very large set of systems that would be made of organs which would be made of different types of tissues which in turn are made of different types of cells.
 
 Thus, this first experiment aims to explore how an software implementation would look like that follows this train of thought with which a [[📝 Cognitive Architecture]] could be implemented.
-
-
-## Summary
-
-By using pre-connected cell lattices and custom cells one can solve a categorization problem within a world, in this case a finite spatiotemporal world.
 
 
 ## Cell taxonomy and preconnections
@@ -76,6 +72,16 @@ Since one of the limits I set for this experiment was to not use absolute coordi
 We want to have preconnected tissue in order to be specific about the type of space or substrate that it's going to be sovling problems in.
 
 
+## Using genetic algorithms
+
+This experiment is divided into two sections:
+
+1. designing and developing a system that allows Ego Cells to exist and;
+2. implementing a genetic algorithm that based on training data, it can learn to find the best neighboring rules that correctly parse markdown.
+
+This article you're reading corresponds to the first part. The second part is soon to be published.
+
+
 %%` @NOTES: Memory and sequential patterns` 
 Compared to spatial pattern recognition which is what the ego cells are currently doing, sequential pattern recognition presents itself as another essential building block.
 
@@ -90,7 +96,7 @@ Initially, I was thinking that there shouldn't be a need to keep track of walls,
 %%
 
 %%`Spatial frameworks for modeling spatial systems`
-While I was working on this experiment I was also reading papers such as [[📑 "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex" by Numenta]]. This paper proposes a framework for model-making that's based on the spatial properties and representations of objects in time. This research is based on humans and other animals which exist in and perceive this three-dimensional and physical world. I'm bringing this up because I couldn't help myself but come to hypothesize that for a 2D world made up of symbols in a grid, there has to be a similar approach that requires some analogous form of 2D grid cells, which takes me back to the previous paragraph where I mentioned a kind of coordinate system.
+While I was working on this experiment I was also reading papers such as "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex" by Numenta (linked at bottom of this page). This paper proposes a framework for model-making that's based on the spatial properties and representations of objects in time. This research is based on humans and other animals which exist in and perceive this three-dimensional and physical world. I'm bringing this up because I couldn't help myself but come to hypothesize that for a 2D world made up of symbols in a grid, there has to be a similar approach that requires some analogous form of 2D grid cells, which takes me back to the previous paragraph where I mentioned a kind of coordinate system.
 
 My new theory is that there has to be a similar framework for strictly two-dimensional grid-based spaces which requires the existance of multiple cell types or cell interactions. A universe's number of spatial dimensions and laws would determine how such a framework would be used.
 
@@ -114,7 +120,7 @@ For example, I initially thought that some kind of memory would be needed to kee
 %%
 
 
-## Conclusion
+## Concluding observations
 
 %%`@NOTES: Concluding this experiment`
 - Cellular Automata Tissue as attractor mechanism (attractor being markdown syntax)
@@ -132,3 +138,5 @@ Vault Relationships:
 - [[🧩 Spatiotemporal or Network or Social Awareness]]
 - [[🧩 Time Perseption]]
 - [[🧩 Runtime Modeling]]
+
+- [[📑 "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex" by Numenta]]

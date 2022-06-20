@@ -26,11 +26,13 @@ Paragraph text goes here
 
 So this would result in:
 ```
-Line 1 -> Heading 1
-Line 2 -> Space
-Line 3 -> Paragraph
-Line 4 -> List item
-Line 5 -> List item
+Line 1 -> Heading 1 (B1)
+Line 2 -> Empty (B1)
+Line 3 -> Paragraph Line (B2)
+Line 4 -> Paragraph Line (B2)
+Line 5 -> Paragraph Line (B2)
+Line 6 -> List item (B3)
+Line 7 -> List item (B3)
 ```
 
 I'm sure there can be a more complete approach that covers all of markdown features, but this is the minimal experiment requirements.
