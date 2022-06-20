@@ -1,5 +1,7 @@
 I need to set a finite and tangible first prototype of a world, mind and implementation. Because I speculate on the optimal idea where there's this virtual assistant that is my digital artificial friend and stuff but I need an initial prototype.
 
+First step is to build a world with animals — a virtual ecosystem. Then, when that is functional and robust, give some animals the organs that allow communication through written text.
+
 ## Ideas
 
 ### Make it literally be an MMORPG.
