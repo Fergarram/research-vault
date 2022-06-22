@@ -3,6 +3,21 @@
 [ ] Implement GA pipeline that works with OpenCL.
 %%
 
+%%`@QUICK NOTES`
+
+It's important to remember that this problem is divided in 3 parts:
+
+1. The master truth model
+2. The instancing mechanism - ego cells
+3. the neighboring rules with genetic algorithms
+
+Experiment 001a focuses on Part 2.
+Experiment 001b focuses on Part 3.
+
+Questions:
+
+How much of a given buffer of text seems to be markdown? The answer reveals the amount of error or mismatch against the truth model.
+%%
 
 ## Introduciton
 
@@ -42,25 +57,76 @@ I have to say that I'm not doing Token Cells since that's the job of the genetic
 ### Character Cells (Ego Cell)
 
 This is the obvious cell type. We need a way to represent characters in space. They are conencted 3 cells to their left and right and only 1 cell up and down. Each is also connected to the current, top and bottom Line Cells. For representing sequence, they are connected to the previous and next cells with a reach of 3 neighbors; if the next cell is in the line above or below, it will connect to it regardless.
+
 %% `Insert Diagram Here` %%
+
+`Connection Index`
+```
+N0..2 = Left Neighbors
+N3..5 = Right Neighbors
+TN = Top Neighbor
+BN = Top Neighbor
+PN = Previous Neighbor
+NN = Next Neighbor
+TL = Top Line
+BL = Bottom Line
+CL = Current Line
+```
+
+`Possible Self States`
+```
+These are the "hard truths we know" divided into 3 layers:
+
+1. One of all characters categories or NULL (16 + 1)
+2. One of all possible sub-blocks or NULL (10 + 1)
+3. One of all possible blocks or NULL (9 +1)
+```
+
+Remember that a connection between cells mean they may have access to each state type if needed, so for example, between Character Cells they can read all 4 "layers" of state.
 
 
 ### Border Cells (Impostor Ego Cell)
 
 These can pretend to be any type of Ego Cell and their value is always the same — null. Real Ego Cells are connected to them when close to the border of the tissue thinking they are "living" neighbors.
+
 %% `Insert Diagram Here` %%
 
 
 ### Line Cells (Ego Cell)
 
-These are connected to a row of Character Cells in order to represent the "line" abstraction probably needed to parse markdown.
+These are connected to a row of Character Cells in order to represent the "line" abstraction probably needed to parse markdown. These cells can determine their state based on what each Character Cell tells them and each Character cell can also read the state of the Line Cell.
+
 %% `Insert Diagram Here` %%
+
+`Connection Index`
+```
+C0..127 = Character Cells within the row
+```
+
+`Possible Self States`
+```
+1. One of all possible blocks or NULL
+```
 
 
 ### Block Cells (Ego Cell)
 
 These are anatomically similar to Line Cells. Each is connected to a Line Cell and each of their sibilings. Why? Because a single or multiple Line Cells could represent a Block. For example, a paragraph vs a heading.
+
 %% `Insert Diagram Here` %%
+
+`Connection Index`
+```
+L = Line Cell within the same row
+TB0..126 = Every other Block Cell from top to bottom ???
+```
+
+`Possible Self States`
+```
+1. One of all possible blocks or NULL
+```
+
+At the time of writing this, I'm not sure if both Block Cells or Line Cells are needed since they do pretty much the same thing.
 
 
 ### More about preconnected lattices
@@ -82,7 +148,15 @@ This experiment is divided into two sections:
 This article you're reading corresponds to the first part. The second part is soon to be published.
 
 
-%%` @NOTES: Memory and sequential patterns` 
+## Problems
+
+To get to the state of this publication, I had to try different ideas in paper and code, educate myself more on the topics of complexity and cellular automata.
+
+%%`@NOTE: This paragraph below should be written in Fernando.Works Only`%%
+If you're interested in reading more about them, please make sure to visit my Obsidian repository where my personal notes are visible.
+
+
+%%`Memory and sequential patterns` 
 Compared to spatial pattern recognition which is what the ego cells are currently doing, sequential pattern recognition presents itself as another essential building block.
 
 Initially, I thought that some kind of memory was going to be needed to keep track of scopes (i.e. code block content vs paragraph content). Then, I thought maybe just spatial pattern recognition would be needed to identify scopes. But after realizing that links and inline-type blocks can wrap to new lines, nearest-neighboring rules can no longer solve the problem. This makes sense though. My original assumption about parsing markdown was that only top-down pattern recognition would be needed — my own sequential reading of the text went unnoticed by myself.
@@ -91,7 +165,7 @@ This leaves me with either using a memory and/or using some kind of sequential p
 %%
 
 
-%%` @NOTES: Walls and limits — Are these place cells?`
+%%`Walls and limits — Are these place cells?`
 Initially, I was thinking that there shouldn't be a need to keep track of walls, but this turned out to be necessary. Raycasting means collision and a ray cannot go forever into a boundless canvas. At least mentally for me that's not the case when I look at a text file — I know it has a start and an end. This is an important concept. I don't know if or how it translates into cells but there has to be a connection.
 %%
 
@@ -103,7 +177,7 @@ My new theory is that there has to be a similar framework for strictly two-dimen
 In this experiment's case, there are a few ideas I have in regards to defining a spatial framework for representing information about systems within this bi-dimensional world of markdown.
 %%
 
-%%`@NOTES: Problems`
+%%`Underestimating the parsing problem`
 What I came to realize is that my mental model of markdown has some weaknesses — it's not as rigid as I thought. This complicated my process but at the same time it showed me how rigid models depend on hard non-overlapping rules.
 
 In my mental model, there's a high-level representation of markdown syntax which consists of the output it generates: headings 1 to 6, paragraphs, links, etc. I know that a heading 1 starts with a hash for example.  But when it came to the feature-level of rules, I found myself improvising or rather discovering the neighboring rules as I set myself to do so.

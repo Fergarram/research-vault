@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4d23ee7ba7472880",
+        "id": "e9596c4ef87c3ba0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001 - Ego Cells.md",
+            "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001a - Ego Cells.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001 - Ego Cells.md",
+                "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001a - Ego Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "4d23ee7ba7472880",
+  "active": "e9596c4ef87c3ba0",
   "lastOpenFiles": [
-    "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001 - Ego Cells.md",
+    "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001a - Ego Cells.md",
+    "🗂 Cognitive Resesarch/📁 Words for analysis/❓ Words for analysis.md",
+    "🗂 Cognitive Resesarch/📁 Words for analysis/💬 Smell.md",
+    "🗂 Cognitive Resesarch/📁 Words for analysis/💬 Layout.md",
     "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001b - Genetic Algorithms on ECs.md",
     "🗂 Cognitive Resesarch/📁 The First Prototype/🧠 Brain dump for the first prototype.md",
     "Guide/📬 TODO.md",
     "🗂 Cognitive Resesarch/📁 Experiments/Temp.md",
     "🗂 Cognitive Resesarch/📁 Technical Implementation/❓ List of problems for ego-cells to solve.md",
-    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md",
-    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Technical Implementation.md",
-    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Livewiring.md",
-    "🗂 Cognitive Resesarch/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md"
+    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md"
   ]
 }

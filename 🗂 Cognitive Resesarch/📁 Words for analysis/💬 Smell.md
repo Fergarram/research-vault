@@ -1,0 +1,1 @@
+The sense of smell is often related to the decay of organic material or unedible objects, it's also for the contrary — to find food.

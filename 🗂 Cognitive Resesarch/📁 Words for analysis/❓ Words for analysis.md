@@ -6,6 +6,9 @@ For example, the word "Jump" refers to the action of jumping that a human may do
 
 You can create a pull request adding words and their descriptions.
 
+How many words does a child need to communicate in order to survive?
+How many does an adult need?
+
 ## List
 
 * Hide
@@ -21,3 +24,6 @@ You can create a pull request adding words and their descriptions.
 * uncertainty
 * Help
 * [[💬 Hindsight]]
+* Complicated
+* Confused
+* [[💬 Smell]]
