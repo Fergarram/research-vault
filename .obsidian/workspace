@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e9596c4ef87c3ba0",
+        "id": "d5e3ce13fe13d9d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001a - Ego Cells.md",
+            "file": "Guide/📬 TODO.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339
+    "width": 322
   },
   "right": {
     "id": "dc2f2cf1b1618891",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001a - Ego Cells.md",
+                "file": "Guide/📬 TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "e9596c4ef87c3ba0",
+  "active": "d5e3ce13fe13d9d2",
   "lastOpenFiles": [
-    "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001a - Ego Cells.md",
-    "🗂 Cognitive Resesarch/📁 Words for analysis/❓ Words for analysis.md",
-    "🗂 Cognitive Resesarch/📁 Words for analysis/💬 Smell.md",
-    "🗂 Cognitive Resesarch/📁 Words for analysis/💬 Layout.md",
-    "🗂 Cognitive Resesarch/📁 Experiments/🔬 Experiment 001b - Genetic Algorithms on ECs.md",
-    "🗂 Cognitive Resesarch/📁 The First Prototype/🧠 Brain dump for the first prototype.md",
     "Guide/📬 TODO.md",
-    "🗂 Cognitive Resesarch/📁 Experiments/Temp.md",
-    "🗂 Cognitive Resesarch/📁 Technical Implementation/❓ List of problems for ego-cells to solve.md",
-    "🗂 Cognitive Resesarch/📁 Technical Implementation/📝 Ego Cells.md"
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
+    "🗂 Cognitive Research/📁 World Building/📝 Analogue Controls.md",
+    "🗂 Cognitive Research/🔤 Glossary.md",
+    "🗂 Cognitive Research/📁 Words for analysis/❓ Words for analysis.md",
+    "🗂 Cognitive Research/📝 Cognitive Architecture.md",
+    "🗂 Cognitive Research/📁 World Building/📝 World Building.md",
+    "🗂 Cognitive Research/📁 World Building/📝 Artificial Worlds.md",
+    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Ego Cells.md"
   ]
 }

@@ -1,4 +1,8 @@
-# My Public Research Vault
+---
+title: My Public Research Vault
+---
+
+## Introduction
 
 This is a repository containing the Obsidian vault for all my research. I apologize for the lack of a better introduction here.
 

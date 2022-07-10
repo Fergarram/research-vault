@@ -1,4 +1,4 @@
-#list Used for [[📝 Complexity Research]]
+Used for [[📝 Complexity Research]]
 
 * Complex System
 * Simple agents / Components

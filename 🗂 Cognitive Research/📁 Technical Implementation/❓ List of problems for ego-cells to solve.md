@@ -1,4 +1,4 @@
-#list [[📝 Ego Cells]]
+[[📝 Ego Cells]]
 
 * ~~Syntax highlighting, and some types of text parsing might be good sample use cases for ego cells.~~
 

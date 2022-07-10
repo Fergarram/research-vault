@@ -7,48 +7,79 @@
 
 It's important to remember that this problem is divided in 3 parts:
 
-1. The master truth model
-2. The instancing mechanism - ego cells
-3. the neighboring rules with genetic algorithms
-
-Experiment 001a focuses on Part 2.
-Experiment 001b focuses on Part 3.
+Part 1 - The initial truth model
+Part 2 - The instancing mechanism - ego cells
+Part 3 - the neighboring rules with genetic algorithms
 
 Questions:
 
 How much of a given buffer of text seems to be markdown? The answer reveals the amount of error or mismatch against the truth model.
+
+--
+
+I think this experiment really focuses on finding a common structure that allows knowledge about the world to be stored in a human oreadable way.
+
+--
+
+The more posibilities of identities the less activated it is. In other words, the less sure it is about who it is.
+
+--
+
+I'm getting too ahead of myself with this experiment. Even though it may be possible to determine a set of rules that allow to parse markdown, the result is unpractical. The building blocks are not the same I use in my mind. I can look at words and paragraphs. Before markdown there is regular text and that's a prerequisite that is becoming obvious.
+
+--
+
+Finding out that my mental model of markdown has flaws is a sign of how this mechanism actually works underneath. I still don't know how exactly though. Everybody has unaccurate or ineffective mental models.
+
+I'm thinking about leaving this experiment as a failed one where I don't create a markdown parser. I think that I may benefit from finding a different problem to solve with the discoveries of this failed experiment.
+
+I do feel though that I would benefit from a detailed explanation of why this experiment failed. Also show the ideas that were not tested like the word/separator approach where it's clear that we need a mechanism to represent encapsulation or scopes and recursiveness.
+
+Also I think it's important to talk about being strict vs not, having the right requirements, and having unaccurate models.
+
+Given I do quit this experiment, what would the next step be?
+- Desiging the artificial world with the AKling approach and go from there.
 %%
 
 ## Introduciton
 
-[[📝 Ego Cells]] are a type cellular automata that I intend to use as a mechanism to dynamically parse raw data as instances of complex systems.
+[[📝 Ego Cells]] are a type cellular automata that I intend to use as a mechanism to dynamically parse data as instances of complex systems.
 
 Essentially, an ego cell's purpose is to identify itself as a part of a larger model or system to constantly update its identity based on its neighboring connections, although these connections are not necessarily always in a lattice.
 
 So for example, an ego cell could represent a letter in a word or a word in a sentence. It could also represent a person in a group of people.
 
 
-## Experiment goals
+## Purpose
 
 I started this experiment with the intentions of exploring this type of CA (cellular automata). I wanted to know how feasable it was to implement a small program that converts characters in a markdown file into multiple layers of ego cells that determines which syntactical component within markdown's syntax it represents. One could "ask" each character if they are part of a heading 3 or if they are part of the URL in a link, etc.
 
 
 ### How does this integrate into the big picture?
 
-Essentially I need a way to represent agent-based models that's flexible enough to implement cheaply on computers and pair with learning or genetic algorithms and other external computer programs. It seems to me that having a flexible tissue of cells that's able to determine how a raw data relates to a model is a good start.
+Essentially I need a flexible enough way to represent mental models that can be implemented cheaply on computers and paired with learning or genetic algorithms and other external computer programs. It seems to me that having a flexible tissue of cells that's able to determine how raw data relates to a model is a good start.
 
-For example, characters can be linked to words and words to named experiences. At the same time named experiences can be linked to sensations to other people to names to producing hormones to contracting muscles and so on. Following the biological analogy, this example would cover a very large set of systems that would be made of organs which would be made of different types of tissues which in turn are made of different types of cells.
+For example, letters can be linked to words and words to named experiences. At the same time named experiences can be linked to sensations to other people to names to producing hormones to contracting muscles and so on. Following this natural analogy, we want to be able to build cognitive organs and systems.
 
-Thus, this first experiment aims to explore how an software implementation would look like that follows this train of thought with which a [[📝 Cognitive Architecture]] could be implemented.
+Thus, this first experiment aims to explore how a software implementation would look like that follows this train of thought with which a [[📝 Cognitive Architecture]] could be implemented.
 
 
-## Cell taxonomy and preconnections
+## TL;DR
+
+For as simple as markdown may seem it requires quite a few building blocks that I didn't take into account when I was initially thinking about this first experiment. Trying to find the neighboring rules needed to create this parser tissue lead me to discovering that there is an unkown number of possible building blocks that can be used to describe markdown — it's not just characters in a grid and a high-level model.
+
+What I found out is that the high-level model is made up of other models (or building blocks) that may have derived from different sources. For example, I initially didn't think I would need to represent words as characters separated by spaces and other special characters or that parsing requires a representation of sequence. Assuming these and other things was naive but it lead to a richer headspace for me now.
+
+The next step would be to set the bar way lower and to focus on using the tools I developed in this experiment to try to solve easier problems than parsing markdown.
+
+
+## Discoveries: Cell taxonomy and preconnected tissue
 
 Ego cells can have subtypes that are connected differently in the tissue, there are also a few other helpful cells that are preconnected to them.
 
 Defining the reach of the neighborhood or the number of abstraction layers above the raw data is determined by the problem requirements and nature.
 
-In the case of parsing markdown, we could benefit from a larger neighborhood (so like 6 cells of radius) and maybe three layers above raw data representing lines, borders, and blocks.
+In the case of parsing markdown, we could benefit from a larger neighborhood (6 cells of radius) and three layers of abstraction to represent the cell's identification with special characters (a `#`) tokens (the `###`'s) and blocks (a heading level 3).
 
 Since I know the nature of parsing markdown, I can try to predict the needed reach in the tissue, not only that but also how they need to be preconnected — I'll talk about preconnections after explaining a bit more about each cell type needed to parse markdown.
 
@@ -136,16 +167,6 @@ Every cell is preconnected through a lattice. For example, neighboring connectio
 Since one of the limits I set for this experiment was to not use absolute coordinates as data available to cells, they instead have connections to cells representing important relative information about their position in space, time and any other dimension that would be needed.
 
 We want to have preconnected tissue in order to be specific about the type of space or substrate that it's going to be sovling problems in.
-
-
-## Using genetic algorithms
-
-This experiment is divided into two sections:
-
-1. designing and developing a system that allows Ego Cells to exist and;
-2. implementing a genetic algorithm that based on training data, it can learn to find the best neighboring rules that correctly parse markdown.
-
-This article you're reading corresponds to the first part. The second part is soon to be published.
 
 
 ## Problems

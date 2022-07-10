@@ -6,7 +6,7 @@
 [[🧩 Spatiotemporal or Network or Social Awareness]]
 
 
-# What is complexity?
+## What is complexity?
 
 Complex Systems Research
 - Core disciplines

@@ -1,4 +1,4 @@
-#list Used for [[📝 Cognitive Research]]
+Used for [[📝 Cognitive Research]]
 
 * AMI (Artificial Mind)
 * AMIs (Artificial Minds)

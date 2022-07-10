@@ -1,11 +1,6 @@
-## Abstract
-
-TODO
-
-
 ## Experiments
 
-[[🔬 Experiment 001a - Ego Cells]]
+[[🔬 Experiment 001a - Parsing Markdown with Ego Cells]]
 
 
 ## Background
@@ -21,6 +16,7 @@ Let's think of a real model of something, like a programming language.
 int
 main()
 {
+	// Comments
 	int variable = 123;
 	myFunction( "const param", variable );
 
@@ -55,7 +51,7 @@ main()
 If I were to process this only being able to look at a small part (visually speaking) at a time, in my mind I would know that since I already saw an opening for a function definition, I know that what's next corresponds to an inner scope of that function.
 
 
-=== NOTES ABOUT [[🧩 Attention]][[🧩 Focus]]
+%% NOTES ABOU[](🧩%20Attention.md)[](🧩%20Focus.md)]]
 So, basically the way to implement visual focus is by being able to see the general shape, so instead of being able to process each individual character we can see if a place in a grid is filled or not:
 
 ```
@@ -70,7 +66,7 @@ So, basically the way to implement visual focus is by being able to see the gene
 ```
 
 I don't know exactly how to interpolate this to different scope scales but I think this is a good path forward.
-=== /
+%%
 
 Visually, what helps me is indentation. This is something that could also be processed by being aware of how much actual space there is between the words in a bi-dimensional way. Not only how much space there is horizontaly by also vertically. It denotes groupings and scope.
 
@@ -123,46 +119,6 @@ For example:
 I can write more test cases and look at my own thought process.
 
 At some part I might also encounter expectations where syntax is broken, this could present as an opportunity to present a fix.
-
-## Rules for MD
-
-Documents have text characters:
-* abc123!@#$ ... (includes 'spaces', tabs would break as spaces)
-
-Not sure about this one:
-```
-Text characters have coords:
-* x
-* y
-```
-
-Documents have blocks.
-Blocks are made of text characters.
-
-There are three main block kinds:
-* in-line
-* single-line
-* multi-line
-
-Block types are:
-* Headings - with sub types (single-line)
-* Paragraphs (single-line)
-* Metadata (multi-line)
-* lists - with subtypes and nestabilty (single-line & multi-line)
-* code (single-line & multi-line) 
-* notes (multi-line)
-* quote (single-line & multi-line)
-* shortcode (single-line)
-* bold (single-line)
-* italic (single-line)
-* strike (single-line)
-* underline (single-line)
-
-### Implicit rules
-* Proximity
-* Identity
-
-
 
 
 ## Prototype

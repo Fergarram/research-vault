@@ -9,6 +9,23 @@ You can create a pull request adding words and their descriptions.
 How many words does a child need to communicate in order to survive?
 How many does an adult need?
 
+---
+
+- What does a baby need to survive?
+
+- What does a kid need to survive?
+
+- What does an adult need to survive?
+
+- What do they need to communicate to survive?
+
+> The thing is, our human experience is so complex, vast and detailed that arriving to essentially a digital clone would be a task with a duration of multiple lifetimes. A generational project.
+
+---
+
+Let's look at the essential words. Here's an example:
+https://www.smart-words.org/500-most-commonly-used-english-words.html
+
 ## List
 
 * Hide
@@ -27,3 +44,4 @@ How many does an adult need?
 * Complicated
 * Confused
 * [[💬 Smell]]
+* [[💬 Imagine]]

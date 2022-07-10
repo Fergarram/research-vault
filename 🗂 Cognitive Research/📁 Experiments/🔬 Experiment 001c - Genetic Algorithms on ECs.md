@@ -1,6 +1,6 @@
 ## Objective
 
-Use a genetic algorithm to find the neighboring rules that make [[🔬 Experiment 001a - Ego Cells]] correctly highlight markdown elements.
+Use a genetic algorithm to find the neighboring rules that make [[🔬 Experiment 001a - Parsing Markdown with Ego Cells]] correctly highlight markdown elements.
 
 
 ## Thoughts

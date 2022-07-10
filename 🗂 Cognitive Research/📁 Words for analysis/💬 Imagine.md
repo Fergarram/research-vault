@@ -1,0 +1,1 @@
+When we tell someone "imagine that this dot is a small animal" we are directly assuming that the other person has the same ability to think into a dream and see something that's not in the waking world. This is a very important word to study. It may be worth to consider a [[🧩 Dreaming & Creativity]]

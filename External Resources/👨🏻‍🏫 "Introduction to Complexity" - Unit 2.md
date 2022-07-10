@@ -6,7 +6,7 @@
 [[👨🏻‍💻 On Publishing]]
 
 
-# Introduction to Dynamics
+## Introduction to Dynamics
 
 Examples:
 - Planetary Dynamics

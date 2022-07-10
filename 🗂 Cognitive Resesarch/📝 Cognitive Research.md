@@ -1,5 +1,0 @@
-* [[📝 Artificial Worlds]]
-* [[📝 Artificial Bodies]]
-* [[📝 Developmental Training]]
-* [[📝 Cognitive Architecture]]
-* [[📝 Technical Implementation]]
