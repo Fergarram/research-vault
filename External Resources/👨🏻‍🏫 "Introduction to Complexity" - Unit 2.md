@@ -3,7 +3,6 @@
 ## Related Topics
 
 [[📝 Complexity Research]]
-[[👨🏻‍💻 On Publishing]]
 
 
 ## Introduction to Dynamics
@@ -47,7 +46,7 @@ Notes:
 - A model is a simple representation of something in nature
 
 Ideas:
-- Related to [[👨🏻‍💻 On Publishing]]: Are there predictions that we humans can make that would be impossible or very difficult/power intense for math or algorithms? Does current AI fill this gap? This basically assumes that there is a way to compress the behavior of complex systems into a single model which could fit the observed behavior. But this would not mean that what's observed can fit in a model. What's observed could in fact be infinite or eternal and never able to be captured into a single compressed view.
+- Are there predictions that we humans can make that would be impossible or very difficult/power intense for math or algorithms? Does current AI fill this gap? This basically assumes that there is a way to compress the behavior of complex systems into a single model which could fit the observed behavior. But this would not mean that what's observed can fit in a model. What's observed could in fact be infinite or eternal and never able to be captured into a single compressed view.
 	- Pierre Simon Laplace quote: ![[Prediction could be possible (wrong) - Pierre Simon Laplace.png]]
 	- Henri Pincaré quote: ![[Prediction becomes impossible - Henri Pincaré.png]]
 

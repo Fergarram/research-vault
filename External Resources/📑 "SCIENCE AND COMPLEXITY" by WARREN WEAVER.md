@@ -7,7 +7,6 @@ https://people.physics.anu.edu.au/~tas110/Teaching/Lectures/L1/Material/WEAVER19
 ## Related Topics
 
 [[📝 Complexity Research]]
-[[👨🏻‍💻 On Publishing]]
 
 ## Summary
 

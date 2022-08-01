@@ -1,4 +1,13 @@
 {
   "attachmentFolderPath": "Media",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "livePreview": false,
+  "foldIndent": false,
+  "foldHeading": false,
+  "showIndentGuide": false,
+  "smartIndentList": false,
+  "useTab": true,
+  "readableLineLength": true
 }

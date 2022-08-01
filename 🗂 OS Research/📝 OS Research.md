@@ -7,5 +7,4 @@ Index file for the OS Research folder/topic.
 
 [[🗂 OS Research/🔤 Glossary]]
 
-[[🧠 Minimum Viable Interface]]
-[[🧠 OS Development Notes]]
+[[💡 Minimum Viable Interface]]

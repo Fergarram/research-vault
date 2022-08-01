@@ -1,8 +1,9 @@
 ---
-title: My Public Research Vault
+title: Obscurity Wiki - My public research vault
+description: A public Obsidian vault with all my independent research on Cognitive Engineering, OS Development and Design, and Complexity.
 ---
 
-## Introduction
+## Where to start
 
 This is a repository containing the Obsidian vault for all my research. I apologize for the lack of a better introduction here.
 
@@ -20,3 +21,4 @@ There are 3 major folders or topics:
 ## Collaboration
 
 Pull requests are welcomed. As the time of writing this, I don't expect people to be participating yet. But I think that as people (hopefully) get interested in participating rules will start to come out as to how to collaborate.
+

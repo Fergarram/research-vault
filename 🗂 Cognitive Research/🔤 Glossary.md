@@ -4,8 +4,8 @@ Used for [[📝 Cognitive Research]]
 * AMIs (Artificial Minds)
 * [[📝 Cognitive Architecture]]
 * [[📝 Cognitive Mechanisms]]
-* [[📝 Artificial Bodies]]
-* [[📝 Artificial Worlds]]
+* [[💡 Artificial Bodies]]
+* [[💡 Artificial Worlds]]
 * [[📝 Developmental Training]]
-* [[📝 Analogue Controls]]
+* [[💡 Analogue Controls]]
 * Alife: stands for artificial life!

@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d5e3ce13fe13d9d2",
+        "id": "a84f9eb2e6c946a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guide/📬 TODO.md",
-            "mode": "source"
+            "file": "README.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "celullar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guide/📬 TODO.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -86,17 +87,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "d5e3ce13fe13d9d2",
+  "active": "a84f9eb2e6c946a9",
   "lastOpenFiles": [
-    "Guide/📬 TODO.md",
-    "🗂 Cognitive Research/📝 Cognitive Research.md",
-    "🗂 Cognitive Research/📁 World Building/📝 Analogue Controls.md",
-    "🗂 Cognitive Research/🔤 Glossary.md",
-    "🗂 Cognitive Research/📁 Words for analysis/❓ Words for analysis.md",
-    "🗂 Cognitive Research/📝 Cognitive Architecture.md",
-    "🗂 Cognitive Research/📁 World Building/📝 World Building.md",
-    "🗂 Cognitive Research/📁 World Building/📝 Artificial Worlds.md",
-    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Ego Cells.md"
+    "🗂 Cognitive Research/📁 Experiments/indice.md",
+    "🗂 OS Research/📝 OS Research.md",
+    "External Resources/📝 External Resources.md",
+    "🗂 Cognitive Research/📁 World Building/📝 Developmental Training.md",
+    "🗂 Cognitive Research/📁 World Building/💡 Artificial Worlds.md",
+    "External Resources/📰 \"What is an individual? Biology seeks clues in information theory\" - Quanta Magazine.md",
+    "🗂 Cognitive Research/📁 World Building/💡 Artificial Bodies.md",
+    "🗂 Cognitive Research/📁 World Building/💡 Analogue Controls.md",
+    "🗂 Cognitive Research/📁 Technical Implementation/💡 Livewiring.md",
+    "🗂 OS Research/💡 OS Development Notes.md"
   ]
 }

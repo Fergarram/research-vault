@@ -1,4 +1,4 @@
 Vault Relationships:
 
 - [[📝 Ego Cells]]
-- [[📝 Livewiring]]
+- [[💡 Livewiring]]

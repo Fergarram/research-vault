@@ -17,7 +17,7 @@ In order to arrive to that goal, I've been gathering resources, polishing ideas 
 
 Being a software developer and designer, thinking in terms of architecture is second nature to me. Thus, it became obvious that this would be a crucial model to think about this question: What [[📝 Cognitive Architecture]] is needed in order for a system to produce an experience of a world that overlaps with ours and is capable of being manually taught by us?
 
-I try to answer that question by all means available to me — introspection, drugs, meditation, trauma — and by looking at the work of others such as [Joscha Bach](https://bach.ai/), [Numenta](https://numenta.com/), [Peter A. Levine](https://www.amazon.com.mx/Waking-Tiger-Healing-Trauma-Levine/dp/155643233X/ref=asc_df_155643233X/?tag=gledskshopmx-20&linkCode=df0&hvadid=316063958581&hvpos=&hvnetw=g&hvrand=1899490032187024382&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010079&hvtargid=pla-436402731263&psc=1), [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle), and more.
+I try to answer that question by all means available to me — introspection, drugs, meditation, trauma — and by looking at the work of others such as [Joscha Bach](https://bach.ai/), [Numenta](https://numenta.com/), [Daniel Everett](https://en.wikipedia.org/wiki/Daniel_Everett), [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle), and more.
 
 There have been more resources that I've studied but since this research vault is relatively recent, I don't have references to all those sources.
 
@@ -42,7 +42,7 @@ One of the most important experiments that will definetly take a long time to wo
 
 I believe the idea of [[📝 World Building]] and [[📝 Developmental Training]] is what makes my work's approach different from the rest but do take that with a grain of salt. We humans are entirely defined by the world we live in — from our physical composition to our human & animal experience. I believe we take that for granted. There can be an infinite amount of worlds hosting infinite types of life.
 
-Thus, in order to arrive at my goal of creating artificial minds, I need to be very intentional when it comes to designing the world they are going to live on and experience. This is important for them to have a _real_ experience that's designed to overlap in some aspects with our own world and experience of it.
+Thus, in order to arrive at my goal of creating artificial minds, I need to be very intentional when it comes to designing the world they are going to live in and experience. It is important for them to have a _real_ experience that's designed to overlap in some aspects with our own world and experience of it.
 
 
 ## Developmental Training

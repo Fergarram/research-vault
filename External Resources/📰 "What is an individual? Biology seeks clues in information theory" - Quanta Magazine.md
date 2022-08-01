@@ -5,8 +5,8 @@ https://www.quantamagazine.org/what-is-an-individual-biology-seeks-clues-in-info
 ## Related Topics
 
 - [[📝 Complexity Research]]
-- [[📝 Artificial Worlds]]
-- [[📝 Artificial Bodies]]
+- [[💡 Artificial Worlds]]
+- [[💡 Artificial Bodies]]
 
 
 ## Notes

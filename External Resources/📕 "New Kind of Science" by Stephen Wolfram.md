@@ -1,3 +1,3 @@
-This seems to be related to [[📝 Livewiring]] and to [[📝 Complexity Research]]. Basically just an exploration on how to compute without digital computers it seems. Haven't read it though.
+This seems to be related to [[💡 Livewiring]] and to [[📝 Complexity Research]]. Basically just an exploration on how to compute without digital computers it seems. Haven't read it though.
 
-https://www.amazon.com.mx/New-Kind-Science-Stephen-Wolfram/dp/1579550258/ref=asc_df_1579550258/?tag=gledskshopmx-20&linkCode=df0&hvadid=360394568362&hvpos=&hvnetw=g&hvrand=5148176595586192533&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010079&hvtargid=pla-789449691309&psc=1
+[Book link](https://www.amazon.com.mx/New-Kind-Science-Stephen-Wolfram/dp/1579550258/ref=asc_df_1579550258/?tag=gledskshopmx-20&linkCode=df0&hvadid=360394568362&hvpos=&hvnetw=g&hvrand=5148176595586192533&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1010079&hvtargid=pla-789449691309&psc=1)
