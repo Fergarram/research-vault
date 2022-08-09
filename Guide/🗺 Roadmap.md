@@ -40,17 +40,9 @@ This sounds like a good plan but who knows if this is how it goes.
 
 ## Roadmap for Cognitive Research
 
-1. Finish Obscure to publish my research
-	* Just follow the README in the repo.
+1. ~~Finish Obscure to publish my research~~
+	* ~~Just follow the README in the repo.~~
 2. Markdown Experiment
-	* I think there is a fundamental problem to my approach:
-		* I’m mapping the problem incorrectly - maybe I should try to solve the problem as for what it is: a parsing problem.
-		* ✅ Or maybe I just need to change it to be word based and have very specific definitions of the elements needed to solve this problem like recursivity.
-		* Answer the following:
-			* What's the strict formal definition of MD? as a parser would do
-			* What concepts are needed for that?
-			* How does this compare to the ambiguous approach based on words and other ideas?
-			* Which one is more flexible, useful, practical, resource heavy? How do they compare?
 3. World Server/Client Protocol
 	* I’m referring to what’s in [[🧠 Brain dump for the first world prototype]].
 	* I think that the process of trying to implement those ideas will be similar to that of ego cells — it’s going to make me build a pipeline for building this which I’m expecting it to look like a server/client system.
@@ -60,8 +52,8 @@ This sounds like a good plan but who knows if this is how it goes.
 
 ## Summary
 
-1. Focus on finishing Obscure MVP this week.
-2. Get back to Markdown Experiment OR work on NV's home page.
+1. ~~Focus on finishing Obscure MVP this week.~~
+2. Get back to Markdown Experiment ~~OR work on NV's home page.~~
 3. Setup Linux Environment (OpenSUSE + GNOME)
 4. Get JuiceboxWM running with Xephyr
 5. Get back to Cognitive Research, etc.

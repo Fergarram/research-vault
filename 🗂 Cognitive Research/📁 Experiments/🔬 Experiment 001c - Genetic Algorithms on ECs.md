@@ -1,7 +1,12 @@
+New Thoughts:
+
+What if this experiment is actually about finding a way to train cells with GAs? What I mean is, if I take the approach of simple programs and well defined limits/boundaries, is it possible for the GA to arrive to the right neighboring rules under supervised training?
+
+---
+
 ## Objective
 
-Use a genetic algorithm to find the neighboring rules that make [[🔬 Experiment 001a - Parsing Markdown with Ego Cells]] correctly highlight markdown elements.
-
+Use a genetic algorithm to find the neighboring rules that make [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]] correctly highlight markdown elements.
 
 ## Thoughts
 

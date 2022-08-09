@@ -1,45 +1,36 @@
-%%`@TODO`
-[ ] Follow the cell specs to implement that.
-[ ] Implement GA pipeline that works with OpenCL.
+---
+description: An implementation of Ego Cells, a type of cellular automata that parses Markdown semi-asynchronously based on neighboring rules.
+---
+
 %%
+Note that this experiment is not finished yet.
 
-%%`@QUICK NOTES`
+---
 
-It's important to remember that this problem is divided in 3 parts:
+I'm currently looking at three parts:
 
 Part 1 - The initial truth model
 Part 2 - The instancing mechanism - ego cells
 Part 3 - the neighboring rules with genetic algorithms
-
-Questions:
-
-How much of a given buffer of text seems to be markdown? The answer reveals the amount of error or mismatch against the truth model.
-
---
-
-I think this experiment really focuses on finding a common structure that allows knowledge about the world to be stored in a human oreadable way.
-
---
-
-The more posibilities of identities the less activated it is. In other words, the less sure it is about who it is.
-
---
-
-I'm getting too ahead of myself with this experiment. Even though it may be possible to determine a set of rules that allow to parse markdown, the result is unpractical. The building blocks are not the same I use in my mind. I can look at words and paragraphs. Before markdown there is regular text and that's a prerequisite that is becoming obvious.
-
---
-
-Finding out that my mental model of markdown has flaws is a sign of how this mechanism actually works underneath. I still don't know how exactly though. Everybody has unaccurate or ineffective mental models.
-
-I'm thinking about leaving this experiment as a failed one where I don't create a markdown parser. I think that I may benefit from finding a different problem to solve with the discoveries of this failed experiment.
-
-I do feel though that I would benefit from a detailed explanation of why this experiment failed. Also show the ideas that were not tested like the word/separator approach where it's clear that we need a mechanism to represent encapsulation or scopes and recursiveness.
-
-Also I think it's important to talk about being strict vs not, having the right requirements, and having unaccurate models.
-
-Given I do quit this experiment, what would the next step be?
-- Desiging the artificial world with the AKling approach and go from there.
 %%
+
+## Github Repository
+
+[research-experiments/ego-cells-markdown](https://github.com/Fergarram/research-experiments/tree/main/ego-cells-markdown)
+
+---
+
+## Clip Notes
+
+- [[📎 Correction Cells]]
+- [[📎 Analyzing the true essense of markdown]]
+- [[📎 Underestimating the parsing problem]]
+- [[📎 Memory and sequential patterns]]
+- [[📎 Spatial frameworks for modeling spatial systems]]
+- [[📎 Thinking in terms of simple programs]]
+- [[📎 Walls and limits — Are these place cells?]]
+
+---
 
 ## Introduciton
 
@@ -173,58 +164,15 @@ We want to have preconnected tissue in order to be specific about the type of sp
 
 To get to the state of this publication, I had to try different ideas in paper and code, educate myself more on the topics of complexity and cellular automata.
 
-%%`@NOTE: This paragraph below should be written in Fernando.Works Only`%%
-If you're interested in reading more about them, please make sure to visit my Obsidian repository where my personal notes are visible.
-
-
-%%`Memory and sequential patterns` 
-Compared to spatial pattern recognition which is what the ego cells are currently doing, sequential pattern recognition presents itself as another essential building block.
-
-Initially, I thought that some kind of memory was going to be needed to keep track of scopes (i.e. code block content vs paragraph content). Then, I thought maybe just spatial pattern recognition would be needed to identify scopes. But after realizing that links and inline-type blocks can wrap to new lines, nearest-neighboring rules can no longer solve the problem. This makes sense though. My original assumption about parsing markdown was that only top-down pattern recognition would be needed — my own sequential reading of the text went unnoticed by myself.
-
-This leaves me with either using a memory and/or using some kind of sequential pattern recognition cell type. I'm still not sure about how, but it's clear that since the nature of written language i.e. markdown is sequential, a cell for this would make sense to exist.
-%%
-
-
-%%`Walls and limits — Are these place cells?`
-Initially, I was thinking that there shouldn't be a need to keep track of walls, but this turned out to be necessary. Raycasting means collision and a ray cannot go forever into a boundless canvas. At least mentally for me that's not the case when I look at a text file — I know it has a start and an end. This is an important concept. I don't know if or how it translates into cells but there has to be a connection.
-%%
-
-%%`Spatial frameworks for modeling spatial systems`
-While I was working on this experiment I was also reading papers such as "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex" by Numenta (linked at bottom of this page). This paper proposes a framework for model-making that's based on the spatial properties and representations of objects in time. This research is based on humans and other animals which exist in and perceive this three-dimensional and physical world. I'm bringing this up because I couldn't help myself but come to hypothesize that for a 2D world made up of symbols in a grid, there has to be a similar approach that requires some analogous form of 2D grid cells, which takes me back to the previous paragraph where I mentioned a kind of coordinate system.
-
-My new theory is that there has to be a similar framework for strictly two-dimensional grid-based spaces which requires the existance of multiple cell types or cell interactions. A universe's number of spatial dimensions and laws would determine how such a framework would be used.
-
-In this experiment's case, there are a few ideas I have in regards to defining a spatial framework for representing information about systems within this bi-dimensional world of markdown.
-%%
-
-%%`Underestimating the parsing problem`
-What I came to realize is that my mental model of markdown has some weaknesses — it's not as rigid as I thought. This complicated my process but at the same time it showed me how rigid models depend on hard non-overlapping rules.
-
-In my mental model, there's a high-level representation of markdown syntax which consists of the output it generates: headings 1 to 6, paragraphs, links, etc. I know that a heading 1 starts with a hash for example.  But when it came to the feature-level of rules, I found myself improvising or rather discovering the neighboring rules as I set myself to do so.
-
-What this means is that I came up with neighboring rules via trial-and-error only to figure out there could be a ton. I could argue that the high-level representation is based on my direct experience of the output or the actual rendering of the output HTML — Everything is text, Headings are big and vary in size, links are blue and clickable, lists have indentation and bullet points, code has a colored background, etc.
-
-I've been trying to map a visual representation (rendered HTML) into a symbolic representation with specific syntactical rules which I did not permit myself to be fully strict about (like a real parser would).
-
-What I suspect is that we are always trying to figure out the low-level or "feature" details about our high-level models. Constantly re-evaluating them. This is where learning or genetic algorithms could play a role.
-
-What I've also realized is that there's a million ways to solve the same problems. Using the specific cell types I developed and the neighboring rules I came up with are just one of many possible solutions. It's up to selection to find the most optimized one for the situation or world where it exists.
-
-For example, I initially thought that some kind of memory would be needed to keep track of the heading level (1..6) considering that each cell can only access their direct neighbors. But then realized that it could also be solved by some kind of ray casting cell — if the right most `#` cell can raycast to the left asking something about them than it can infer something about itself.
-%%
-
 
 ## Concluding observations
 
-%%`@NOTES: Concluding this experiment`
 - Cellular Automata Tissue as attractor mechanism (attractor being markdown syntax)
 - Custom cell types and pre-wiring give tissue super powers
 - Code pipeline for working with OpenCL
 - No implemente ray-casting (por performance aunque no tengo evidencia)
 - Lo importante es definir el problema a resolver o el "mundo" en que se "sobrevive".
 - Talk about problems and other ideas? Or promote my wiki so that they can read my personal notes?
-%%
 
 ---
 

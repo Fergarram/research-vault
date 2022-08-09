@@ -1,6 +1,6 @@
 ## Experiments
 
-[[🔬 Experiment 001a - Parsing Markdown with Ego Cells]]
+[[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]]
 
 
 ## Background
