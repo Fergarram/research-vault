@@ -3,7 +3,7 @@ description: An implementation of Ego Cells, a type of cellular automata that pa
 ---
 
 %%
-Note that this experiment is not finished yet.
+Note that this experiment is not finished yet. But this document will be where we introduce the experiment purpose, links to code, and summary of everything learned.
 
 ---
 
