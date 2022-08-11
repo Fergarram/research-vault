@@ -45,6 +45,8 @@ So for example, an ego cell could represent a letter in a word or a word in a se
 
 I started this experiment with the intentions of exploring this type of CA (cellular automata). I wanted to know how feasable it was to implement a small program that converts characters in a markdown file into multiple layers of ego cells that determines which syntactical component within markdown's syntax it represents. One could "ask" each character if they are part of a heading 3 or if they are part of the URL in a link, etc.
 
+The real value of a successful experiment here, would be to know how to convert an easy to read and write mental map of a system or finite state machine (in this case markdown) and convert that through a piece of software to some kind of machine coded that can evaluate some source type (in this case markdown text buffers) and trigger some actions or generate some data output.
+
 
 ### How does this integrate into the big picture?
 
@@ -82,28 +84,6 @@ This is the obvious cell type. We need a way to represent characters in space. T
 
 %% `Insert Diagram Here` %%
 
-`Connection Index`
-```
-N0..2 = Left Neighbors
-N3..5 = Right Neighbors
-TN = Top Neighbor
-BN = Top Neighbor
-PN = Previous Neighbor
-NN = Next Neighbor
-TL = Top Line
-BL = Bottom Line
-CL = Current Line
-```
-
-`Possible Self States`
-```
-These are the "hard truths we know" divided into 3 layers:
-
-1. One of all characters categories or NULL (16 + 1)
-2. One of all possible sub-blocks or NULL (10 + 1)
-3. One of all possible blocks or NULL (9 +1)
-```
-
 Remember that a connection between cells mean they may have access to each state type if needed, so for example, between Character Cells they can read all 4 "layers" of state.
 
 
@@ -120,16 +100,6 @@ These are connected to a row of Character Cells in order to represent the "line"
 
 %% `Insert Diagram Here` %%
 
-`Connection Index`
-```
-C0..127 = Character Cells within the row
-```
-
-`Possible Self States`
-```
-1. One of all possible blocks or NULL
-```
-
 
 ### Block Cells (Ego Cell)
 
@@ -137,18 +107,14 @@ These are anatomically similar to Line Cells. Each is connected to a Line Cell a
 
 %% `Insert Diagram Here` %%
 
-`Connection Index`
-```
-L = Line Cell within the same row
-TB0..126 = Every other Block Cell from top to bottom ???
-```
-
-`Possible Self States`
-```
-1. One of all possible blocks or NULL
-```
-
 At the time of writing this, I'm not sure if both Block Cells or Line Cells are needed since they do pretty much the same thing.
+
+
+### Correction Cells
+
+%% `Write summary` %%
+
+%% `Insert Diagram Here` %%
 
 
 ### More about preconnected lattices
@@ -160,17 +126,12 @@ Since one of the limits I set for this experiment was to not use absolute coordi
 We want to have preconnected tissue in order to be specific about the type of space or substrate that it's going to be sovling problems in.
 
 
-## Problems
-
-To get to the state of this publication, I had to try different ideas in paper and code, educate myself more on the topics of complexity and cellular automata.
-
-
-## Concluding observations
+## Generalized observations
 
 - Cellular Automata Tissue as attractor mechanism (attractor being markdown syntax)
 - Custom cell types and pre-wiring give tissue super powers
 - Code pipeline for working with OpenCL
-- No implemente ray-casting (por performance aunque no tengo evidencia)
+- Ray-casting seems to be done in a single layer to its own without loopin each cell with a for.
 - Lo importante es definir el problema a resolver o el "mundo" en que se "sobrevive".
 - Talk about problems and other ideas? Or promote my wiki so that they can read my personal notes?
 

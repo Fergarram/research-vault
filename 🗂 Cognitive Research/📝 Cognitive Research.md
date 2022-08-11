@@ -33,7 +33,7 @@ There will obviously be more concepts and tools but I see them as appearing thro
 
 ## Experiments
 
-The experiments I'm developing are aimed towards putting my own ideas to the test. You can take a look at all the [[📝 Experiments]] I've worked on or start with my first experiment [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
+The experiments I'm building have the purpose of helping me figure out the basic building blocks in all major topics of my work. You can take a look at all the [[📝 Experiments]] I've worked on or start with my first experiment: [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
 
 One of the most important experiments that will definetly take a long time to work on is the experiment where I try to proof the hypothesis that it's possible to implement a system that can host an artificial mind that can be taught english to speak about its life and experience. That experience will obviously not overlap entirely with the human experience but there will be some small overlap. Language based communication is about finding symbols and references to talk about the shared experience with another being.
 

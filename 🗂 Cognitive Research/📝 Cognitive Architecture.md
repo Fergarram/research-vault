@@ -1,5 +1,3 @@
-
-
 It's basically how the [[📝 Cognitive Mechanisms]] interact with each other to produce a working artificial mind.
 
 ---

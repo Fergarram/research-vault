@@ -71,7 +71,7 @@ It needs to have the following substrates:
 
 With this in mind, where would "forces" or "spectrums" or "Hot or Cold" fit in?
 
-If I can develop a single tiny experiment for each where I can use ego cells, that would be amazing.
+::If I can develop a single tiny experiment for each where I can use ego cells, that would be amazing.::
 
 
 ---
