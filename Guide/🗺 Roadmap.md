@@ -1,3 +1,15 @@
+
+## Thinking outloud
+
+I need to have a place where I can explain precisely what I want to create while using the best words for SEO and actually finding people who understand what I mean. To be able to do this, I need to read more on the existing works. Starting with the items mentioned in [[💡 Embodiement]].
+
+I don't want to make AGI. I think that's the direction where GPT-X is going.
+
+What I want is to create a set of tools that allow us to create digital beings that collaborate with us. While the intelligence of these beings may seem like what we normally mean when we say AGI, a digital being is not a program that you can execture from a command line or query with an API. It's a real-time emulation of a cognitive architecture connected to a simulation of a digital world.
+
+
+## Simulation & Emulation Tools
+
 I was listening to [this podcast episode with Joscha Bach](https://cybersecurityinside.com/episodes/camille-machine-consciousness/) and I realized this: I’m developing and designing emulating systems for cognitive architectures. I don’t know if this means they are by default not sentient but just seem to be and function like so. But it doesn’t really matter because answering those type of questions is not my goal. My goal is to get a mind running in my emulator and to give people tools to test their cognitive architecture designs — whether inspired by humans or not.
 
 I wanted to write a publication about this but I think this is more for me. If at some point I feel like I need to clarify this then I will.

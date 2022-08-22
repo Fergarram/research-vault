@@ -8,17 +8,17 @@ I believe that by being deliverate and intentional about the rules for such a wo
 
 ## Why desiging worlds is important
 
-Digital worlds don't emerge out of bits in computer. The best way to think about digital worlds is comparing this to video games. Within a video game, design a set of specific constraints that the player needs to overcome in order to get some reward. The process in which the player gains this reward could be anything that the game designer wants. 
+Digital worlds don't emerge out of plain bits in computers. The best way to think about digital worlds is comparing them to video games. Within a video game, you design a set of specific constraints that the player needs to overcome in order to get some reward. The process in which the player gains this reward could be anything that the game designer wants. 
 
-As world designers, we need to be specific about what we want the player/character/artificial mind to do for us, and in turn we'll reward them through survival (food, shelter, etc) a animal-type mechanism of reward, etc. This is where a [[📝 Cognitive Architecture]] can start to be formed.
+As world designers, we need to be specific about what we want the player/character/artificial mind to do for us, and in turn we'll reward them through survival (food, shelter, etc) an animal-type mechanism of reward, etc. This is where a [[📝 Cognitive Architecture]] can start to be formed.
 
-So the first step is to know what we need from them. In my case, I want to create more software tools and games, and customize my own tools as well. I want to do less digital chores like organizing my files or [[📝 Digital Items]]. I want it to help me debug my programs, and help me create visualizations. In general, I want to spend less time writing software that can be automated with natural language so that I can focus on the creative part. But these are long-term personal requirements specific to the domain of personal computing. Another personal example is that I want to create artificial minds that will become NPCs in my video games. In any case, I'm sure that there are endless use cases for having digital beings.
+So the first step is to know what we need from them. In my case, I want to create more software tools and games, and customize my own tools as well. I want to do less digital chores like organizing my files or [[📝 Digital Items]]. I want it to help me debug my programs, and help me create visualizations. In general, I want to spend less time writing software that can be automated with natural language so that I can focus on the creative part. But these are long-term personal requirements specific to the domain of personal computing. Another personal example is that I want to create artificial minds that will become NPCs in my video games. I'm sure that there are endless use cases for having digital beings.
 
 ## Technical roadmap and ideas
 
 One crucial component of this concept of world building is the i/o and APIs. To enable interaction between humans and these digital beings and their world, we'll need APIs that can help us _materialize_ information into their world. It's also the other way around, APIs that can give us specific information about them and their world.
 
-I've been playing with some ideas in a rather unorganized fashioni in this [[🧠 Brain dump for the first world prototype]]. My work in general is the process of familiarizing myself as much as I can with the concepts I'm developing through experimentation and prototypes.
+I've been playing with some ideas in a rather unorganized fashion in this [[🧠 Brain dump for the first world prototype]]. My work, in general, is the process of familiarizing myself as much as I can with the concepts I'm developing through experimentation and prototypes.
 
 As I continue to discover more meaningful constructs, I'll document them here and index other helpful content as well.
 

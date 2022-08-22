@@ -2,6 +2,10 @@ It's basically how the [[📝 Cognitive Mechanisms]] interact with each other to
 
 ---
 
+A lot of reasoning behind theories of mind is based on the assumption that thinking is inherited by our human genes. I believe that thinking as we know it (using language) is actually an invention as proposed by Daniel Everett. Following this idea I think that most of what we consider innate of humans is probably also just inventions. This assumption clarifies how we need to prepare a Cognitive Architecture.
+
+---
+
 Here's an image on how the architecture might work based on Joscha Bach's presentation on Attention:
 
 ![[Joscha Bach's Cognitive Architecture of a Human (?).png]]
