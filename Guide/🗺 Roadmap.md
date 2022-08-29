@@ -5,7 +5,7 @@ I need to have a place where I can explain precisely what I want to create while
 
 I don't want to make AGI. I think that's the direction where GPT-X is going.
 
-What I want is to create a set of tools that allow us to create digital beings that collaborate with us. While the intelligence of these beings may seem like what we normally mean when we say AGI, a digital being is not a program that you can execture from a command line or query with an API. It's a real-time emulation of a cognitive architecture connected to a simulation of a digital world.
+What I want is to create a set of tools that allow us to create digital beings that collaborate with us. While the intelligence of these beings may seem like what we normally mean when we say AGI, a digital being is not a program that you can execute from a command line or query with an API. It's a real-time emulation of a cognitive architecture connected to a simulation of a digital world.
 
 
 ## Simulation & Emulation Tools

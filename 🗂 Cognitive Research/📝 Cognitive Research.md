@@ -9,13 +9,18 @@ In order to arrive to that goal, I've been gathering resources, polishing ideas 
 * [[📝 Cognitive Architecture]]
 * [[📝 Technical Implementation]]
 * [[📝 Experiments]]
+<<<<<<< HEAD
 * [[📝 World Building]]
 * [[📝 Developmental Training 1]]
+=======
+* [[📝 World Simulations]]
+* [[📝 Developmental Training]]
+>>>>>>> temp
 
 
 ## Cognitive Architecture
 
-Being a software developer and designer, thinking in terms of architecture is second nature to me. Thus, it became obvious that this would be a crucial model to think about this question: What [[📝 Cognitive Architecture]] is needed in order for a system to produce an experience of a world that overlaps with ours and is capable of being manually taught by us?
+Being a software developer and designer, thinking in terms of architecture is second nature to me. Thus, it became obvious that this would be a crucial model to think about this question: What cognitive architecture is needed in order for a system to produce an experience of a world that overlaps with ours and is capable of being manually taught by us?
 
 I try to answer that question by all means available to me — introspection, drugs, meditation, trauma — and by looking at the work of others such as [Joscha Bach](https://bach.ai/), [Numenta](https://numenta.com/), [Daniel Everett](https://en.wikipedia.org/wiki/Daniel_Everett), [Eckhart Tolle](https://en.wikipedia.org/wiki/Eckhart_Tolle), and more.
 
@@ -25,30 +30,50 @@ Another tool I came up with was to look at specific words that point to direct a
 
 Similar to the selected words for analysis, I have a set of concept files that I call [[📝 Cognitive Mechanisms]] where each refers to a specific system that serves a function in a high-level sense. For example [[🧩 Motivation]], [[🧩 Focus]], or [[🧩 Mirror neurons]]. As you'll notice, some of the mechanisms have nothing written on them. This means that the idea is at the "seed" stage — it has been planted but it hasn't been hydrated yet.
 
+<<<<<<< HEAD
+=======
+Read the [[📝 Cognitive Architecture]] document for more details.
+
+>>>>>>> temp
 
 ## Technical Implementation
 
-Since my goal is to actually create a piece of software, it's important to also think of the technical limitations and substrate for implementing a cognitive architecture. I don't believe that deep learning will be a part of the [[📝 Technical Implementation]] but I do think that it will be a tool when working on my experiments. The most developed concept right now is that of the [[📝 Ego Cells]] which are a type of cellular automata.
+Since my goal is to actually create a piece of software, it's important to also think of the technical limitations and substrate for implementing a cognitive architecture. I don't believe that deep learning will be a part of the technical implementation but I do think that it will be a tool when working on my experiments. The most developed concept right now is that of the [[📝 Ego Cells]] which are a type of cellular automata.
 
 There will obviously be more concepts and tools but I see them as appearing through experimentation rather than anticipating how the software will look like.
+
+Read the [[📝 Technical Implementation]] document for more details.
 
 
 ## Experiments
 
-The experiments I'm building have the purpose of helping me figure out the basic building blocks in all major topics of my work. You can take a look at all the [[📝 Experiments]] I've worked on or start with my first experiment: [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
+The experiments I'm building have the purpose of helping me figure out the basic building blocks in all major topics of my work. You can take a look at all the experiments I've worked on or start with my first experiment: [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
 
 One of the most important experiments that will definetly take a long time to work on is the experiment where I try to proof the hypothesis that it's possible to implement a system that can host an artificial mind that can be taught english to speak about its life and experience. That experience will obviously not overlap entirely with the human experience but there will be some small overlap. Language based communication is about finding symbols and references to talk about the shared experience with another being.
 
+Read the [[📝 Experiments]] document for more details.
 
-## World building
 
+<<<<<<< HEAD
+=======
+## World Simulations
+
+>>>>>>> temp
 One could say that my approach is that of the [Embodied Cognition Theory](https://en.wikipedia.org/wiki/Embodied_cognition). We humans are entirely defined by the world we live in — from our physical composition to our human & animal experience. I believe we take that for granted.
 
 Thus, in order to arrive at my goal of creating artificial minds, I need to be very intentional when it comes to designing the world they are going to live in and experience. It is important for them to have a _real_ experience that's designed to overlap in some aspects with our own world and experience of it.
 
+<<<<<<< HEAD
 ![[experience-overlap-diagram.svg|Venn diagram showing overlap between human experience and an artificial mind's experience]]
 
 This overlap corresponds to the specific properties that both us and artificial minds can refer to about our worlds.
+=======
+![[Experience Overlap Diagram.svg]]
+
+This overlap corresponds to the specific objects and experiences that both us and artificial minds can refer to about our worlds.
+
+Read the [[📝 World Simulations]] document for more details.
+>>>>>>> temp
 
 ## Developmental Training
 

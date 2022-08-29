@@ -6,6 +6,11 @@ Used for [[📝 Cognitive Research]]
 * [[📝 Cognitive Mechanisms]]
 * [[💡 Embodiement]]
 * [[💡 Artificial Worlds]]
+<<<<<<< HEAD
 * [[📝 Developmental Training 1]]
 * [[💡 Analogue Controls]]
+=======
+* [[📝 Developmental Training]]
+* [[💡 Divine Intervention]]
+>>>>>>> temp
 * Alife: stands for artificial life!

@@ -9,10 +9,9 @@ This is a repository containing the Obsidian vault for all my research. I apolog
 
 If you want to know what I'm currently working on check the [[📬 Inbox]] page. This is where I keep my list of tasks related to this vault.
 
-There are 3 major folders or topics:
+There are 2 major folders or topics:
 
 - [[📝 Cognitive Research]]
-- [[📝 Complexity Research]]
 - [[📝 OS Research]]
 
 [[👨🏻‍💻 Resources]] is a list and guide to manage external resources like papers, books, articles, etc. For each parsed resource I add personal notes about it.

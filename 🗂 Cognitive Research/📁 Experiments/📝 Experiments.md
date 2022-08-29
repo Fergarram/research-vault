@@ -16,4 +16,8 @@ For this reason, I'm creating a folder with unorganized notes for each experimen
 
 ## Experiment Ideas
 
+<<<<<<< HEAD
 Think of the words needed to communicate with a [personal assistant, npc in a video game, etc] by manually simulating a real conversation. For example, if a video game, visualize the conversations and what you're doing and then pay attention to those words. If a personal assistant, write use case stories (literal stories) with dialogs and events that occur.
+=======
+> Think of the words needed to communicate with a [personal assistant, npc in a video game, etc] by manually simulating a real conversation. For example, if a video game, visualize the conversations and what you're doing and then pay attention to those words. If a personal assistant, write use case stories (literal stories) with dialogs and events that occur.
+>>>>>>> temp
