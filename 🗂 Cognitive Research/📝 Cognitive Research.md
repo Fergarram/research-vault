@@ -9,14 +9,8 @@ In order to arrive to that goal, I've been gathering resources, polishing ideas 
 * [[📝 Cognitive Architecture]]
 * [[📝 Technical Implementation]]
 * [[📝 Experiments]]
-<<<<<<< HEAD
-* [[📝 World Building]]
-* [[📝 Developmental Training 1]]
-=======
 * [[📝 World Simulations]]
 * [[📝 Developmental Training]]
->>>>>>> temp
-
 
 ## Cognitive Architecture
 
@@ -30,11 +24,8 @@ Another tool I came up with was to look at specific words that point to direct a
 
 Similar to the selected words for analysis, I have a set of concept files that I call [[📝 Cognitive Mechanisms]] where each refers to a specific system that serves a function in a high-level sense. For example [[🧩 Motivation]], [[🧩 Focus]], or [[🧩 Mirror neurons]]. As you'll notice, some of the mechanisms have nothing written on them. This means that the idea is at the "seed" stage — it has been planted but it hasn't been hydrated yet.
 
-<<<<<<< HEAD
-=======
 Read the [[📝 Cognitive Architecture]] document for more details.
 
->>>>>>> temp
 
 ## Technical Implementation
 
@@ -54,26 +45,18 @@ One of the most important experiments that will definetly take a long time to wo
 Read the [[📝 Experiments]] document for more details.
 
 
-<<<<<<< HEAD
-=======
 ## World Simulations
 
->>>>>>> temp
 One could say that my approach is that of the [Embodied Cognition Theory](https://en.wikipedia.org/wiki/Embodied_cognition). We humans are entirely defined by the world we live in — from our physical composition to our human & animal experience. I believe we take that for granted.
 
 Thus, in order to arrive at my goal of creating artificial minds, I need to be very intentional when it comes to designing the world they are going to live in and experience. It is important for them to have a _real_ experience that's designed to overlap in some aspects with our own world and experience of it.
 
-<<<<<<< HEAD
-![[experience-overlap-diagram.svg|Venn diagram showing overlap between human experience and an artificial mind's experience]]
-
-This overlap corresponds to the specific properties that both us and artificial minds can refer to about our worlds.
-=======
 ![[Experience Overlap Diagram.svg]]
 
 This overlap corresponds to the specific objects and experiences that both us and artificial minds can refer to about our worlds.
 
 Read the [[📝 World Simulations]] document for more details.
->>>>>>> temp
+
 
 ## Developmental Training
 
