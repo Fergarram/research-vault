@@ -1,6 +1,6 @@
 ## Introduction
 
-As I explained the [[📝 Cognitive Research]] introductory document, intelligence such as that of a human being or any other type of known animal intelligence was brought up by evolution. And I think that we're taking that for granted ignoring the actual origin of these intelligent and autonomous systems.
+As I explained in the [[📝 Cognitive Research]] introductory document, intelligence such as that of a human being or any other type of known animal intelligence was brought up by evolution. And I think that we're taking that for granted ignoring the actual origin of these intelligent and autonomous systems.
 
 Manually building and designing a world that's able to host a specific type of artificial life is the equivalent to creating the substrate in which rich complexity can emerge. 
 
@@ -12,7 +12,7 @@ Digital worlds don't emerge out of plain bits in computers. The best way to thin
 
 As world designers, we need to be specific about what we want the player/character/artificial mind to do for us, and in turn we'll reward them through survival (food, shelter, etc) an animal-type mechanism of reward, etc. This is where a [[📝 Cognitive Architecture]] can start to be formed.
 
-So the first step is to know what we need from them. In my case, I want to create more software tools and games, and customize my own tools as well. I want to do less digital chores like organizing my files or [[📝 Digital Items]]. I want it to help me debug my programs, and help me create visualizations. In general, I want to spend less time writing software that can be automated with natural language so that I can focus on the creative part. But these are long-term personal requirements specific to the domain of personal computing. Another personal example is that I want to create artificial minds that will become NPCs in my video games. I'm sure that there are endless use cases for having digital beings.
+So the first step is to know what we need from them. In my case, I want to create more software tools and games, and customize my own tools as well. I want to do less digital chores like organizing my [[📝 Digital Items]] (i.e. files). I want it to help me debug my programs, and help me create visualizations. In general, I want to spend less time writing software that can be automated with natural language so that I can focus on the creative part. But these are long-term personal requirements specific to the domain of personal computing. Another personal example is that I want to create artificial minds that will become NPCs in my video games. I'm sure that there are endless use cases for having digital beings.
 
 ## Technical roadmap and ideas
 
@@ -21,6 +21,19 @@ One crucial component of this concept of world building is the i/o and APIs. To 
 I've been playing with some ideas in a rather unorganized fashion in this [[🧠 Brain dump for the first world prototype]]. My work, in general, is the process of familiarizing myself as much as I can with the concepts I'm developing through experimentation and prototypes.
 
 As I continue to discover more meaningful constructs, I'll document them here and index other helpful content as well.
+
+## Divine Intervention Interface Design
+
+Yes, it sounds pretentious but I have currently no better term. So let me explain the two parts of this concept:
+
+### Why is it "divine"?
+
+[[💡 Divine Intervention]] is a concept that explores the interaction between humans and artificial beings through events or entities in their [[💡 Artificial Worlds]]. It's "divine" in the sense that the intervention comes from out of that world and produces _inexplicable_ effects in it.
+
+### Interface Design as in UI Design
+
+In order to successfully interact with any digital world, we need to have an interface that allows us to do that. Given the richness of interactions that socially intelligent beings may have, such an interface would not be easy to design. This is why Divine Intervention Interface Design is an important research space. It will be a crucial tool for [[📝 Developmental Training]].
+
 
 
 %%`SOME OLD INITIAL IDEAS`

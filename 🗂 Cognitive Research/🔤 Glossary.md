@@ -7,5 +7,5 @@ Used for [[📝 Cognitive Research]]
 * [[💡 Embodiement]]
 * [[💡 Artificial Worlds]]
 * [[📝 Developmental Training]]
-* [[💡 Analogue Controls]]
+* [[💡 Divine Intervention]]
 * Alife: stands for artificial life!

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗂 Cognitive Research/World Simulations/📝 Mind Prototyping Tool.md",
+            "file": "🗂 Cognitive Research/📁 World Simulations/🧠 Brain dump for the first world prototype.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "language",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Research/World Simulations/📝 Mind Prototyping Tool.md",
+                "file": "🗂 Cognitive Research/📁 World Simulations/🧠 Brain dump for the first world prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "946a0af5bb42d49a",
   "lastOpenFiles": [
-    "Hola.md",
-    "🗂 Cognitive Research/📁 Experiments/Untitled.md",
-    "🗂 Cognitive Research/World Simulations/📝 Mind Prototyping Tool.md",
-    "🗂 Cognitive Research/World Simulations/🧠 Brain dump for the first world prototype.md",
-    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
+    "Guide/🗺 Roadmap.md",
+    "README.md",
+    "🗂 Cognitive Research/📁 World Simulations/📝 World Simulations.md",
     "🗂 Cognitive Research/📝 Cognitive Research.md",
-    "🗂 Cognitive Research/World Simulations/📝 Developmental Training.md",
-    "🗂 Cognitive Research/World Simulations/📝 World Building.md",
-    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Focus.md"
+    "🗂 Cognitive Research/📁 World Simulations/💡 Embodiement.md",
+    "🗂 Cognitive Research/📁 World Simulations/💡 Divine Intervention.md",
+    "Guide/📬 Inbox.md",
+    "🗂 Cognitive Research/🧰 Mind Prototyping Tool.md",
+    "Media/Experience Overlap Diagram.svg",
+    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md"
   ]
 }
