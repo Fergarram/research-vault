@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4191ecfe786e41ab",
+        "id": "946a0af5bb42d49a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🗂 Cognitive Research/📁 World Building/📝 World Building.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Research/📁 World Building/📝 World Building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "4191ecfe786e41ab",
+  "active": "946a0af5bb42d49a",
   "lastOpenFiles": [
-    "🗂 Cognitive Research/📝 Cognitive Research.md",
-    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 World Building/🧠 Brain dump for the first world prototype.md",
-    "🗂 Cognitive Research/📁 World Building/📝 World Building.md",
-    "🗂 Cognitive Research/📝 Cognitive Architecture.md",
-    "🗂 OS Research/📝 File Systems.md",
-    "🗂 OS Research/📝 Digital Items.md",
+    "🗂 Cognitive Research/📁 World Simulations/🧠 Brain dump for the first world prototype.md",
     "Guide/🗺 Roadmap.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 1 — ego-cells-markdown.md"
+    "README.md",
+    "🗂 Cognitive Research/📁 World Simulations/📝 World Simulations.md",
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
+    "🗂 Cognitive Research/📁 World Simulations/💡 Embodiement.md",
+    "🗂 Cognitive Research/📁 World Simulations/💡 Divine Intervention.md",
+    "Guide/📬 Inbox.md",
+    "🗂 Cognitive Research/🧰 Mind Prototyping Tool.md",
+    "Media/Experience Overlap Diagram.svg"
   ]
 }

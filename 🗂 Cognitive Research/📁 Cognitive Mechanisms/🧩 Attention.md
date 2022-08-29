@@ -10,7 +10,7 @@ What is it that controls attention?
 
 ## Possible implementation - Screens idea
 
-This relates to [[💡 Artificial Bodies]], [[🧩 Spatiotemporal or Network or Social Awareness]] as it might point to the [[📝 Technical Implementation]].
+This relates to [[💡 Embodiement]], [[🧩 Spatiotemporal or Network or Social Awareness]] as it might point to the [[📝 Technical Implementation]].
  
 When thinking about the emulation of attention, I thought of the idea of an AMI having multiple “screens” where different information appears.
 

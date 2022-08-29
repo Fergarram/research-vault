@@ -7,7 +7,7 @@ description: A public Obsidian vault with all my independent research on Cogniti
 
 This is a repository containing the Obsidian vault for all my research. I apologize for the lack of a better introduction here.
 
-If you want to know what I'm currently working on check the [[📬 TODO]] page. This is where I keep my list of tasks related to this vault.
+If you want to know what I'm currently working on check the [[📬 Inbox]] page. This is where I keep my list of tasks related to this vault.
 
 There are 3 major folders or topics:
 

@@ -2,7 +2,7 @@
 
 I feel the need to write a brief and concise introduction to my research in the field of cognitive sciences. Starting with a disclaimer saying that I am an amateur — I dediced to become a self-taught researcher some years ago. You can read more about [my personal reasons of why I'm working on this at my personal blog](https://fernando.works/journal/why-i-want-to-build-artificial-minds/).
 
-Besides my personal interests behind this work, there is a very precise goal that I have in mind. I want to build an artificial mind that's capable of understanding the software I use in my day-to-day, and I want it to help me build more software tools and with my digital tasks in general.
+Besides my personal interests behind this work, there is a very precise goal that I have in mind. I want to create a digital assistant that's capable of understanding the software I use in my day-to-day, and I want it to help me build more software tools and with my digital tasks in general.
 
 In order to arrive to that goal, I've been gathering resources, polishing ideas and developing experiments. We can divide those into a few major subfields, I'll explain each in more detail.
 
@@ -23,6 +23,8 @@ There have been more resources that I've studied but since this research vault i
 
 Another tool I came up with was to look at specific words that point to direct aspects of our experience and world that are necessary for useful communication with humans: [[❓ Words for analysis]].
 
+Similar to the selected words for analysis, I have a set of concept files that I call [[📝 Cognitive Mechanisms]] where each refers to a specific system that serves a function in a high-level sense. For example [[🧩 Motivation]], [[🧩 Focus]], or [[🧩 Mirror neurons]]. As you'll notice, some of the mechanisms have nothing written on them. This means that the idea is at the "seed" stage — it has been planted but it hasn't been hydrated yet.
+
 
 ## Technical Implementation
 
@@ -40,10 +42,13 @@ One of the most important experiments that will definetly take a long time to wo
 
 ## World building
 
-I believe the idea of [[📝 World Building]] and [[📝 Developmental Training]] is what makes my work's approach different from the rest but do take that with a grain of salt. We humans are entirely defined by the world we live in — from our physical composition to our human & animal experience. I believe we take that for granted. There can be an infinite amount of worlds hosting infinite types of life.
+One could say that my approach is that of the [Embodied Cognition Theory](https://en.wikipedia.org/wiki/Embodied_cognition). We humans are entirely defined by the world we live in — from our physical composition to our human & animal experience. I believe we take that for granted.
 
 Thus, in order to arrive at my goal of creating artificial minds, I need to be very intentional when it comes to designing the world they are going to live in and experience. It is important for them to have a _real_ experience that's designed to overlap in some aspects with our own world and experience of it.
 
+![[experience-overlap-diagram.svg|Venn diagram showing overlap between human experience and an artificial mind's experience]]
+
+This overlap corresponds to the specific properties that both us and artificial minds can refer to about our worlds.
 
 ## Developmental Training
 
