@@ -1,4 +1,8 @@
-Some of these I have read some I haven't. For the resources I have read and written notes about, see the [[📝 External Resources]] page.
+## Read material
+
+TODO: Create a shortcode that adds a list of files in the resources folder.
+
+## Unread material
 
 ## Papers
 

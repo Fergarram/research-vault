@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗂 Cognitive Research/📝 Cognitive Research.md",
+            "file": "README.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Research/📝 Cognitive Research.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "eb68ff78ce792447",
+  "active": "946a0af5bb42d49a",
   "lastOpenFiles": [
-    "🗂 Cognitive Research/🔤 Glossary.md",
-    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Correction Cells.md",
-    "README.md",
     "Guide/📬 Inbox.md",
-    "🗂 Cognitive Research/💡 The craft of creating digital beings.md",
-    "🗂 Cognitive Research/World Simulations/🧠 Brain dump for the first world prototype.md",
-    "🗂 Cognitive Research/📁 World Simulations/🧠 Brain dump for the first world prototype.md",
-    "🗂 Cognitive Research/📁 World Simulations/📝 Developmental Training.md",
-    "🗂 Cognitive Research/📁 World Simulations/💡 Embodiement.md"
+    "Guide/🗄 Resources.md",
+    "🗄 Resources/📝 Resources.md",
+    "README.md",
+    "Guide/🗺 Roadmap.md",
+    "🗂 OS Research/❓ Use Cases for UI Customization.md",
+    "🗂 OS Research/📝 OS Research.md",
+    "🗂 OS Research/📝 UI Design Language.md",
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
+    "🗂 Cognitive Research/🧰 Mind Prototyping Tool.md"
   ]
 }
