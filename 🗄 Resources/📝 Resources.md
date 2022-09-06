@@ -1,10 +1,14 @@
-## Read material
+## Library
+
+These are the resources I have read and taken notes of.
 
 TODO: Create a shortcode that adds a list of files in the resources folder.
 
-## Unread material
+## Anti-library
 
-## Papers
+These are the resources I haven't read but I'd like to have read or will read some time in the future.
+
+### Papers
 
 > ["Why Neurons Have Thousands of Synapses, a Theory of Sequence Memory in Neocortex" by Numenta](https://www.frontiersin.org/articles/10.3389/fncir.2016.00023/full)
 
@@ -12,7 +16,7 @@ TODO: Create a shortcode that adds a list of files in the resources folder.
 
 > ["On Crashing the Barrier of Meaning in AI" by Melanie Mitchell](https://melaniemitchell.me/PapersContent/AIMagazine2020.pdf)
 
-## Websites or Articles
+### Websites or Articles
 
 > [A GPU Approach to Conway's Game of Life](https://nullprogram.com/blog/2014/06/10/)
 
@@ -21,7 +25,7 @@ TODO: Create a shortcode that adds a list of files in the resources folder.
 > [Cognitive AI Panels](https://cognitive-ai-panel.webflow.io/panels) is a collection of conferences by 4 people where Bach is one of them, they talk about aspects of cognition and it's artificial counterpart. They also write posts about that.
 
 
-## Books
+### Books
 
 
 > ["The Book of Minds" by Philip Ball](https://play.google.com/store/books/details/Philip_Ball_The_Book_of_Minds?id=-WBKEAAAQBAJ) I think this might be a new game changer book for my research, kinda like finding out about Numenta or Joscha Bach.
@@ -41,7 +45,7 @@ TODO: Create a shortcode that adds a list of files in the resources folder.
 
 
 
-## Audios & Podcasts
+### Audios & Podcasts
 
 > [Joscha Bach on Intelligence, Consciousness, the Nature of Time, and Existence](https://www.youtube.com/watch?v=3MNBxfrmfmI)
 
@@ -49,7 +53,7 @@ TODO: Create a shortcode that adds a list of files in the resources folder.
 
 
 
-## Videos
+### Videos
 
 > [From Artificial Intelligence to Artificial Consciousness | Joscha Bach | TEDxBeaconStreet](https://www.youtube.com/watch?v=Jr7gY3JyzP8)
 
