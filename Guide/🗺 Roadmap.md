@@ -20,52 +20,59 @@ This also means that I have a clearer approach as to what to implement and what 
 
 For me, it changes the way I see things from now on.
 
-So, what are the next steps right now?
+---
 
-I know that I have a few side-projects going on:
-* Nuestro Voto
-* Video Games
+## Long-term vision (5-10 years)
 
-But my main projects are two:
-* My cognitive research
-* and Amos (WM)
+* Alpha versions of world simulation tools
+* Alpha versions of cognitive architecture tools
+* CogArch, Mind Studio
 
-Amos looks like a way to get a following and it’s not a 10-20 year long project but more of a 2-5 year long one. I think it’s more likely that in 2 years I can get a working window manager that can get the attention of people and leverage that. 
+## Mid-term vision (2-5 years)
 
-I think the goal should be to find an audience that enjoys ME developing and doing things online. It could start with Amos and continue with everything else. Also, there is no need to just focus on Amos. I can focus on both projects, exercise my systems programming, gain followers and get shit done.
+* Video game based on my engines
+* Solid primitives for my engines
+* Gain true fans / Auto-sustainable project
 
-This sounds like a good plan but who knows if this is how it goes.
+## Short-term vision (1-2 years)
 
-## Roadmap for Amos
+* Start recording progress and create devlogs or offline-streams
+* Simple world simulations (brain dump doc)
+* Connect world to brains (server to CogArch emulator) and perform experiments
+* Create experiments per word in “words for analyzing”
+* Focus on use cases and the words that emerge from those fake conversations. It’s those words that will gain priority when creating experiments to test those concepts.
 
-1. MVP: Get an infinite canvas with JuiceboxWM
-	* Play with that until it’s relatively useful and expected base interactions work:
-		* Multi Selection
-		* Moving
-		* Handling focus
-		* Some keyboard shortcuts
-2. Once I feel like the MVP is good enough for sharing, share on unix porn.
-	* Observe response
-	* Start putting more content more frequently so that fans can start expecting it
-	* Formalize it into a YouTube channel or streaming, etc.
-3. At this point, I’m ready to start planning more and setting a more formal roadmap for this project. My estimate is that it will take about 1 year to get here which means it may actually be 2 or 3.
+## Immediate goals or milestones
 
-## Roadmap for Cognitive Research
+* Synthesize all major ideas
+* Figure out the right keywords
+* Create a user journey of your work so people can navigate it
+* Improve Obscure so that it covers most features
+* Have monthly/etc calls with Nick to review my work or some other similar social tool like this
+* Finish [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
 
-1. ~~Finish Obscure to publish my research~~
-	* ~~Just follow the README in the repo.~~
-2. Markdown Experiment
-3. World Server/Client Protocol
-	* I’m referring to what’s in [[🧠 Brain dump for the first world prototype]].
-	* I think that the process of trying to implement those ideas will be similar to that of ego cells — it’s going to make me build a pipeline for building this which I’m expecting it to look like a server/client system.
-	* Since I mention simple “creatures” I think that the concept of ego cells will also benefit from this work.
-	* I see this becoming the sandbox in which I play with ideas about cognitive architectures. This is the place to implement them and test them.
+## How can I make a living?
 
+I like the **true fans** option better. I see that as a more tangible one that gets a better result in the end. It’s also a patience play.
 
-## Summary
+The only problem is time, but that’s actually not a big big problem.
 
-1. ~~Focus on finishing Obscure MVP this week.~~
-2. Get back to Markdown Experiment ~~OR work on NV's home page.~~
-3. Setup Linux Environment (OpenSUSE + GNOME)
-4. Get JuiceboxWM running with Xephyr
-5. Get back to Cognitive Research, etc.
+### How can I add value to others?
+
+Selling pre-trained brains for video games seems like the best first use-case for actually making money.
+	* based on genre
+	* language
+	* etc
+
+Selling pre-trained brains for tools is the longer-term option.
+	* Amos / WonderOS
+
+I don’t really want to build software tools in order to make money (IDEs, text editors, etc). I would love to already have them within the environment I like.
+
+I would like to work on them, but not for money. Maybe just customize them (?)  What I mean is I don’t want to code those tools in a traditional sense — it would have to be with the new itemized paradigm.
+
+Having said this, I think I would prefer to make money by selling the trained brains. This is a long-long term goal. I would first need to make a living just by supporters and not by selling a product or service.
+
+### Amos is secondary
+
+I really want to commit to the development of digital cognition tools. My OS research and tool development is secondary, but it will eventually merge with my digital cognition tools. This is why I think it’s important that I focus on my cognitive research first — this is where I have an edge, where I shine.

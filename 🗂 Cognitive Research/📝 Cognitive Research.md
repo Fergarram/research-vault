@@ -2,7 +2,7 @@
 
 I feel the need to write a brief and concise introduction to my research in the field of cognitive sciences. Starting with a disclaimer saying that I am an amateur — I dediced to become a self-taught researcher some years ago. You can read more about [my personal reasons of why I'm working on this at my personal blog](https://fernando.works/journal/why-i-want-to-build-artificial-minds/).
 
-Besides my personal interests behind this work, there is a very precise goal that I have in mind. I want to create a digital assistant that's capable of understanding the software I use in my day-to-day, and I want it to help me build more software tools and with my digital tasks in general.
+Besides my personal interests behind this work, there is a very precise goal that I have in mind. I want to create a digital assistant that's capable of understanding the software I use in my day-to-day, and I want it to help me build more software tools and help me with my digital tasks in general.
 
 In order to arrive to that goal, I've been gathering resources, polishing ideas and developing experiments. We can divide those into a few major subfields, I'll explain each in more detail.
 

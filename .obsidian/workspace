@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "58e6d80e5f7ea1bd",
+        "id": "d9877cb5f3d7a43c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Mirror neurons.md",
+            "file": "README.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Mirror neurons.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "58e6d80e5f7ea1bd",
+  "active": "d9877cb5f3d7a43c",
   "lastOpenFiles": [
-    "🗂 Cognitive Research/📝 Cognitive Research.md",
-    "🗄 Resources/📝 Resources.md",
-    "🗂 OS Research/📝 OS Research.md",
-    "README.md",
-    "Guide/📬 Inbox.md",
-    "Guide/🗄 Resources.md",
     "Guide/🗺 Roadmap.md",
-    "🗂 OS Research/❓ Use Cases for UI Customization.md",
-    "🗂 OS Research/📝 UI Design Language.md",
-    "🗂 Cognitive Research/🧰 Mind Prototyping Tool.md"
+    "Guide/📬 Inbox.md",
+    "README.md",
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
+    "🗂 Cognitive Research/📁 World Simulations/📝 Developmental Training.md",
+    "🗂 Cognitive Research/💡 The craft of creating digital beings.md",
+    "🗂 OS Research/📝 OS Research.md",
+    "🗂 OS Research/📝 Digital Assistants.md",
+    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Difficulties.md",
+    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Worlds.md"
   ]
 }

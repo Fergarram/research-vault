@@ -1,0 +1,1 @@
+Defining the primitives for how we interact with the lower-level parts of our actual computuers (i.e. processes, etc) allows us to also share this itemized knowledge with artificial beings who's role is perform digital tasks.

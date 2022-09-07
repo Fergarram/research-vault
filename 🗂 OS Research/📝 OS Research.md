@@ -1,12 +1,10 @@
-%%
-NOTE: This document is just a brain dump of ideas.
-%%
+%%NOTE: This document is just a brain dump of ideas.%%
 
-## Research Outline
+## Outline
 
-## Local-first Pro Tools and OS
+## Local-first OS for pros
 
-## Possible Business Model
+## Ideas for a business model
 
 ## Final thoughts
 
