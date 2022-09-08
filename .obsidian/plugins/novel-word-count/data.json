@@ -1,0 +1,563 @@
+{
+  "settings": {
+    "countType": "word",
+    "abbreviateDescriptions": false,
+    "alignment": "right",
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "🗄 Resources/📰 \"What is an individual? Biology seeks clues in information theory\" - Quanta Magazine.md": {
+      "wordCount": 198,
+      "pageCount": 1,
+      "characterCount": 1336,
+      "createdDate": 1662388544597,
+      "modifiedDate": 1662388544597
+    },
+    "🗄 Resources/📰 \"The Desktop Metaphor - Once Awesome, Now Hindrance\" - Karl Voit.md": {
+      "wordCount": 92,
+      "pageCount": 1,
+      "characterCount": 588,
+      "createdDate": 1662388544597,
+      "modifiedDate": 1662388544597
+    },
+    "🗄 Resources/📰 \"Hidden Computational Power Found in the Arms of Neurons\" - Quanta Magazine.md": {
+      "wordCount": 46,
+      "pageCount": 1,
+      "characterCount": 372,
+      "createdDate": 1662388544597,
+      "modifiedDate": 1662388544597
+    },
+    "🗄 Resources/📰 \"Google has mapped a piece of human brain in the most detail ever\" - NewScientist.md": {
+      "wordCount": 172,
+      "pageCount": 1,
+      "characterCount": 1105,
+      "createdDate": 1662388544597,
+      "modifiedDate": 1662388544597
+    },
+    "🗄 Resources/📝 Resources.md": {
+      "wordCount": 308,
+      "pageCount": 2,
+      "characterCount": 3126,
+      "createdDate": 1662503555846,
+      "modifiedDate": 1662503555846
+    },
+    "🗄 Resources/📕 \"On Intelligence\" -  HTM Abstract.md": {
+      "wordCount": 19,
+      "pageCount": 1,
+      "characterCount": 204,
+      "createdDate": 1662388544596,
+      "modifiedDate": 1662388544596
+    },
+    "🗄 Resources/📕 \"New Kind of Science\" by Stephen Wolfram.md": {
+      "wordCount": 32,
+      "pageCount": 1,
+      "characterCount": 494,
+      "createdDate": 1662388544596,
+      "modifiedDate": 1662388544596
+    },
+    "🗄 Resources/📑 \"Science and Complexity\" by WARREN WEAVER.md": {
+      "wordCount": 316,
+      "pageCount": 2,
+      "characterCount": 2073,
+      "createdDate": 1662388544596,
+      "modifiedDate": 1662388544596
+    },
+    "🗄 Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md": {
+      "wordCount": 340,
+      "pageCount": 2,
+      "characterCount": 2185,
+      "createdDate": 1662388544596,
+      "modifiedDate": 1662388544596
+    },
+    "🗄 Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 3.md": {
+      "wordCount": 45,
+      "pageCount": 1,
+      "characterCount": 329,
+      "createdDate": 1662388544596,
+      "modifiedDate": 1662388544596
+    },
+    "🗄 Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 2.md": {
+      "wordCount": 518,
+      "pageCount": 2,
+      "characterCount": 3280,
+      "createdDate": 1662388544596,
+      "modifiedDate": 1662388544596
+    },
+    "🗄 Resources/👨🏻‍🏫 \"Introduction to Complexity\" - Unit 1.md": {
+      "wordCount": 327,
+      "pageCount": 2,
+      "characterCount": 2150,
+      "createdDate": 1662388544595,
+      "modifiedDate": 1662388544595
+    },
+    "🗄 Resources/🐦 Tweet about actions by @tommoor.md": {
+      "wordCount": 46,
+      "pageCount": 1,
+      "characterCount": 356,
+      "createdDate": 1662388544595,
+      "modifiedDate": 1662388544595
+    },
+    "🗄 Resources/🎥 \"Comprehensive Obsidian Zettelkasten Workflow\".md": {
+      "wordCount": 6,
+      "pageCount": 1,
+      "characterCount": 76,
+      "createdDate": 1662388544595,
+      "modifiedDate": 1662388544595
+    },
+    "🗄 Resources/🌎 \"T2Tile\" and \"Living Computation\".md": {
+      "wordCount": 43,
+      "pageCount": 1,
+      "characterCount": 320,
+      "createdDate": 1662388544595,
+      "modifiedDate": 1662388544595
+    },
+    "🗂 OS Research/🔤 Glossary.md": {
+      "wordCount": 16,
+      "pageCount": 1,
+      "characterCount": 105,
+      "createdDate": 1645402898876,
+      "modifiedDate": 1659136559825
+    },
+    "🗂 OS Research/📝 Universal Data Portability.md": {
+      "wordCount": 117,
+      "pageCount": 1,
+      "characterCount": 681,
+      "createdDate": 1636148373425,
+      "modifiedDate": 1645402245189
+    },
+    "🗂 OS Research/📝 UI Design Language.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1645402239865,
+      "modifiedDate": 1645402239865
+    },
+    "🗂 OS Research/📝 OS Research.md": {
+      "wordCount": 223,
+      "pageCount": 1,
+      "characterCount": 1293,
+      "createdDate": 1662503555846,
+      "modifiedDate": 1662525225350
+    },
+    "🗂 OS Research/📝 File Systems.md": {
+      "wordCount": 9,
+      "pageCount": 1,
+      "characterCount": 98,
+      "createdDate": 1647356640865,
+      "modifiedDate": 1653321936709
+    },
+    "🗂 OS Research/📝 Digital Items.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1660178928932,
+      "modifiedDate": 1660178928932
+    },
+    "🗂 OS Research/📝 Digital Assistants.md": {
+      "wordCount": 35,
+      "pageCount": 1,
+      "characterCount": 225,
+      "createdDate": 1662525239564,
+      "modifiedDate": 1662525355284
+    },
+    "🗂 OS Research/📝 Actions.md": {
+      "wordCount": 96,
+      "pageCount": 1,
+      "characterCount": 525,
+      "createdDate": 1654236315168,
+      "modifiedDate": 1654236508198
+    },
+    "🗂 OS Research/💡 Minimum Viable Interface.md": {
+      "wordCount": 252,
+      "pageCount": 1,
+      "characterCount": 1427,
+      "createdDate": 1636148373426,
+      "modifiedDate": 1645402245207
+    },
+    "🗂 OS Research/❓ Use Cases for UI Customization.md": {
+      "wordCount": 34,
+      "pageCount": 1,
+      "characterCount": 186,
+      "createdDate": 1645335599193,
+      "modifiedDate": 1657038047605
+    },
+    "🗂 Cognitive Research/🧰 Mind Prototyping Tool.md": {
+      "wordCount": 65,
+      "pageCount": 1,
+      "characterCount": 368,
+      "createdDate": 1661749773028,
+      "modifiedDate": 1661749773028
+    },
+    "🗂 Cognitive Research/🔤 Glossary.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1661749773036,
+      "modifiedDate": 1661750030043
+    },
+    "🗂 Cognitive Research/📝 Cognitive Research.md": {
+      "wordCount": 1012,
+      "pageCount": 4,
+      "characterCount": 6212,
+      "createdDate": 1661749773056,
+      "modifiedDate": 1662570214549
+    },
+    "🗂 Cognitive Research/📁 World Simulations/🧠 Brain dump for the first world prototype.md": {
+      "wordCount": 1389,
+      "pageCount": 5,
+      "characterCount": 8061,
+      "createdDate": 1661749773077,
+      "modifiedDate": 1661749773077
+    },
+    "🗂 Cognitive Research/📁 World Simulations/📝 World Simulations.md": {
+      "wordCount": 828,
+      "pageCount": 3,
+      "characterCount": 4862,
+      "createdDate": 1661749773027,
+      "modifiedDate": 1661749773028
+    },
+    "🗂 Cognitive Research/📁 World Simulations/💡 Embodiement.md": {
+      "wordCount": 20,
+      "pageCount": 1,
+      "characterCount": 596,
+      "createdDate": 1661749773027,
+      "modifiedDate": 1661749773027
+    },
+    "🗂 Cognitive Research/📁 World Simulations/💡 Divine Intervention.md": {
+      "wordCount": 29,
+      "pageCount": 1,
+      "characterCount": 163,
+      "createdDate": 1661749773027,
+      "modifiedDate": 1661749773027
+    },
+    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Worlds.md": {
+      "wordCount": 37,
+      "pageCount": 1,
+      "characterCount": 219,
+      "createdDate": 1661749773095,
+      "modifiedDate": 1661749773096
+    },
+    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Difficulties.md": {
+      "wordCount": 52,
+      "pageCount": 1,
+      "characterCount": 326,
+      "createdDate": 1662525408238,
+      "modifiedDate": 1662525532852
+    },
+    "🗂 Cognitive Research/📁 World Simulations/💡 Analogue Controls.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1661749764604,
+      "modifiedDate": 1661749764604
+    },
+    "🗂 Cognitive Research/📁 Words for analysis/💬 Smell.md": {
+      "wordCount": 25,
+      "pageCount": 1,
+      "characterCount": 132,
+      "createdDate": 1655769531148,
+      "modifiedDate": 1655769606738
+    },
+    "🗂 Cognitive Research/📁 Words for analysis/💬 Layout.md": {
+      "wordCount": 21,
+      "pageCount": 1,
+      "characterCount": 118,
+      "createdDate": 1645339411914,
+      "modifiedDate": 1645339484871
+    },
+    "🗂 Cognitive Research/📁 Words for analysis/💬 Imagine.md": {
+      "wordCount": 57,
+      "pageCount": 1,
+      "characterCount": 301,
+      "createdDate": 1657119090061,
+      "modifiedDate": 1657119303399
+    },
+    "🗂 Cognitive Research/📁 Words for analysis/💬 Hindsight.md": {
+      "wordCount": 33,
+      "pageCount": 1,
+      "characterCount": 189,
+      "createdDate": 1645339310999,
+      "modifiedDate": 1650987966663
+    },
+    "🗂 Cognitive Research/📁 Words for analysis/💬 Absence.md": {
+      "wordCount": 22,
+      "pageCount": 1,
+      "characterCount": 101,
+      "createdDate": 1645339436349,
+      "modifiedDate": 1645339446520
+    },
+    "🗂 Cognitive Research/📁 Words for analysis/❓ Words for analysis.md": {
+      "wordCount": 211,
+      "pageCount": 1,
+      "characterCount": 1231,
+      "createdDate": 1644242386100,
+      "modifiedDate": 1659573814319
+    },
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md": {
+      "wordCount": 9,
+      "pageCount": 1,
+      "characterCount": 60,
+      "createdDate": 1645343327009,
+      "modifiedDate": 1659136604122
+    },
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md": {
+      "wordCount": 1665,
+      "pageCount": 6,
+      "characterCount": 9546,
+      "createdDate": 1637816935420,
+      "modifiedDate": 1659908420109
+    },
+    "🗂 Cognitive Research/📁 Technical Implementation/💡 Livewiring.md": {
+      "wordCount": 367,
+      "pageCount": 2,
+      "characterCount": 2312,
+      "createdDate": 1636148373425,
+      "modifiedDate": 1655617486984
+    },
+    "🗂 Cognitive Research/📁 Technical Implementation/❓ List of problems for ego-cells to solve.md": {
+      "wordCount": 126,
+      "pageCount": 1,
+      "characterCount": 668,
+      "createdDate": 1643369505995,
+      "modifiedDate": 1657038108136
+    },
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001c - Genetic Algorithms on ECs.md": {
+      "wordCount": 331,
+      "pageCount": 2,
+      "characterCount": 1965,
+      "createdDate": 1655615230078,
+      "modifiedDate": 1659908420090
+    },
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001b - A Truth Model for Ego Cells.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1657068552692,
+      "modifiedDate": 1657068552692
+    },
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md": {
+      "wordCount": 1471,
+      "pageCount": 5,
+      "characterCount": 8686,
+      "createdDate": 1650556132522,
+      "modifiedDate": 1660102756544
+    },
+    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md": {
+      "wordCount": 172,
+      "pageCount": 1,
+      "characterCount": 993,
+      "createdDate": 1661749773076,
+      "modifiedDate": 1661750018002
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 1 — ego-cells-markdown.md": {
+      "wordCount": 14,
+      "pageCount": 1,
+      "characterCount": 82,
+      "createdDate": 1660100922806,
+      "modifiedDate": 1660101022684
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Walls and limits — Are these place cells?.md": {
+      "wordCount": 112,
+      "pageCount": 1,
+      "characterCount": 594,
+      "createdDate": 1659575942108,
+      "modifiedDate": 1659655482268
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Underestimating the parsing problem.md": {
+      "wordCount": 374,
+      "pageCount": 2,
+      "characterCount": 2134,
+      "createdDate": 1659575971234,
+      "modifiedDate": 1659576020082
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Thinking in terms of simple programs.md": {
+      "wordCount": 69,
+      "pageCount": 1,
+      "characterCount": 405,
+      "createdDate": 1659655127813,
+      "modifiedDate": 1659663564400
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Spatial frameworks for modeling spatial systems.md": {
+      "wordCount": 200,
+      "pageCount": 1,
+      "characterCount": 1209,
+      "createdDate": 1659575967983,
+      "modifiedDate": 1659908209245
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Memory and sequential patterns.md": {
+      "wordCount": 162,
+      "pageCount": 1,
+      "characterCount": 1007,
+      "createdDate": 1659575885093,
+      "modifiedDate": 1659575926552
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Correction Cells.md": {
+      "wordCount": 178,
+      "pageCount": 1,
+      "characterCount": 1025,
+      "createdDate": 1660016607124,
+      "modifiedDate": 1660074601002
+    },
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Analyzing the true essense of markdown.md": {
+      "wordCount": 429,
+      "pageCount": 2,
+      "characterCount": 2481,
+      "createdDate": 1659574617719,
+      "modifiedDate": 1659656053262
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Time Perseption.md": {
+      "wordCount": 50,
+      "pageCount": 1,
+      "characterCount": 312,
+      "createdDate": 1645402553137,
+      "modifiedDate": 1654050922169
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Spatiotemporal or Network or Social Awareness.md": {
+      "wordCount": 204,
+      "pageCount": 1,
+      "characterCount": 1109,
+      "createdDate": 1645382135362,
+      "modifiedDate": 1651009182944
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Runtime Modeling.md": {
+      "wordCount": 42,
+      "pageCount": 1,
+      "characterCount": 262,
+      "createdDate": 1661749669308,
+      "modifiedDate": 1661749669308
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Prediction & Learning.md": {
+      "wordCount": 20,
+      "pageCount": 1,
+      "characterCount": 120,
+      "createdDate": 1645402524291,
+      "modifiedDate": 1648010508427
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Motivation.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1645553993375,
+      "modifiedDate": 1645553993375
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Mirror neurons.md": {
+      "wordCount": 22,
+      "pageCount": 1,
+      "characterCount": 155,
+      "createdDate": 1661749764606,
+      "modifiedDate": 1662503599664
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Mental Simulations.md": {
+      "wordCount": 20,
+      "pageCount": 1,
+      "characterCount": 117,
+      "createdDate": 1645339248334,
+      "modifiedDate": 1645341697193
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Goal Setting.md": {
+      "wordCount": 64,
+      "pageCount": 1,
+      "characterCount": 351,
+      "createdDate": 1645339082296,
+      "modifiedDate": 1645339230684
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 General Memory.md": {
+      "wordCount": 46,
+      "pageCount": 1,
+      "characterCount": 336,
+      "createdDate": 1650987978605,
+      "modifiedDate": 1654050922150
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Focus.md": {
+      "wordCount": 145,
+      "pageCount": 1,
+      "characterCount": 829,
+      "createdDate": 1661749669308,
+      "modifiedDate": 1661749669308
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Dreaming & Creativity.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1657119252479,
+      "modifiedDate": 1657119252479
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Developmental Modeling.md": {
+      "wordCount": 16,
+      "pageCount": 1,
+      "characterCount": 100,
+      "createdDate": 1650986625750,
+      "modifiedDate": 1662651258402
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Biographical Memory.md": {
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "createdDate": 1645402204188,
+      "modifiedDate": 1645402204188
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Attention.md": {
+      "wordCount": 167,
+      "pageCount": 1,
+      "characterCount": 1058,
+      "createdDate": 1661749669307,
+      "modifiedDate": 1661749669307
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Analogies or Projections.md": {
+      "wordCount": 76,
+      "pageCount": 1,
+      "characterCount": 443,
+      "createdDate": 1645402147435,
+      "modifiedDate": 1646527417725
+    },
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md": {
+      "wordCount": 141,
+      "pageCount": 1,
+      "characterCount": 858,
+      "createdDate": 1644242664906,
+      "modifiedDate": 1657119303380
+    },
+    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Developmental Training.md": {
+      "wordCount": 218,
+      "pageCount": 1,
+      "characterCount": 1315,
+      "createdDate": 1661749764605,
+      "modifiedDate": 1662648399502
+    },
+    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Cognitive Architecture.md": {
+      "wordCount": 507,
+      "pageCount": 2,
+      "characterCount": 3124,
+      "createdDate": 1661749669308,
+      "modifiedDate": 1662653326338
+    },
+    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Meta Learning.md": {
+      "wordCount": 104,
+      "pageCount": 1,
+      "characterCount": 587,
+      "createdDate": 1662651170385,
+      "modifiedDate": 1662651264112
+    },
+    "README.md": {
+      "wordCount": 709,
+      "pageCount": 3,
+      "characterCount": 4291,
+      "createdDate": 1662388544595,
+      "modifiedDate": 1662576709808
+    },
+    "Guide/🗺 Roadmap.md": {
+      "wordCount": 806,
+      "pageCount": 3,
+      "characterCount": 4524,
+      "createdDate": 1661749773133,
+      "modifiedDate": 1662576145678
+    },
+    "Guide/📬 Inbox.md": {
+      "wordCount": 98,
+      "pageCount": 1,
+      "characterCount": 543,
+      "createdDate": 1662388544594,
+      "modifiedDate": 1662568757584
+    }
+  }
+}

@@ -89,15 +89,15 @@
   },
   "active": "d9877cb5f3d7a43c",
   "lastOpenFiles": [
-    "Guide/🗺 Roadmap.md",
     "Guide/📬 Inbox.md",
-    "README.md",
-    "🗂 Cognitive Research/📝 Cognitive Research.md",
-    "🗂 Cognitive Research/📁 World Simulations/📝 Developmental Training.md",
-    "🗂 Cognitive Research/💡 The craft of creating digital beings.md",
-    "🗂 OS Research/📝 OS Research.md",
-    "🗂 OS Research/📝 Digital Assistants.md",
-    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Difficulties.md",
-    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Worlds.md"
+    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md",
+    "🗂 Cognitive Research/🧰 Mind Prototyping Tool.md",
+    "🗂 OS Research/📝 Universal Data Portability.md",
+    "🗂 OS Research/❓ Use Cases for UI Customization.md",
+    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Cognitive Architecture.md",
+    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Meta Learning.md"
   ]
 }

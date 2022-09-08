@@ -41,6 +41,8 @@ Having said this, my research focuses on distilling our current knowledge about 
 
 [[📝 Resources]] is a list and guide to manage external resources like papers, books, articles, etc. If I find it's useful, I usually create notes about them.
 
+## 
+
 ## 👨🏻‍💻 About me
 
 You can find more about me at [fernando.works](https://fernando.works/) or contact me directly at [hello@fernando.works](mailto:hello@fernando.works).
