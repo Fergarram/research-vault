@@ -41,8 +41,8 @@ Having said this, my research focuses on distilling our current knowledge about 
 
 [[📝 Resources]] is a list and guide to manage external resources like papers, books, articles, etc. If I find it's useful, I usually create notes about them.
 
-## 
+## Get in touch
 
-## 👨🏻‍💻 About me
+If you disagree, have any comments or questions, feel free to reach out! I love talking about anything cognitive science and computers. You can DM me or tweat me on twitter at [@\_fergarram\_](https://twitter.com/_fergarram_).
 
-You can find more about me at [fernando.works](https://fernando.works/) or contact me directly at [hello@fernando.works](mailto:hello@fernando.works).
+You can also find more about me in [fernando.works](https://fernando.works/) or contact me directly at [hello@fernando.works](mailto:hello@fernando.works).
