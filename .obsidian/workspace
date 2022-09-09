@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "TODO:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "d9877cb5f3d7a43c",
   "lastOpenFiles": [
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 1 — ego-cells-markdown.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 2 — ego-cells-markdown.md",
+    "🗄 Resources/📝 Resources.md",
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
+    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Meta Learning.md",
+    "README.md",
     "Guide/📬 Inbox.md",
     "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
-    "🗂 Cognitive Research/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md",
-    "🗂 Cognitive Research/🧰 Mind Prototyping Tool.md",
-    "🗂 OS Research/📝 Universal Data Portability.md",
-    "🗂 OS Research/❓ Use Cases for UI Customization.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Cognitive Architecture.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Meta Learning.md"
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md"
   ]
 }
