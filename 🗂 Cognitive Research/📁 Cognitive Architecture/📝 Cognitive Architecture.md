@@ -1,5 +1,3 @@
-## Introduction
-
 Usually when we think about a cognitive architecture we refer to that of a human being. But throughout my work, I use this term more abstractly and analogous to that of a computer architecture in the sense that I'm not trying to figure out the cognitive architecture of human beings but rather just the parts that could serve to the goal of building digital assistants capable of speaking english or other languages in order to collaborate with us.
 
 This way I unbind myself from any need to be correct or accuarate about my ideas in regards to it being that of a human being. My goal is not to document all possible mechanisms or the best architecture but to simply explore and experiment in this space.

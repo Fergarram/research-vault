@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9877cb5f3d7a43c",
+        "id": "95651ce36bfc937c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "d9877cb5f3d7a43c",
+  "active": "95651ce36bfc937c",
   "lastOpenFiles": [
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 1 — ego-cells-markdown.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 2 — ego-cells-markdown.md",
-    "🗄 Resources/📝 Resources.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
-    "🗂 Cognitive Research/📝 Cognitive Research.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Meta Learning.md",
-    "README.md",
-    "Guide/📬 Inbox.md",
     "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md"
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md",
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
+    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Cognitive Architecture.md",
+    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Developmental Training.md",
+    "🗄 Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md",
+    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Worlds.md",
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 1 — ego-cells-markdown.md"
   ]
 }

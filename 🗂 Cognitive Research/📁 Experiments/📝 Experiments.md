@@ -1,5 +1,3 @@
-## Introduction
-
 This document is a starting point for navigating and understanding the way I document my experiments and how I share the results. Having said this, my experiments are mainly aimed towards finding out how to implement a substrate for the [[📝 Cognitive Mechanisms]] to be implemented on.
 
 ## Explorations
