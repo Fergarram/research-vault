@@ -4,7 +4,7 @@ This document fluctuates in the details quite often, but it's purpose is to serv
 
 ## Long-term vision (5-10 years)
 
-* Alpha versions of world simulation tools
+* Alpha versions of world building tools
 * Alpha versions of cognitive architecture tools
 * CogArch, Mind Studio
 

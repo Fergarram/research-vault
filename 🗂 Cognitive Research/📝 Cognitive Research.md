@@ -9,7 +9,7 @@ In order to arrive to that goal, I've been gathering resources, polishing ideas 
 * [[📝 Cognitive Architecture]]
 * [[📝 Technical Implementation]]
 * [[📝 Experiments]]
-* [[📝 World Simulations]]
+* [[📝 World Building]]
 * [[📝 Developmental Training]]
 
 ## Cognitive Architecture
@@ -45,7 +45,7 @@ One of the most important experiments that will definetly take a long time to wo
 Read the [[📝 Experiments]] document for more details.
 
 
-## World Simulations
+## World Building
 
 One could say that my approach is that of the [Embodied Cognition Theory](https://en.wikipedia.org/wiki/Embodied_cognition). We humans are entirely defined by the world we live in — from our physical composition to our human & animal experience. I believe we take that for granted.
 
@@ -55,7 +55,7 @@ Thus, in order to arrive at my goal of creating artificial minds, I need to be v
 
 This overlap corresponds to the specific objects and experiences that both us and artificial minds can refer to about our worlds.
 
-Read the [[📝 World Simulations]] document for more details.
+Read the [[📝 World Building]] document for more details.
 
 
 ## Developmental Training

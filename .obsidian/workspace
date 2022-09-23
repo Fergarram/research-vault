@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91a6b9d7c913a30a",
+        "id": "8ac73468a08bee6c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "world simulation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +82,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "91a6b9d7c913a30a",
+  "active": "8ac73468a08bee6c",
   "lastOpenFiles": [
-    "🗂 OS Research/📝 UI Design Language.md",
-    "README.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
+    "🗂 Cognitive Research/📁 World Building/💡 Video Games.md",
+    "🗂 Cognitive Research/📁 World Building/💡 Embodiement.md",
+    "🗂 Cognitive Research/📁 World Building/📝 World Building.md",
     "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Correction Cells.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Underestimating the parsing problem.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Spatial frameworks for modeling spatial systems.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Memory and sequential patterns.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Analyzing the true essense of markdown.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Walls and limits — Are these place cells?.md"
+    "🗺 Roadmap.md",
+    "Untitled.md",
+    "README.md",
+    "🗂 OS Research/📝 UI Design Language.md",
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md"
   ]
 }
