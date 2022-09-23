@@ -7,9 +7,9 @@ This website is my personal digital garden/wiki. Here I explore two major resear
 
 ## About me
 
-My name is [Fernando Garcia](https://fernando.works/) and I am a software developer, designer and indie researcher. I don't intend to be a source of truth on any of the topics I write about, but rather, I naïve view on existing ideas with a fresh "Gen Z" twist.
+My name is [Fernando Garcia](https://fernando.works/) and I am a software developer, designer and indie researcher. I don't intend to be a source of truth on any of the topics I write about, but rather, a naïve view on existing ideas with a fresh "Gen Z" twist.
 
-> Intended Audience: I expect the readers to be interested in AI, cognitive science, and/or software development.
+> 👥 Intended Audience — People interested in AI, cognitive science, and/or software development.
 
 ## About this website
 
