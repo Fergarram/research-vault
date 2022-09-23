@@ -2,8 +2,7 @@
 description: An implementation of Ego Cells, a type of cellular automata that parses Markdown semi-asynchronously based on neighboring rules.
 ---
 
-%%
-Note that this experiment is not finished yet. But this document will be where we introduce the experiment purpose, links to code, and summary of everything learned.
+%%Note that this experiment is not finished yet. But this document will be where we introduce the experiment purpose, links to code, and summary of everything learned.
 
 ---
 
@@ -17,6 +16,11 @@ Part 3 - the neighboring rules with genetic algorithms
 ## Github Repository
 
 [research-experiments/ego-cells-markdown](https://github.com/Fergarram/research-experiments/tree/main/ego-cells-markdown)
+
+### Test tags
+
+- [[🧪 test 1 — ego-cells-markdown]]
+- [[🧪 test 2 — ego-cells-markdown]]
 
 ---
 
@@ -32,32 +36,25 @@ Part 3 - the neighboring rules with genetic algorithms
 
 ---
 
-## Introduciton
+## Introduction
 
-[[📝 Ego Cells]] are a type cellular automata that I intend to use as a mechanism to dynamically parse data as instances of complex systems.
+[[📝 Ego Cells]] are a type of cellular automata that I intend to use as the main substrate for representing complex systems in a human-readable form.
 
-Essentially, an ego cell's purpose is to identify itself as a part of a larger model or system to constantly update its identity based on its neighboring connections, although these connections are not necessarily always in a lattice.
+Essentially, an ego cell's purpose is to identify itself as a part of a larger model or system and to update its identity based on its neighboring connections. An important difference between a more traditional type of cellular automata (For example, Conway's Game of Life) and Ego Cells is that a cell can be connected to alternative cell types that provide important information about a cell's environment as explained below.
 
-So for example, an ego cell could represent a letter in a word or a word in a sentence. It could also represent a person in a group of people.
-
+This experiment explores a specific of Ego Cells by using them to "parse" a markdown text buffer into essentially an AST (abstract syntax tree) with the possibility to use the cells' final state to generate valid HTML.
 
 ## Purpose
 
-I started this experiment with the intentions of exploring this type of CA (cellular automata). I wanted to know how feasable it was to implement a small program that converts characters in a markdown file into multiple layers of ego cells that determines which syntactical component within markdown's syntax it represents. One could "ask" each character if they are part of a heading 3 or if they are part of the URL in a link, etc.
+The original purpose of this experiment was to test ego cells with a real-world problem. But as I worked on this experiment I realized that the value was found in exploring and learning about the nature of cellular automata and the almost infinite ways in which they can be used to represent complex systems.
 
-The real value of a successful experiment here, would be to know how to convert an easy to read and write mental map of a system or finite state machine (in this case markdown) and convert that through a piece of software to some kind of machine coded that can evaluate some source type (in this case markdown text buffers) and trigger some actions or generate some data output.
-
+This experiment has also served as a way to explore concurrency — working with OpenCL and implementing simple rules per cell allows me to think in a different space that I'm used to compared to that of modern software development.
 
 ### How does this integrate into the big picture?
 
-Essentially I need a flexible enough way to represent mental models that can be implemented cheaply on computers and paired with learning or genetic algorithms and other external computer programs. It seems to me that having a flexible tissue of cells that's able to determine how raw data relates to a model is a good start.
+I need a cheap and scalable way to represent asynchronous complex systems while making it human-readable and compatible with genetic algorithms.
 
-For example, letters can be linked to words and words to named experiences. At the same time named experiences can be linked to sensations to other people to names to producing hormones to contracting muscles and so on. Following this natural analogy, we want to be able to build cognitive organs and systems.
-
-Thus, this first experiment aims to explore how a software implementation would look like that follows this train of thought with which a [[📝 Cognitive Architecture]] could be implemented.
-
-
-## TL;DR
+## Older Notes
 
 For as simple as markdown may seem it requires quite a few building blocks that I didn't take into account when I was initially thinking about this first experiment. Trying to find the neighboring rules needed to create this parser tissue lead me to discovering that there is an unkown number of possible building blocks that can be used to describe markdown — it's not just characters in a grid and a high-level model.
 

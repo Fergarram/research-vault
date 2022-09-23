@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "95651ce36bfc937c",
+        "id": "91a6b9d7c913a30a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 297
   },
   "right": {
     "id": "dc2f2cf1b1618891",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +87,17 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "95651ce36bfc937c",
+  "active": "91a6b9d7c913a30a",
   "lastOpenFiles": [
-    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Cognitive Architecture.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/📝 Developmental Training.md",
-    "🗄 Resources/📑 \"A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex\" by Numenta.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md",
-    "🗂 Cognitive Research/📁 World Simulations/💡 Artificial Worlds.md",
+    "🗂 OS Research/📝 UI Design Language.md",
+    "README.md",
     "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/🧪 test 1 — ego-cells-markdown.md"
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Technical Implementation.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Correction Cells.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Underestimating the parsing problem.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Spatial frameworks for modeling spatial systems.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Memory and sequential patterns.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Analyzing the true essense of markdown.md",
+    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Walls and limits — Are these place cells?.md"
   ]
 }

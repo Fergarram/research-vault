@@ -36,4 +36,6 @@ There is a sensation of closeness between perceived features. Consider the follo
 
 In the same way, I'm guessing that there could be a similar approach to recognizing other attributes of the markdown problem such as the beginning and end (top-left to bottom-right corners). Acquiring valuable information in the first glance before spending resources reading line by line could be a huge performance optimization.
 
+See [[🔩 Fast-thinking]].
+
 I'm starting to feel like the relationship between a finite definition of markdown and the abstract ideas of reading text are starting to overlap. Meaning that my initial problem of not knowing if I should focus on the abstract or the finite is actually a false dichotomy.

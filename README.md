@@ -3,15 +3,21 @@ title: Obscurity Wiki - My public research vault
 description: A public Obsidian vault with all my independent research on Cognitive Engineering, OS Development and Design, and Complexity.
 ---
 
-## Where to start
+This website is my personal digital garden/wiki. Here I explore two major research and experimentation areas: [[📝 Cognitive Research]] and [[📝 OS Research]].
 
-This website is my personal research garden/wiki. I focus on two major research and experimentation areas: [[📝 Cognitive Research]] and [[📝 OS Research]].
+## About me
 
-As with any [digital garden](https://maggieappleton.com/garden-history), documents can be at different "growth" stages independently of their type (as explained below). For example, you might find that there are empty pages. This allows me to "plant" ideas which I slowly "hydrate" and fill with information and connections. It also allows me to validate and fomalize concepts.
+My name is [Fernando Garcia](https://fernando.works/) and I am a software developer, designer and indie researcher. I don't intend to be a source of truth on any of the topics I write about, but rather, I naïve view on existing ideas with a fresh "Gen Z" twist.
 
-### Document taxonomy
+> Intended Audience: I expect the readers to be interested in AI, cognitive science, and/or software development.
 
-I try to organize everything in a meaningful or useful way. You can think of this website as a text editor that displays and allows you to read a codebase (i.e. Sublime Text or VS Code). I use emojis as icons to identify the type of document. For example, the 📝 icon is used to identify synthesized topics or concepts within a research space. The 🔬 icon is used to identify experiment documents, and for my experiment notes I use the 📎 icon to store important ideas related to a specific experiment.
+## About this website
+
+As Maggie Appleton explains in her [post about digital gardens](https://maggieappleton.com/garden-history), documents can be at different _growth_ stages. For example, you might find that there are empty pages or half-baked ideas. This allows me to _plant_ ideas which I slowly _hydrate_ and fill with information and connections. It also allows me to validate and fomalize concepts.
+
+You can think of this website as a text editor or IDE that allows you to browse and read the files in a repository. I use emojis as icons to identify the type of document. For example, the 📝 icon is used to identify topics or concepts within a research space. The 🔬 icon is used to identify experiment documents, and for my experiment notes I use the 📎 icon to store important ideas related to a specific experiment. 
+
+Instead of providing a definition for each type or icon, I invite you, the reader, to explore the sidebar and try to figure out how they are used.
 
 ### Quick links
 
@@ -20,7 +26,7 @@ I try to organize everything in a meaningful or useful way. You can think of thi
 
 ## 🗂 Cognitive Research
 
-My work in this space is mainly experimentation and synthesis of conceptual cognitive primitives with the goal of creating a toolkit for developing personalized AGI agents or artificial beings.  I argue that AGI doesn't need to be human-like in every way, but rather, just with the parts we need it to.
+My work in this space is mainly experimentation with conceptual cognitive primitives with the goal of creating a toolkit for developing personalized AGI agents or artificial beings. Contrary to the common view that AGI needs to be this know-it-all intelligence, I argue that AGI doesn't need to be human-like in every way, but rather, just with the parts we need it to.
 
 For example, an AGI that's used as the mind of a video game's NPC doesn't need to understand what a tiktok is or how it feels to drink coffee unless the game design requires that. The same would apply for any type of use case — a digital assistant that manages your computer OS doesn't need to understand why we have pets or the difference between a dog and a cat.
 
