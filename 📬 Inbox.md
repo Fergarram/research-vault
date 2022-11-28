@@ -2,14 +2,14 @@ This document is like a TODO list and small brain-dump space. For a major vision
 
 ## Current Priorities
 
-* Keep working on [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
-* Read the new book I bought
-* Have monthly/etc calls with Nick to review my work or some other similar social tool like this
+* Finish report on [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
 
 ## Regarding Obscure and UX
 
 * Create a user journey of your work so people can navigate it
-* Improve Obscure so that it covers most features
+	* Create a landing page with recent changes
+	* Some type of guide system
+* Improve Obscure so that it covers most features in its todo list.
 
 ---
 
