@@ -32,7 +32,7 @@ Yes, it sounds pretentious but I have currently no better term. So let me explai
 
 ### Interface Design as in UI Design
 
-In order to successfully interact with any digital world, we need to have an interface that allows us to do that. Given the richness of interactions that socially intelligent beings may have, such an interface would not be easy to design. This is why Divine Intervention Interface Design is an important research space. It will be a crucial tool for [[📝 Developmental Training]].
+In order to successfully interact with any digital world, we need to have an interface that allows us to do that. Given the richness of interactions that socially intelligent beings may have, such an interface would not be easy to design. This is why Divine Intervention Interface Design is an important research space. It will be a crucial tool for [[💡 Developmental Training]].
 
 
 

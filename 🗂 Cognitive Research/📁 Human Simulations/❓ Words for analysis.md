@@ -1,4 +1,6 @@
-Used for [[📝 Cognitive Research]]
+It might be a better idea to organize words around senses and anything related to the animal inherent experiences.
+
+---
 
 This list of words should only contain concepts that have a direct experiential relationship with the world.
 

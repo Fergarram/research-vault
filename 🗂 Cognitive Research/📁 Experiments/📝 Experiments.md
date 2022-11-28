@@ -19,8 +19,7 @@ I also created a document type that represents tests for a given experiment. The
 ## Active Experiments
 
 - [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]]
-- [[🔬 Experiment 001b - A Truth Model for Ego Cells]]
-- [[🔬 Experiment 001c - Genetic Algorithms on ECs]]
+- [[🔬 Experiment 001c - Cell reproduction systems]]
 
 --- 
 

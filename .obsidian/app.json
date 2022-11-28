@@ -9,5 +9,6 @@
   "showIndentGuide": false,
   "smartIndentList": false,
   "useTab": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "legacyEditor": true
 }

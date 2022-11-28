@@ -2,29 +2,171 @@
 description: An implementation of Ego Cells, a type of cellular automata that parses Markdown semi-asynchronously based on neighboring rules.
 ---
 
-%%Note that this experiment is not finished yet. But this document will be where we introduce the experiment purpose, links to code, and summary of everything learned.
-
----
-
-I'm currently looking at three parts:
-
-Part 1 - The initial truth model
-Part 2 - The instancing mechanism - ego cells
-Part 3 - the neighboring rules with genetic algorithms
-%%
-
 ## Github Repository
 
 [research-experiments/ego-cells-markdown](https://github.com/Fergarram/research-experiments/tree/main/ego-cells-markdown)
+
+%%TODO: expand this outline
+To achieve A, I did B. I observed C thus I conclude D.
+
+Presenting initial assumption: Parsing MD with ego cells is possible by:
+	Having a grid of cells able to read their neighbors
+		Each cell needs access to their surrounding neighbors output
+	Where neighboring rules divide into abstraction layers
+		Character types
+		Token types
+		Block types
+	Each abstraction is defined by the neighboring rules that react to the layer below or above
+	Cells can arbitrarily only read 6 block radius each
+		In order to successfully detect all tokens, I tried using a radius of 3 blocks. But I noticed that there were some problems, so the radius maybe should not be defined explicitely.
+	Each abstraction layer should correspond to a z-level or 2D layer of cells forming a cubicical grid
+
+Implementing neighboring rules for markdown
+	Setup development environment
+		Load markdown and have a buffer ready
+		Setup OpenCL
+		Adding visualizations
+	Writing neighboring rules
+		Trouble with finding the neighboring rules for higher abstractions
+		Trouble with detecting stable code blocks
+		Trouble with overriding rules
+
+Re-approaching the problem
+	Analyzing the true essence of markdown
+		Orientation and sequence
+		Text types (code and none-code)
+		Nested text types (bold, non-bold, etc)
+	Wolfram's simple programs
+		Per-layer programs
+	Genetic Algorithms
+		Genes per simple program vs the whole
+
+Concluding observations
+	Numenta's theory of a thousand brains
+		Cortical columns as a spatio-temporal mirroring substrate
+		Digital spacetime
+		Ego Cells as Cortical Columns
+	A possible framework for human-like intelligence: The three parts of a brain
+		Modeling substrate
+		Guiding system
+		Body maintenance system
+	Performance - GPUs, CPUs and FPGAs
+%%
+
+## Introduction
+
+This experiment explores a specific use case of [[📝 Ego Cells]]: using them to parse a markdown text buffer into an abstract representation with the possibility to use the cells' final state to generate valid HTML.
+
+The original purpose was to test ego cells with a real-world problem. But as I worked on this experiment I realized that the value was found in exploring and learning about the nature of cellular automata and the almost infinite ways in which they can be used to represent complex systems in spacetime.
+
+This experiment has also served as a way to explore parallel computing — working with OpenCL and implementing simple rules per cell allows me to think in a different space that I'm not used to compared to that of modern software development.
+
+> 🎥 Watch the [YouTube video]() where I demo and explain the experiment.
+
+## Theoretical Assumption
+
+For as simple as markdown may seem, it requires quite a few building blocks that I didn't take into account when I was initially thinking about this first experiment. Trying to find the neighboring rules needed to create this parsing cell tissue lead me to discovering that there is an unknown number of ways to describe markdown — it's not just characters in a grid and a high-level model.
+
+For example, I thought there had to be a purely abstract representation of truth. In this case truth being markdown syntax rules. What I realized is that truth cannot exist purely, instead, one rather translates the learned model from one space to another. I'm calling this process "Model Translation", the act of reproducing a learned system in a different modeling substrate.
+
+Another naive assumption was that I could implement a genetic algorithm that could find the best neighboring rules to represent markdown. The problem is that due to the large number of ways in which ego cells can connect, it would take too much time to arrive to good neighboring rules. It would also require a large set of markdown samples so that the cells are able to parse unseen markdown texts effectively.
+
+In general, there were many ideas that didn't work as I expected. But what was initially a rough concept called "ego cells" turned into a more robust building block I can use for future work. Next, I'll talk in more detail about the results and discoveries I made through this experiment.
+
+## Ego cells in detail
+
+In the beginning, I was struggling to find a way to write the neighboring rules. I thought that each layer of cells would represent an abstraction layer.
+
+```
+Layer 1: raw characters
+Layer 2: special characters (#, *, abc, 123)
+Layer 3: tokens (heading 1 start, heading content, etc)
+Layer 4: lines (heading 1, code block, paragraph, list)
+```
+
+But following this approach failed and produced weird behavior like in the screenshot below.
+
+![[Screen Shot 2022-06-06 at 0.17.16.png]]
+
+After realizing this wasn't going to work as I needed it to, I decided to go back to the basics and think about the fundamentals of markdown and text.
+
+At this time I started reading ["A new kind of science" by Stephen Wolfram](https://www.wolframscience.com/nks/). In [chapter 3](https://www.wolframscience.com/nks/chap-3--the-world-of-simple-programs/), he talks about the notion of simple programs. He explains that you don't need complex programs to produce complex behavior and shows multiple examples. 
+
+I turned my mindset around this and decided to throw away the abstraction approach. Instead, I focused on getting simple neighboring rules that produced the small behavior I needed. This changed everything, now I was able to rely on the small programs to know the boundaries that each cell needed to determine its state. Everything started to make sense. 
+
+### Two modes of parsing
+
+Reading is sequential and requires orientation. For example, in english we read left-to-right and top-to-bottom. I had completely ignored this fact and was struggling to find a way to parse markdown in a fully parallel way. I kept thinking that we humans can take a glimpse at a markdown text file and get a quick map of where are the headings, paragraphs, etc. I supposed this is how it should be done with ego cells, and I wasn't wrong, I simply was ignoring the sequential nature and orientation information required to properly identify different block types.
+
+I then remembered the concept of slow-vs-fast thinking. Slow thinking requires to go through each word and follow through. Fast thinking is less precise but may provide the information we're looking for like finding a heading quick. The problem with fast thinking is that the information could be mistaken.
+
+Take for instance the case where there is a code block with a large bash script. 
+
+```bash
+...
+
+# This looks like a heading!!
+
+...
+
+```
+
+Let's also say that you don't speak english and you don't know what code is, and the only thing you know is markdown syntax. You could easily mistake this by a heading. This is essentially what I was struggling with on a high-level.
+
+I thought I could solve this problem with a memory of sorts that would allow a cell to know about it's overall context — if it's within a code block or not. But it seemed overkill for this problem. So what I ended up doing was to use a layer of cells where each cell had the simple program of detecting the border and corners to decide whether or not it's part of a code block or regular text such as headings and paragraphs.
+
+Using the example above, the cells in that bash comment are now able to know if they are a heading or just code content.
+
+### Programs exist
+
+Using simple multi-layer programs
+
+![[experiment-001-demo-1.gif]]
+
+### Using ego cell tissue as cortical columns
+
+While I was working on this experiment I read [[📑 "A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex" by Numenta]]. It proposes a theoretical framework to understand how the cortical columns in the neocortex might use possible grid cells to generate meaning in a space-oriented manner. I got hooked by this idea and started to think how this experiment could relate to that.
+
+Even though this experiment only explores a part of what ego cells are meant to be, it was enough for me to start thinking about 
+
+
+## Digital spatiotemporal substrate
+
+properties of the digital space
+
+-   Text files, images, and computers in general    
+-   Cells are wired accordingly to this nature
+-   Common spatial patterns are needed for goal setting
+    -   borders / sense of orientation
+
+## A general layout for intelligence
+-   Active Modeling
+-   Attention Management
+-   Body Management
+
+## Prototyping pipeline
+
+OpenCL and scalability
+
+## Final thoughts & further explorations
+
+-   UMMF (Universal Mind Map Format) — Model Translation
+    -   Spatial Representation
+    -   Relational Representation
+    -   Associated Data Array
+-   Basic 2D grid world with simple life
+
+
+## Notes & Vault Meta
+
+---
 
 ### Test tags
 
 - [[🧪 test 1 — ego-cells-markdown]]
 - [[🧪 test 2 — ego-cells-markdown]]
 
----
-
-## Clip Notes
+### Clip Notes
 
 - [[📎 Correction Cells]]
 - [[📎 Analyzing the true essense of markdown]]
@@ -34,107 +176,7 @@ Part 3 - the neighboring rules with genetic algorithms
 - [[📎 Thinking in terms of simple programs]]
 - [[📎 Walls and limits — Are these place cells?]]
 
----
-
-## Introduction
-
-[[📝 Ego Cells]] are a type of cellular automata that I intend to use as the main substrate for representing complex systems in a human-readable form.
-
-Essentially, an ego cell's purpose is to identify itself as a part of a larger model or system and to update its identity based on its neighboring connections. An important difference between a more traditional type of cellular automata (For example, Conway's Game of Life) and Ego Cells is that a cell can be connected to alternative cell types that provide important information about a cell's environment as explained below.
-
-This experiment explores a specific of Ego Cells by using them to "parse" a markdown text buffer into essentially an AST (abstract syntax tree) with the possibility to use the cells' final state to generate valid HTML.
-
-## Purpose
-
-The original purpose of this experiment was to test ego cells with a real-world problem. But as I worked on this experiment I realized that the value was found in exploring and learning about the nature of cellular automata and the almost infinite ways in which they can be used to represent complex systems.
-
-This experiment has also served as a way to explore concurrency — working with OpenCL and implementing simple rules per cell allows me to think in a different space that I'm used to compared to that of modern software development.
-
-### How does this integrate into the big picture?
-
-I need a cheap and scalable way to represent asynchronous complex systems while making it human-readable and compatible with genetic algorithms.
-
-## Older Notes
-
-For as simple as markdown may seem it requires quite a few building blocks that I didn't take into account when I was initially thinking about this first experiment. Trying to find the neighboring rules needed to create this parser tissue lead me to discovering that there is an unkown number of possible building blocks that can be used to describe markdown — it's not just characters in a grid and a high-level model.
-
-What I found out is that the high-level model is made up of other models (or building blocks) that may have derived from different sources. For example, I initially didn't think I would need to represent words as characters separated by spaces and other special characters or that parsing requires a representation of sequence. Assuming these and other things was naive but it lead to a richer headspace for me now.
-
-The next step would be to set the bar way lower and to focus on using the tools I developed in this experiment to try to solve easier problems than parsing markdown.
-
-
-## Discoveries: Cell taxonomy and preconnected tissue
-
-Ego cells can have subtypes that are connected differently in the tissue, there are also a few other helpful cells that are preconnected to them.
-
-Defining the reach of the neighborhood or the number of abstraction layers above the raw data is determined by the problem requirements and nature.
-
-In the case of parsing markdown, we could benefit from a larger neighborhood (6 cells of radius) and three layers of abstraction to represent the cell's identification with special characters (a `#`) tokens (the `###`'s) and blocks (a heading level 3).
-
-Since I know the nature of parsing markdown, I can try to predict the needed reach in the tissue, not only that but also how they need to be preconnected — I'll talk about preconnections after explaining a bit more about each cell type needed to parse markdown.
-
-I have to say that I'm not doing Token Cells since that's the job of the genetic algorithm. So instead, I think that the size of the neighborhood and the other connections will always determine which tokens are possible and make more sense to solve the problem, in this case, parsing markdown.
-
-### Character Cells (Ego Cell)
-
-This is the obvious cell type. We need a way to represent characters in space. They are conencted 3 cells to their left and right and only 1 cell up and down. Each is also connected to the current, top and bottom Line Cells. For representing sequence, they are connected to the previous and next cells with a reach of 3 neighbors; if the next cell is in the line above or below, it will connect to it regardless.
-
-%% `Insert Diagram Here` %%
-
-Remember that a connection between cells mean they may have access to each state type if needed, so for example, between Character Cells they can read all 4 "layers" of state.
-
-
-### Border Cells (Impostor Ego Cell)
-
-These can pretend to be any type of Ego Cell and their value is always the same — null. Real Ego Cells are connected to them when close to the border of the tissue thinking they are "living" neighbors.
-
-%% `Insert Diagram Here` %%
-
-
-### Line Cells (Ego Cell)
-
-These are connected to a row of Character Cells in order to represent the "line" abstraction probably needed to parse markdown. These cells can determine their state based on what each Character Cell tells them and each Character cell can also read the state of the Line Cell.
-
-%% `Insert Diagram Here` %%
-
-
-### Block Cells (Ego Cell)
-
-These are anatomically similar to Line Cells. Each is connected to a Line Cell and each of their sibilings. Why? Because a single or multiple Line Cells could represent a Block. For example, a paragraph vs a heading.
-
-%% `Insert Diagram Here` %%
-
-At the time of writing this, I'm not sure if both Block Cells or Line Cells are needed since they do pretty much the same thing.
-
-
-### Correction Cells
-
-%% `Write summary` %%
-
-%% `Insert Diagram Here` %%
-
-
-### More about preconnected lattices
-
-Every cell is preconnected through a lattice. For example, neighboring connections between Charachter Cells represent the spatial interactions between the main actors. In the same way, cells need to be preconnected through in a way that we can represent a sense of sequence or time. Walls and/or corner cells would work similarly.
-
-Since one of the limits I set for this experiment was to not use absolute coordinates as data available to cells, they instead have connections to cells representing important relative information about their position in space, time and any other dimension that would be needed.
-
-We want to have preconnected tissue in order to be specific about the type of space or substrate that it's going to be sovling problems in.
-
-
-## Generalized observations
-
-- Cellular Automata Tissue as attractor mechanism (attractor being markdown syntax)
-- Custom cell types and pre-wiring give tissue super powers
-- Code pipeline for working with OpenCL
-- Ray-casting seems to be done in a single layer to its own without loopin each cell with a for.
-- Lo importante es definir el problema a resolver o el "mundo" en que se "sobrevive".
-- Talk about problems and other ideas? Or promote my wiki so that they can read my personal notes?
-
----
-
-Vault Relationships:
+### Vault Relationships:
 
 - [[🧩 Spatiotemporal or Network or Social Awareness]]
 - [[🧩 Time Perseption]]

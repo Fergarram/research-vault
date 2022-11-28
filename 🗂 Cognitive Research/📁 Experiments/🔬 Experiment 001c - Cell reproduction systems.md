@@ -1,4 +1,10 @@
-New Thoughts:
+New new thoughts:
+
+I don't think it's worth using GA on this specfic markdown problem since the possible connections between neighboring cells are quite big. A reasonable approach would be to use GA for the primitives with which something such as markdown is allowed to exist if that makes sense.
+
+---
+
+New thoughts:
 
 What if this experiment is actually about finding a way to train cells with GAs? What I mean is, if I take the approach of simple programs and well defined limits/boundaries, is it possible for the GA to arrive to the right neighboring rules under supervised training?
 

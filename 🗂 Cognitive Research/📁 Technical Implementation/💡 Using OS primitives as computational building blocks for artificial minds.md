@@ -1,0 +1,1 @@
+Encapsulating the whole execution of a mind within a single or multiple traditional processes would seem like the initial way to go. But what if instead the mind would take over those primitives as part of the brains?

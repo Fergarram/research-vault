@@ -5,7 +5,7 @@ This way I unbind myself from any need to be correct or accuarate about my ideas
 
 ## Which architecture do I want to implement?
 
-I want to discover and implement an architecture that allows [[📝 Developmental Training]]. In other words, one that allows a being to grow into different stages of maturity, similar to that of humans or other similarly intelligent animals like chimps and crows. For example, there is a stage where we learn to learn as kids as explored in [[💡 Meta Learning]].
+I want to discover and implement an architecture that allows [[💡 Developmental Training]]. In other words, one that allows a being to grow into different stages of maturity, similar to that of humans or other similarly intelligent animals like chimps and crows. For example, there is a stage where we learn to learn as kids as explored in [[💡 Meta Learning]].
 
 
 ## Cognitive Mechanisms

@@ -10,7 +10,7 @@ In order to arrive to that goal, I've been gathering resources, polishing ideas 
 * [[📝 Technical Implementation]]
 * [[📝 Experiments]]
 * [[📝 World Building]]
-* [[📝 Developmental Training]]
+* [[💡 Developmental Training]]
 
 ## Cognitive Architecture
 
@@ -62,7 +62,7 @@ Read the [[📝 World Building]] document for more details.
 
 As I wrote in [another one of my blog posts](https://fernando.works/journal/the-problem-with-ai/), I don't think that pushing a ton of training data to a program will give me the result I want. We humans (and some other animals) for example, don't learn that way at all. We learn from our parents, school, etc and it takes a lot of time, in fact it takes about 1/4th of our lifetime to become independent adults in modern society. Learning as humans is a whole big topic in itself.
 
-So when I say [[📝 Developmental Training]] I'm thinking about this question: How can we teach an artificial mind about their world so that it becomes skilled in surviving in it? This is a deep topic that will require tons of experimentation.
+So when I say [[💡 Developmental Training]] I'm thinking about this question: How can we teach an artificial mind about their world so that it becomes skilled in surviving in it? This is a deep topic that will require tons of experimentation.
 
 
 ## Final words
