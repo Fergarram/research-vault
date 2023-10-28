@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acd10db773096d7b",
+        "id": "d4b652960f0f0b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "840b97ff4e01a022",
+            "id": "fed94935bd0d2cbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📬 Inbox.md",
+                "file": "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Presence.md",
                 "mode": "source"
               }
             }
@@ -55,6 +55,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9d5fd66e0b16b5ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -76,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📬 Inbox.md",
+                "file": "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Presence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +102,33 @@
     "width": 403.5,
     "collapsed": true
   },
-  "active": "840b97ff4e01a022",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "fed94935bd0d2cbd",
   "lastOpenFiles": [
+    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Animal Interface for Movement Controls.md",
+    "🗂 OS Research/📝 Keyboard Commands as language articles, prepositions and other shit I don't understand about linguistics.md",
+    "📬 Inbox.md",
+    "README.md",
+    "🗂 Cognitive Research/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md",
+    "🗂 OS Research/It is time for a comeback.md",
+    "Untitled.canvas",
+    "🗂 Cognitive Research/📁 Technical Implementation/💡 Livewiring.md",
+    "🗂 Cognitive Research/📁 Technical Implementation/💡 Processing Resolution.md",
+    "Spatial thoughts about spatial substrates lol.canvas",
+    "Untitled.md",
+    "🗂 OS Research/💡Immediacy and Friction.md",
+    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Presence.md",
     "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
     "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
     "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001c - Cell reproduction systems.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md",
-    "🗄 Resources/🎥 \"Cell Intelligence in Physiological & Morphological Spaces\" by Michael Levin.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Analyzing the true essense of markdown.md",
-    "📬 Inbox.md",
-    "🗂 Cognitive Research/📁 Cognitive Mechanisms/🧩 Mirror neurons.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Mimicking.md",
-    "Media/experiment-001-demo-1.gif"
+    "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md"
   ]
 }

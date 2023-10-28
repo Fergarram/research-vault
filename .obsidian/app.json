@@ -10,5 +10,6 @@
   "smartIndentList": false,
   "useTab": true,
   "readableLineLength": true,
-  "legacyEditor": true
+  "legacyEditor": true,
+  "showInlineTitle": true
 }

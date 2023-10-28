@@ -1,1 +1,11 @@
-{}
+{
+  "canvas:new-file": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

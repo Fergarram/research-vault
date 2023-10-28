@@ -157,7 +157,7 @@ OpenCL and scalability
 -   Basic 2D grid world with simple life
 
 
-## Notes & Vault Meta
+## Clip Notes & Vault Meta
 
 ---
 

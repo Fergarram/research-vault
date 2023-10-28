@@ -1,0 +1,1 @@
+An animal is it's own thing that we can "manually" control by some kind of interface.
