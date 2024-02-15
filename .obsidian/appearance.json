@@ -5,5 +5,6 @@
     "font"
   ],
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "textFontFamily": "Fragment Mono"
 }
