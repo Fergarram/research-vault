@@ -1,36 +1,23 @@
-%%NOTE: This document is just a brain dump of ideas.%%
 
-## Outline
+%%WIP
+I'm still updating the whole OS Research space here.
+%%
 
-## Local-first OS for pros
+## Introduction
 
-## Ideas for a business model
+Calling this section of the wiki "OS Research" sounds a bit too much. 
 
-## Final thoughts
+Ever since I was about 10 years old, I dreamed and played with making my own computers and operating systems. I would take cardboard boxes and convert them to computers with OSX-looking desktops. I would make mobile phones that resemble the [phones of the time](https://www.mobilephonemuseum.com/catalogue) by using little wooden pieces, tape, nails, markers and even rubber bands. I wish I still had them but they got lost in the countless times I moved houses.
 
----
+Since then, I have been OBSESSED about computers and the internet. So when I say "OS Research" it's really just a collection of my observations, prototypes and radical ideas that I've accumulated for the past two decades.
 
-In my opinion, OSes like WonderOS will probably be only realistically possible if it's implemented as high-quality pro tools for the following platforms:
+## Observations
 
-For Windows: As a software that runs on top of it.
+### Spatial Software
 
-For Linux: As a distro.
+### Desktop Environments
 
-For Mac: As a software that runs on top of it.
+## Prototypes
 
----
+## Radical Ideas
 
-For both Windows and Mac, the benefit will be the software tools (which is what would be sold).
-
-On Linux, since it's a whole distro, we can address it in multiple ways.
-
-1. An almost-native way of handling existing pieces of software.
-2. An ecosystem of software tools (for both devs and pro users). 
-
-This almost-native way of handling linux computing primitives (processes, etc) through a Desktop Environment that's user customizable with actual good UX, is the key to the success of an OS such as WonderOS.
-
-It would be interesting to explore those base computing units.
-
----
-
-I want my OS Research to be aimed towards defining and prototyping the base primitives of actual OSes (the software that manages computer resources, hardware, etc) and see how we can use existing technology such as Linux to bring a similar revolution as that of Alex Obenauer.

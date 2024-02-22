@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d4b652960f0f0b9c",
+        "id": "1b76e17e18b46994",
         "type": "tabs",
         "children": [
           {
-            "id": "fed94935bd0d2cbd",
+            "id": "7d17d663f0e4d688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂 OS Research/It is time for a comeback.md",
-                "mode": "source"
+                "file": "README.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OS Research",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 OS Research/It is time for a comeback.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -109,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -121,26 +124,40 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fed94935bd0d2cbd",
+  "active": "7d17d663f0e4d688",
   "lastOpenFiles": [
+    "🗄 Resources/📰 \"The Desktop Metaphor - Once Awesome, Now Hindrance\" - Karl Voit.md",
+    "README.md",
+    "📬 Inbox.md",
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
+    "🗂 OS Research/📝 OS Research.md",
+    "🗂 OS Research/📁 Prototypes/📝 SUNA.GARDEN - A spatial digital garden maker based on are.na.md",
+    "🗂 OS Research/📁 On Canvas/📝 Everything on a canvas.md",
+    "🗂 OS Research/📁 Thoughts/📝 Immediacy and Friction.md",
+    "🗂 OS Research/📁 Thoughts/💡 Minimum Viable Interface.md",
+    "🗂 OS Research/📁 Thoughts/📝 On Customization.md",
+    "🗂 OS Research/📁 Thoughts/📝 Digital Assistants.md",
+    "🗂 OS Research/📁 Thoughts/📝 The linguistics of computing and user interfaces.md",
+    "🗂 OS Research/📁 Thoughts/📝 Digital Items.md",
+    "🗂 OS Research/📁 Thoughts/📝 File Systems.md",
+    "🗂 OS Research/📁 Thoughts/📝 On State Machines.md",
+    "🗂 OS Research/📁 Thoughts/📝 Universal Data Portability.md",
+    "🗂 OS Research/📁 Thoughts/📝 Keyboard Commands as language articles, prepositions and other shit I don't understand about linguistics.md",
+    "🗂 OS Research/Untitled.md",
+    "🗂 OS Research/📁 Thoughts",
+    "🗂 OS Research/📁 On Canvas/🧰 Oceloti.md",
+    "🗺 Roadmap.md",
+    "🗂 OS Research/📁 Prototypes/📝 Prototypes.md",
+    "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN",
+    "🗂 OS Research/📁 Prototypes",
+    "🗂 OS Research/📁 On Canvas",
+    "🗂 OS Research/📁 Prototypes/📁 suna.garden",
     "🗄 Resources/🌎 \"Michael Levin Started Pack\".md",
     "🗂 Cognitive Research/📁 Technical Implementation/Bioelectricity.md",
     "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md",
     "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Presence.md",
     "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Animal Interface for Movement Controls.md",
-    "🗂 OS Research/📝 Keyboard Commands as language articles, prepositions and other shit I don't understand about linguistics.md",
-    "📬 Inbox.md",
-    "README.md",
-    "🗂 Cognitive Research/📁 Cognitive Mechanisms/📝 Cognitive Mechanisms.md",
-    "🗂 OS Research/It is time for a comeback.md",
     "Untitled.canvas",
-    "🗂 Cognitive Research/📁 Technical Implementation/💡 Livewiring.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/💡 Processing Resolution.md",
-    "Spatial thoughts about spatial substrates lol.canvas",
-    "Untitled.md",
-    "🗂 OS Research/💡Immediacy and Friction.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
-    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001c - Cell reproduction systems.md"
+    "Spatial thoughts about spatial substrates lol.canvas"
   ]
 }

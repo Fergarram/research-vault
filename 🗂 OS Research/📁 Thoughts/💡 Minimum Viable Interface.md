@@ -1,5 +1,6 @@
 ## Links
-[[📝 UI Design Language]]
+
+[[📝 The linguistics of computing and user interfaces]]
 
 I was messing around a little bit with Plan9 when it occured to me. What's the absolute minimum interface required to use a computer without internet but with an artificial mind in there?
 

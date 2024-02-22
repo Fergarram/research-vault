@@ -1,28 +1,38 @@
-This document is like a TODO list and small brain-dump space. For a major vision, visit the [[🗺 Roadmap]] document.
 
-## Current Priorities
-
-* Finish report on [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]].
-
-## Regarding Obscure and UX
-
-* Create a user journey of your work so people can navigate it
-	* Create a landing page with recent changes
-	* Some type of guide system
-* Improve Obscure so that it covers most features in its todo list.
+This document serves as a place to add all brain dump notes. It's a sort of purgatory of ideas.
 
 ---
 
-Brain dumps go here. If nothing is below this text it means whatever was written here got trashed or evolved into a document.
+I need to put the following somewhere:
+
+In my opinion, OSes like WonderOS will probably be only realistically possible if it's implemented as high-quality pro tools for the following platforms:
+
+For Windows: As a software that runs on top of it.
+
+For Linux: As a distro.
+
+For Mac: As a software that runs on top of it.
+
+For both Windows and Mac, the benefit will be the software tools (which is what would be sold).
+
+On Linux, since it's a whole distro, we can address it in multiple ways.
+
+1. An almost-native way of handling existing pieces of software.
+2. An ecosystem of software tools (for both devs and pro users). 
+
+This almost-native way of handling linux computing primitives (processes, etc) through a Desktop Environment that's user customizable with actual good UX, is the key to the success of an OS such as WonderOS.
+
+It would be interesting to explore those base computing units.
+
 
 ---
 
 I guess that the difference between real cortical columns and my ego cells/grid cells is the fact that my cells have the purpose of mirroring the attributes of their world that I care about.
 
-Essentially a brain is diveded in three parts:
+In my view a brain is divided in three parts:
 
 1. A model maker (cortical columns)
-	- Permance through time indicate agents or isolated elements
+	- Permanence through time indicate agents or isolated elements
 	- The cells need to be able to compare observed raw data through time.
 		- Interaction with the world helps to gain more input that reinforces such.
 
@@ -40,7 +50,3 @@ Which attributes about the world are important for us?
 I think that making it for a video game might be a very good first step.
 
 I need to update my documentation about cognitive mechanisms but it would make more sense to update them after doing more experiments.
-
----
-
-What's the best way of compressing spatial information such as that of Kinopio where there are nodes, annotations and space? I'm thinking something like a hex grid lattice would allow this easier than a box one.

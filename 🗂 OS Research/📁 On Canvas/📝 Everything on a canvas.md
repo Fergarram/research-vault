@@ -1,4 +1,3 @@
-Everything is a canvas.
 
 The IDE you use to write and document code.
 The studio canvas you use to create websites.
@@ -7,7 +6,7 @@ The computer canvas you use to manage all of your computer resources and setting
 The video editing canvas you use to edit videos.
 The file manager canvas you use to organize all your files.
 
-Everything has it's own place, UI, and custom canvas primitives.
+Everything has its own place, UI, and custom canvas primitives.
 
 Not everything has to be interchangeable between canvas but it can be if it's decided that the canvas need it.
 

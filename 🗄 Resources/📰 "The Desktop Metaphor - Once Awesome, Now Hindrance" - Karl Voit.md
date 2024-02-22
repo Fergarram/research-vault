@@ -6,7 +6,7 @@ https://karl-voit.at/2018/08/25/deskop-metaphor/
 
 [[📝 OS Research]]
 [[📝 File Systems]]
-[[📝 UI Design Language]]
+[[📝 The linguistics of computing and user interfaces]]
 
 ## Notes
 

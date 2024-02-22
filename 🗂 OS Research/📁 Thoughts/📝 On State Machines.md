@@ -1,3 +1,4 @@
+
 ## Thoughts
 
 Every piece of software should have actions and it should be easy by default for developers to think and work this way. This is the only way we can create a system that's invocable by anyone at any time in any context.

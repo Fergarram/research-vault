@@ -61,8 +61,6 @@ The original purpose was to test ego cells with a real-world problem. But as I w
 
 This experiment has also served as a way to explore parallel computing — working with OpenCL and implementing simple rules per cell allows me to think in a different space that I'm not used to compared to that of modern software development.
 
-> 🎥 Watch the [YouTube video]() where I demo and explain the experiment.
-
 ## Theoretical Assumption
 
 For as simple as markdown may seem, it requires quite a few building blocks that I didn't take into account when I was initially thinking about this first experiment. Trying to find the neighboring rules needed to create this parsing cell tissue lead me to discovering that there is an unknown number of ways to describe markdown — it's not just characters in a grid and a high-level model.
