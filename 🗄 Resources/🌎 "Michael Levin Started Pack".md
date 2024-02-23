@@ -1,5 +1,7 @@
 # Forms of life, forms of mind | Dr. Michael Levin | Starter Pack: introductory materials to my lab’s academic work
 
+> NOTE: This is a copy-paste of the full article. I did not write this.
+
 **URL:** [https://thoughtforms.life/starter-pack-introductory-materials-to-my-labs-academic-work/](https://thoughtforms.life/starter-pack-introductory-materials-to-my-labs-academic-work/)
 
 **Published by Mike Levin on November 16, 2023**
@@ -45,7 +47,7 @@ After that introductory material, you can see the entire thing [here](https://dr
 - [Overview of the research; all peer-reviewed work: chronologically, but here it is by topic](https://drmichaellevin.org) – start with whatever area interests you.
 - [Talks I’ve given, and discussions with others and interviews, including a bunch of working meetings with really great people](https://www.youtube.com)
 
-Then, check out some of my close collaborators:
+Collaborators:
 
 - [Richard Watson](https://www.richardawatson.com)
 - [Josh Bongard](https://jbongard.github.io)
@@ -54,7 +56,3 @@ Then, check out some of my close collaborators:
 - [Giovanni Pezzulo](https://sites.google.com)
 - [David Kaplan](https://engineering.tufts.edu)
 - [Alexis Pietak](https://allencenter.tufts.edu)
-
-And coming soon, an ~8 episode set of 1-hour lectures going in depth on all the topics I normally fly through in the above talks.
-
-**Credits:** featured image made for me by Jeremy Guay of [Peregrine Creative](https://peregrinecr.com)

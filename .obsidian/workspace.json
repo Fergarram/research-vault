@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b76e17e18b46994",
+        "id": "a13fa000ab68b54f",
         "type": "tabs",
         "children": [
           {
-            "id": "7d17d663f0e4d688",
+            "id": "ec49f4872e25278d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN/✅ suna.garden logs.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,28 +76,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e87f06400432ec88",
+        "id": "a0685052078a9404",
         "type": "tabs",
         "children": [
           {
-            "id": "a8785f01e238ef62",
+            "id": "12b54da47283426a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN/✅ suna.garden logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5049e5a7ba6f265c",
+            "id": "e33c4aef7376102e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -113,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,14 +124,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7d17d663f0e4d688",
+  "active": "ec49f4872e25278d",
   "lastOpenFiles": [
-    "🗄 Resources/📰 \"The Desktop Metaphor - Once Awesome, Now Hindrance\" - Karl Voit.md",
+    "🗂 OS Research/📁 Data Storage/📝 Data Storage.md",
+    "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN/✅ suna.garden logs.md",
+    "🗂 OS Research/📁 Prototypes/📁 Ideas/💡 Mobile native app that serves as a mostly-active server for personal use.md",
+    "🗂 OS Research/📁 Prototypes/📁 Ideas",
+    "🗂 OS Research/📁 On Canvas/🧰 Oceloti.md",
+    "🗂 OS Research/📁 Data Storage/📝 CRDTs.md",
+    "🗂 OS Research/📁 Prototypes/🪴 suna.garden.md",
+    "🗄 Resources/🌎 \"Some thoughts on memory, goals, and universal hacking\" by Michael Levin.md",
+    "🗂 OS Research/📁 Thoughts/📝 On State Machines.md",
+    "🗂 OS Research/📁 Data Storage",
+    "🗄 Resources/🌎 \"Michael Levin Started Pack\".md",
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
     "README.md",
+    "🗄 Resources/📰 \"The Desktop Metaphor - Once Awesome, Now Hindrance\" - Karl Voit.md",
     "📬 Inbox.md",
     "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
     "🗂 OS Research/📝 OS Research.md",
-    "🗂 OS Research/📁 Prototypes/📝 SUNA.GARDEN - A spatial digital garden maker based on are.na.md",
     "🗂 OS Research/📁 On Canvas/📝 Everything on a canvas.md",
     "🗂 OS Research/📁 Thoughts/📝 Immediacy and Friction.md",
     "🗂 OS Research/📁 Thoughts/💡 Minimum Viable Interface.md",
@@ -140,23 +151,14 @@
     "🗂 OS Research/📁 Thoughts/📝 The linguistics of computing and user interfaces.md",
     "🗂 OS Research/📁 Thoughts/📝 Digital Items.md",
     "🗂 OS Research/📁 Thoughts/📝 File Systems.md",
-    "🗂 OS Research/📁 Thoughts/📝 On State Machines.md",
     "🗂 OS Research/📁 Thoughts/📝 Universal Data Portability.md",
     "🗂 OS Research/📁 Thoughts/📝 Keyboard Commands as language articles, prepositions and other shit I don't understand about linguistics.md",
     "🗂 OS Research/Untitled.md",
     "🗂 OS Research/📁 Thoughts",
-    "🗂 OS Research/📁 On Canvas/🧰 Oceloti.md",
-    "🗺 Roadmap.md",
-    "🗂 OS Research/📁 Prototypes/📝 Prototypes.md",
     "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN",
     "🗂 OS Research/📁 Prototypes",
     "🗂 OS Research/📁 On Canvas",
     "🗂 OS Research/📁 Prototypes/📁 suna.garden",
-    "🗄 Resources/🌎 \"Michael Levin Started Pack\".md",
-    "🗂 Cognitive Research/📁 Technical Implementation/Bioelectricity.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Presence.md",
-    "🗂 Cognitive Research/📁 Cognitive Architecture/💡 Animal Interface for Movement Controls.md",
     "Untitled.canvas",
     "Spatial thoughts about spatial substrates lol.canvas"
   ]
