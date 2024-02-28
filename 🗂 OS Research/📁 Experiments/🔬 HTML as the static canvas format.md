@@ -217,3 +217,11 @@ A developer could start from this base using the bare css and js which currently
 An external editor or the equivalent of a WYSIWYG text editor could be created.
 
 An equivalent to markdown could be created.
+
+...
+
+## Not really finished
+
+Something I just realized is that if the format is HTML and through it's own JS code you can change the position of the html elements and their contents, well... that's editor obviously. But, how do you save changes? You don't do that from within, you do that from the browser. You hit CMD+S.
+
+This is a big revelation. The full experience is finished.
