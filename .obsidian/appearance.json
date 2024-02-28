@@ -6,5 +6,6 @@
   ],
   "accentColor": "",
   "showViewHeader": true,
-  "textFontFamily": "Fragment Mono"
+  "textFontFamily": "Fragment Mono",
+  "interfaceFontFamily": "Inter"
 }

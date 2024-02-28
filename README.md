@@ -7,7 +7,7 @@ This website is my personal digital garden/wiki. Here I explore two major resear
 
 ## Update note:
 
-Last year 2023, I decided to start traveling and prioritized different things in my life. During this time a lot happened. ChatGPT was released and I spent most of my time working on [[🧰 Oceloti]] — an infinite canvas engine for future projects, research and work. You can follow all the development details here, in my [YouTube Channel](https://www.youtube.com/@fergarram/streams), and in [suna.garden/logs](https://www.suna.garden/logs/).
+Last year 2023, I decided to start traveling and prioritized different things in my life. During this time a lot happened. ChatGPT was released and I spent most of my time working on [[🧰 oceloti-svelte]] — an infinite canvas engine for future projects, research and work. You can follow all the development details here, in my [YouTube Channel](https://www.youtube.com/@fergarram/streams), and in [suna.garden/logs](https://www.suna.garden/logs/).
 
 The point is, I'll be spending some time updating most of my [[📝 OS Research]] stuff since most of my notes are outdated and proven by the ChatGPT disruption. Stay tuned.
 

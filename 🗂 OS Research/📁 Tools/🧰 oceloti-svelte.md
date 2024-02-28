@@ -1,0 +1,1 @@
+Refers to the svelte-based canvas rendering framework currently used for [suna.garden](https://www.suna.garden/).

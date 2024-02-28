@@ -1,0 +1,1 @@
+Refers to the vanilla javascript and css singletons (`oceloti.js` and `oceloti.css`) mentioned in [[📝 HTML as the static canvas format]]
