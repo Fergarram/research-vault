@@ -2,7 +2,7 @@
 
 These are the resources I have read and taken notes of.
 
-TODO: Create a shortcode that adds a list of files in the resources folder.
+@TODO: Create a shortcode that adds a list of files in the resources folder.
 
 ## Anti-library
 

@@ -26,3 +26,18 @@ I say ironically because to me at least, servers and our worlds infrastructure s
 At the same time there are many game maker files I made as a child that are lost forever due to not having backups.
 
 The question is: How do I find balance? Is it possible to have a way of knowledge or memory storage that is as reliable as that of humans/life? Can we get the best of both worlds? — the crisp details of digital copies and the resilience of memories, culture, genes of life?
+
+---
+
+So I found this online: [The Schema Change Challenge](https://alarmingdevelopment.org/?p=1705)
+
+It says:
+
+```
+Schema change is an unsolved problem in both live programming and local-first software. We include in schema change any change to the expected shape of data, whether that is expressed explicitly in a database schema or type system, or whether those expectations are implicit in the behavior of the code. Schema changes during live programming can create a mismatch between the code and data in the running environment. Similarly, schema changes in local-first programming can create mismatches between data in different replicas, and between data in a replica and the code colocated with it. In all of these situations the problem of schema change is to migrate or translate existing data in coordination with changes to the code.
+This paper contributes a set of concrete scenarios involving schema change that are offered as challenge problems to the live programming and local-first communities. We hope that these problems will spur progress by providing concrete objectives and a basis for comparing alternative solutions.
+```
+
+> Just a quick thought: If this is an unsolved problem, it means that there are a ton of problems that haven't been "solved" that I may be aware of but think are solved already.
+
+I'm more convinced that [[📝 Ego Cells]] or some type of cellular automata idea will solve this — a more eloquent way of explaining this is the way Michael Levin explains in the blog I mentioned above.

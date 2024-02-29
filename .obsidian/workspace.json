@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b605fb7b8fde26a",
+        "id": "a13fa000ab68b54f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1b766b2844d0daa",
+            "id": "ec49f4872e25278d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "81ca0f6dc7ae210e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂 OS Research/📁 On Canvas/📝 HTML as the static canvas format.md",
-                "mode": "source"
+                "file": "🗂 OS Research/📁 Data Persistence/📝 Data Storage.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OS Research",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,28 +56,36 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9d5fd66e0b16b5ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 297
   },
   "right": {
     "id": "dc2f2cf1b1618891",
     "type": "split",
     "children": [
       {
-        "id": "bbff9aa426ecc93a",
+        "id": "a0685052078a9404",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4b1f5df1e535fe",
+            "id": "12b54da47283426a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 OS Research/📁 On Canvas/📝 HTML as the static canvas format.md",
+                "file": "🗂 OS Research/📁 Data Persistence/📝 Data Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,25 +95,71 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "e33c4aef7376102e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
+    "width": 241.5,
     "collapsed": true
   },
-  "active": "81ca0f6dc7ae210e",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "ec49f4872e25278d",
   "lastOpenFiles": [
-    "🗂 OS Research/📁 On Canvas/📝 Everything on a canvas.md",
-    "🗂 OS Research/📁 On Canvas/📝 HTML as the static canvas format.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
-    "Untitled.md",
+    "🗂 OS Research/📁 Data Persistence/📝 CRDTs.md",
+    "🗄 Resources/🌎 \"To the crazy ones\" by Jonathan Edwards.md",
+    "🗄 Resources/📝 Resources.md",
+    "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN/✅ suna.garden logs.md",
+    "🗂 OS Research/📁 Data Persistence/📝 Data Storage.md",
+    "🗂 OS Research/📁 Prototypes/📁 Ideas/💡 Mobile native app that serves as a mostly-active server for personal use.md",
+    "🗂 OS Research/📁 Prototypes/📁 Ideas",
+    "🗂 OS Research/📁 On Canvas/🧰 Oceloti.md",
+    "🗂 OS Research/📁 Prototypes/🪴 suna.garden.md",
+    "🗄 Resources/🌎 \"Some thoughts on memory, goals, and universal hacking\" by Michael Levin.md",
+    "🗂 OS Research/📁 Thoughts/📝 On State Machines.md",
+    "🗂 OS Research/📁 Data Persistence",
+    "🗄 Resources/🌎 \"Michael Levin Started Pack\".md",
+    "🗂 Cognitive Research/📝 Cognitive Research.md",
+    "README.md",
+    "🗄 Resources/📰 \"The Desktop Metaphor - Once Awesome, Now Hindrance\" - Karl Voit.md",
     "📬 Inbox.md",
-    "🗂 Cognitive Research/📁 Experiments/📝 Experiments.md",
-    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001c - Cell reproduction systems.md",
-    "🗂 Cognitive Research/📁 Technical Implementation/📝 Ego Cells.md",
-    "🗄 Resources/🎥 \"Cell Intelligence in Physiological & Morphological Spaces\" by Michael Levin.md",
-    "🗂 Cognitive Research/📁 Experiments/📁 Experiment 001a/📎 Analyzing the true essense of markdown.md"
+    "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
+    "🗂 OS Research/📝 OS Research.md",
+    "🗂 OS Research/📁 On Canvas/📝 Everything on a canvas.md",
+    "🗂 OS Research/📁 Thoughts/📝 Immediacy and Friction.md",
+    "🗂 OS Research/📁 Thoughts/💡 Minimum Viable Interface.md",
+    "🗂 OS Research/📁 Thoughts/📝 On Customization.md",
+    "🗂 OS Research/📁 Thoughts/📝 Digital Assistants.md",
+    "🗂 OS Research/📁 Thoughts/📝 The linguistics of computing and user interfaces.md",
+    "🗂 OS Research/📁 Thoughts/📝 Digital Items.md",
+    "🗂 OS Research/📁 Thoughts/📝 File Systems.md",
+    "🗂 OS Research/📁 Thoughts/📝 Universal Data Portability.md",
+    "🗂 OS Research/📁 Thoughts",
+    "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN",
+    "🗂 OS Research/📁 Prototypes",
+    "🗂 OS Research/📁 On Canvas",
+    "🗂 OS Research/📁 Prototypes/📁 suna.garden",
+    "Untitled.canvas",
+    "Spatial thoughts about spatial substrates lol.canvas"
   ]
 }
