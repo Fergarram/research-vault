@@ -26,7 +26,7 @@ This is perfect.
 
 And the limits that saving a static HTML file has, like not being able have chunks or huge canvas, are actually good natural limits. It's the same for huge text documents.
 
-## Prototype
+## Prototype Specs
 
 Host a single html file on a static server. Then when opened in a browser it can be read and copied.
 
@@ -67,7 +67,7 @@ I would need to create [[🧰 oceloti-js]], these would be the requirements:
 4. 💡 JS can be turned off (would use native scroll)
 
 
-## Results
+## Oceloti 1
 
 ![[oceloti-js-1.png]]
 
@@ -208,7 +208,7 @@ A design system can be created on top - Oceloti should not provide opinion on st
 
 I'm particularly fascinated by the `oceloti-area` tool. Without any javascript one can spawn the user at any (centered) room coordinate. Although this is pure CSS, javascript could be used to handle url params for arbitrary coordinates.
 
-## Finishing thoughts
+## Customization and Editing
 
 If a developer wants to create something crazy or fancy using modern tools and frameworks it's up to them to make it work with them.
 
@@ -220,8 +220,45 @@ An equivalent to markdown could be created.
 
 ...
 
-## Not really finished
+### Saving state
 
 Something I just realized is that if the format is HTML and through it's own JS code you can change the position of the html elements and their contents, well... that's editor obviously. But, how do you save changes? You don't do that from within, you do that from the browser. You hit CMD+S.
 
-This is a big revelation. The full experience is finished.
+After playing with this for a while, my attention is now going more towards the hosting aspect of it.
+
+I can host the html on are.na by directly uploading it. Here is [an example](https://s3.amazonaws.com/arena_images-temp/uploads%2F2f15148b-ef02-4cc5-ac1d-d3ce20fb4876%2FHello+Are.na.html).
+
+In this example, the file is static and will not change, meaning, there is no way for me to update that file wherever it's hosted. I would need to create a copy and upload it to are.na again. And this is ok, both are.na and the html file are setup to work this way.
+
+Having said this, how can I implement something similar to that of my [[🔬 Are.na feed generator]]?
+
+My are.na feed SSG uses html templates that replace placeholder strings when the node script gets executed. This is the build process.
+
+The same could be created with Oceloti — room templates and card templates that replace placeholders. But this means that the use of the pseudo-native saving module no longer get fed back into the loop. It works as an export only.
+
+But that's the whole thing about static site generators (SSG). It's a process that converts data to a static printed format. OcelotiJS is compatible with this.
+
+## Oceloti Modules
+
+The way I see it is that a module can be a `<style>` or `<script>` tag. They contain rendering and client interaction instructions. But why aren't there any html modules? This is the problem I'm trying to solve.
+
+The thing is there aren't such thing as html modules per-se, there could be *card templates* that would be used by a server or script that generates *room content* based on some data as mentioned before.
+
+The other option here, which is what I'm deciding of doing for the save dialog, is that any module that requires to show a UI or HUD would not contaminate the static HTML body with more html, but rather to store it as an html string that would get appended via the module's JS code.
+
+This sets a clear boundary between static content and non-static content. If the client doesn't run any JS then the HTML document doesn't get contaminated — it all stays in unexecuted JS code.
+
+The module developer needs to be careful to not leave any trash elements on the DOM.
+
+%%NOTES
+Quiero escribir un ensayo:
+- Que hable de la transicion conceptual del documento que unidireccional a un documento bidimencional.
+- El punto importante es la tradicion de mantener el contenido estatico y que el HTML es primero.
+- La extensibilidad de la web se mantiene al seguir el principio de contenido estatico.
+%%
+
+## Concluding Notes
+
+This experiment was a big success. It provided me with a new robust mental model of what a canvas document or web room is. After about 2 days of experimentation I feel ready to start documenting these ideas in [[🧰 oceloti-js]] instead.
+
+Regarding suna.garden, I think that product idea is still good. I'll change the direction a little bit so that it's end goal is to be a room editor with are.na building blocks. The user should be able to save or upload gardens as html files. You can continue reading more about my plans in [[🪴 suna.garden]].

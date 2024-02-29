@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a13fa000ab68b54f",
+        "id": "8cb597d889530f43",
         "type": "tabs",
         "children": [
           {
-            "id": "ec49f4872e25278d",
+            "id": "4834974269190621",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂 OS Research/📁 Data Persistence/📝 Data Storage.md",
+                "file": "🗂 OS Research/📁 Products/🪴 suna.garden.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "OS Research",
+                "query": "fergarram.online",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 OS Research/📁 Data Persistence/📝 Data Storage.md",
+                "file": "🗂 OS Research/📁 Products/🪴 suna.garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,13 +124,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec49f4872e25278d",
+  "active": "eb68ff78ce792447",
   "lastOpenFiles": [
+    "🗂 OS Research/📁 Experiments/🔬 HTML as the static canvas format.md",
+    "🗂 OS Research/📁 Products/🪴 suna.garden.md",
+    "🗂 OS Research/📁 Experiments/🔬 Are.na feed generator.md",
+    "🗂 OS Research/📁 Data Persistence/📝 Data Persistence.md",
     "🗂 OS Research/📁 Data Persistence/📝 CRDTs.md",
     "🗄 Resources/🌎 \"To the crazy ones\" by Jonathan Edwards.md",
     "🗄 Resources/📝 Resources.md",
     "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN/✅ suna.garden logs.md",
-    "🗂 OS Research/📁 Data Persistence/📝 Data Storage.md",
     "🗂 OS Research/📁 Prototypes/📁 Ideas/💡 Mobile native app that serves as a mostly-active server for personal use.md",
     "🗂 OS Research/📁 Prototypes/📁 Ideas",
     "🗂 OS Research/📁 On Canvas/🧰 Oceloti.md",
@@ -151,9 +154,6 @@
     "🗂 OS Research/📁 Thoughts/📝 On Customization.md",
     "🗂 OS Research/📁 Thoughts/📝 Digital Assistants.md",
     "🗂 OS Research/📁 Thoughts/📝 The linguistics of computing and user interfaces.md",
-    "🗂 OS Research/📁 Thoughts/📝 Digital Items.md",
-    "🗂 OS Research/📁 Thoughts/📝 File Systems.md",
-    "🗂 OS Research/📁 Thoughts/📝 Universal Data Portability.md",
     "🗂 OS Research/📁 Thoughts",
     "🗂 OS Research/📁 Prototypes/📁 SUNA.GARDEN",
     "🗂 OS Research/📁 Prototypes",
