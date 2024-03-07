@@ -10,17 +10,8 @@ But after working on the [[🔬 HTML as the static canvas format]] experiment, I
 Specifically, it allows users to:
 - Use are.na blocks as content cards
 - Customize the room's wallpaper, metadata, etc.
-- Upload directly to are.na channels as html file or living garden*.
 - Export html files to do whatev the fuck you want.
-- Importing html files with compatible modules (see [[🧰 oceloti-js]])
-
-Something important to note is the two main formats: living gardens and oceloti html.
-
-Living gardens are dynamic are.na blocks with changing content that maintain the same block reference/id.
-
-Compared to an oceloti html file, this allows a user to read a living garden and export it or create a living copy.
-
-In any case, it's important to know that living gardens or simply gardens are stored locally first, and uploaded as blocks second. The source of truth is whatever the user decides — the block or the local garden stored in an indexeddb table.
+- Upload directly to are.na channels as html file.
 
 ---
 

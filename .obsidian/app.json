@@ -11,5 +11,5 @@
   "useTab": true,
   "readableLineLength": true,
   "legacyEditor": true,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }

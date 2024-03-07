@@ -1,7 +1,7 @@
 .view-content * {
     font-family: "Fragment Mono" !important;
     font-weight: 400 !important;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
 }
 
 .view-content h1, .cm-header-1 {
@@ -26,10 +26,10 @@
     font-style: normal !important;
 }
 
-.nav-folder-children .nav-folder-children {
+/*.nav-folder-children .nav-folder-children {
     margin-left: 36px !important;
 }
-
+*/
 .cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
     color: #d6a03e;
     font-size: 1em;
@@ -41,4 +41,63 @@
 
 .cm-comment:not(.cm-inline-code) {
     color: #808080 !important;
+}
+
+.tree-item-self.nav-folder-title {
+    padding: 0 !important;
+}
+
+.tree-item-self.nav-folder-title::before {
+    display: none !important;
+}
+
+.tree-item-children.nav-folder-children {
+    background: transparent !important;
+}
+
+.nav-files-container.node-insert-event {
+    padding-left: 1rem;
+}
+
+.nav-file-title {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.titlebar-button-container.mod-right {
+    top: 2px;
+    right: 0px;
+    background: transparent !important;
+    transform: scale(0.95);
+}
+
+html::before {
+    content: "";
+    display: block;
+    position: fixed;
+    width: calc(100%);
+    height: calc(100%);
+    pointer-events: none;
+    left: -1px;
+    top: -1px;
+    border: 1px solid transparent;
+    box-shadow:
+        inset 1px 1px #dadada,
+        inset -1px -1px black,
+        inset 2px 2px white,
+        inset -2px -2px #808080,
+        inset -4px -4px #c0c0c0,
+        inset 4px 4px #c5c5c5;
+   z-index: 1000000;
+}
+
+.workspace-leaf-resize-handle {
+    border-width: 1px !important;
+    border-color: #e7e7e7 !important;
+    top: 40px !important;
+}
+
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
+    max-width: 50em;
+    margin: 0 auto;
 }

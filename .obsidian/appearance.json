@@ -1,11 +1,12 @@
 {
-  "baseFontSize": 19,
-  "cssTheme": "Minimal",
+  "baseFontSize": 14,
+  "cssTheme": "Wikipedia",
   "enabledCssSnippets": [
     "font"
   ],
   "accentColor": "",
   "showViewHeader": true,
   "textFontFamily": "Fragment Mono",
-  "interfaceFontFamily": "Inter"
+  "interfaceFontFamily": "Inter",
+  "baseFontSizeAction": true
 }
