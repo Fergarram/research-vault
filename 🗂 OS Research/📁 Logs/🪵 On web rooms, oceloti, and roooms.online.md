@@ -1,5 +1,5 @@
 
-So I've been trying to wrap my head around how to apply video game inventory systems to [[💡 Webrooms]]. On my [last stream](https://www.youtube.com/watch?v=whB1y3yhkmg), I created a first good mock for how this could be implemented.
+So I've been trying to wrap my head around how to apply video game inventory systems to [[💡 Web Rooms]]. On my [last stream](https://www.youtube.com/watch?v=whB1y3yhkmg), I created a first good mock for how this could be implemented.
 
 It's a confusing journey. Just writing this document here is fucking hard.
 
