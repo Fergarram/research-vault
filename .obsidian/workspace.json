@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗂 OS Research/📁 Logs/🪵 Web Rooms.md",
+                "file": "🗂 OS Research/📁 Thoughts/📝 The linguistics of computing and user interfaces.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗂 OS Research/📁 Logs/🪵 Web Rooms.md",
+                "file": "🗂 OS Research/📁 Thoughts/📝 The linguistics of computing and user interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +126,18 @@
   },
   "active": "755f5669b3dc983e",
   "lastOpenFiles": [
+    "🗂 OS Research/📁 Thoughts/📝 On Customization.md",
+    "🗂 OS Research/📁 Thoughts/📝 The linguistics of computing and user interfaces.md",
+    "🗂 OS Research/📁 Data Persistence/📝 Data Persistence.md",
+    "🗂 OS Research/📁 Thoughts/📝 On State Machines.md",
+    "🗂 OS Research/📁 Projects/🚪 rooom.online.md",
+    "🗂 OS Research/📁 Logs/🪵 On webrooms, oceloti, and roooms.online.md",
+    "🗂 OS Research/📁 Ideas/💡 Webrooms.md",
+    "🗂 OS Research/📁 Ideas/💡 Minimum Viable Interface.md",
+    "🗂 OS Research/📁 Ideas",
+    "🗂 OS Research/📁 Logs/🪵 Web Rooms.md",
     "🗂 OS Research/📁 Logs/Untitled",
     "🗂 OS Research/📁 Projects/🪴 suna.garden.md",
-    "🗂 OS Research/📁 Logs/🪵 Web Rooms.md",
     "🗂 OS Research/📁 Logs",
     "Media/entrance-animation.gif",
     "🗂 OS Research/📁 Thoughts/📝 Immediacy and Friction.md",
@@ -136,7 +145,6 @@
     "🗂 OS Research/📁 Experiments/🔬 HTML as the static canvas format.md",
     "🗂 OS Research/📁 Experiments/🔬 Are.na feed generator.md",
     "🗄 Resources/🌎 \"To the crazy ones\" by Jonathan Edwards.md",
-    "🗂 OS Research/📁 Data Persistence/📝 Data Persistence.md",
     "🗂 OS Research/📁 Data Persistence/📝 CRDTs.md",
     "🗂 OS Research/📁 Data Persistence",
     "🗂 Cognitive Research/📁 Experiments/🔬 Experiment 001a - Parsing Markdown with Cellular Automata.md",
