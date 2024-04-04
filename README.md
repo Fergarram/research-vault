@@ -2,28 +2,19 @@
 title: An Alternative View on Computing & Cognition
 description: A public Obsidian vault with all my notes on Cognitive Engineering, OS Development and Design, and Complexity.
 ---
+> 👥 Intended Audience — People interested in an ineloquent view on AI, cognitive science, and/or software development.
 
-This website is my personal digital garden/wiki. Here I explore two major research and experimentation areas: [[📝 Cognitive Research]] and [[📝 OS Research]].
+This website is my personal digital garden/wiki. Here I mainly explore [[📝 Cognitive Research]], [[📝 OS Research]] and anything in between.
 
-## Update note:
+---
 
-Last year 2023, I decided to start traveling and prioritized different things in my life. During this time a lot happened. ChatGPT was released and I spent most of my time working on [[🧰 oceloti-svelte]] — an infinite canvas engine for future projects, research and work. You can follow all the development details here, in my [YouTube Channel](https://www.youtube.com/@fergarram/streams), and in [suna.garden/logs](https://www.suna.garden/logs/).
+Update note:
+
+Last year 2023, I decided to start traveling and prioritized different things in my life. During this time a lot happened. ChatGPT was released and I spent most of my time working on [[🧰 oceloti-svelte]] — an infinite canvas engine for future projects, research and work. You can follow all the development details here, in my [YouTube Channel](https://www.youtube.com/@fergarram/streams). I also have a devlog feed at [fergarram.online/devlog.html](https://fergarram.online/devlog.html)
 
 The point is, I'll be spending some time updating most of my [[📝 OS Research]] stuff since most of my notes are outdated and proven by the ChatGPT disruption. Stay tuned.
 
-## About me
-
-My name is [Fernando Garcia](https://fernando.works/) and I am a software developer, designer and indie researcher. I don't intend to be a source of truth on any of the topics I write about, but rather, a naïve view on existing ideas with a fresh "Gen Z" twist.
-
-> 👥 Intended Audience — People interested in AI, cognitive science, and/or software development.
-
-## About this website
-
-As Maggie Appleton explains in her [post about digital gardens](https://maggieappleton.com/garden-history), documents can be at different _growth_ stages. For example, you might find that there are empty pages or half-baked ideas. This allows me to _plant_ ideas which I slowly _hydrate_ and fill with information and connections. It also allows me to validate and formalize concepts.
-
-You can think of this website as a text editor or IDE that allows you to browse and read the files in a repository. I use emojis as icons to identify the type of document. For example, the 📝 icon is used to identify topics or concepts within a research space. The 🔬 icon is used to identify experiment documents, and for my experiment notes I use the 📎 icon to store important ideas related to a specific experiment. 
-
-Instead of providing a definition for each type or icon, I invite you, the reader, to explore the sidebar and try to figure out how they are used.
+---
 
 ## 🗂 OS Research
 
@@ -43,10 +34,21 @@ My ultimate goal with this research is to create a digital assistant that's capa
 
 You can find a more detailed guide in the introductory page at [[📝 Cognitive Research]]. There I explain more about my approach and how to navigate my work.
 
-
 ## 🗄 Resources
 
 [[📝 Resources]] is a list and guide to manage external resources like papers, books, articles, etc. If I find it's useful, I usually create notes about them.
+
+## About this website
+
+As Maggie Appleton explains in her [post about digital gardens](https://maggieappleton.com/garden-history), documents can be at different _growth_ stages. For example, you might find that there are empty pages or half-baked ideas. This allows me to _plant_ ideas which I slowly _hydrate_ and fill with information and connections. It also allows me to validate and formalize concepts.
+
+You can think of this website as a text editor or IDE that allows you to browse and read the files in a repository. I use emojis as icons to identify the type of document. For example, the 📝 icon is used to identify topics or concepts within a research space. The 🔬 icon is used to identify experiment documents, and for my experiment notes I use the 📎 icon to store important ideas related to a specific experiment. 
+
+Instead of providing a definition for each type or icon, I invite you, the reader, to explore the sidebar and try to figure out how they are used.
+
+## About me
+
+My name is [Fernando Garcia](https://fernando.works/) and I am a software developer, designer and amateur researcher. I don't intend to be a source of truth on any of the topics I write about, but rather, a naïve view on existing ideas.
 
 ## Get in touch
 

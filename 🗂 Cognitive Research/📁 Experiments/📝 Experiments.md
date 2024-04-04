@@ -16,15 +16,16 @@ I also created a document type that represents tests for a given experiment. The
 
 ---
 
-## Active Experiments
+## Published Experiments
 
 - [[🔬 Experiment 001a - Parsing Markdown with Cellular Automata]]
-- [[🔬 Experiment 001c - Cell reproduction systems]]
 
 --- 
 
 ## Experiment Ideas
 
-> Think of the words needed to communicate with a [personal assistant, npc in a video game, etc] by manually simulating a real conversation. For example, if a video game, visualize the conversations and what you're doing and then pay attention to those words. If a personal assistant, write use case stories (literal stories) with dialogs and events that occur.
+- [[💡 Experiment Idea - Cell reproduction systems]]
 
-> Random idea: What would happen if each component within a UI framework was an agent with some degree of autonomy or some kind of complex ego cell, and what if we use that to help us debug code or to validate data and operations?
+- Think of the words needed to communicate with a [personal assistant, npc in a video game, etc] by manually simulating a real conversation. For example, if a video game, visualize the conversations and what you're doing and then pay attention to those words. If a personal assistant, write use case stories (literal stories) with dialogs and events that occur.
+
+- Random idea: What would happen if each component within a UI framework was an agent with some degree of autonomy or some kind of complex ego cell, and what if we use that to help us debug code or to validate data and operations? This would make sense by using a non-square ego cell setup, one that works with visual and hierarchical proximity instead.

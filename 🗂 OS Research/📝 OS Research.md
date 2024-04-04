@@ -11,13 +11,6 @@ Ever since I was about 10 years old, I dreamed and played with making my own com
 
 Since then, I have been OBSESSED about computers and the internet. So when I say "OS Research" it's really just a collection of my observations, prototypes and radical ideas that I've accumulated for the past two decades.
 
-## Observations
+## Obsessions
 
-### Spatial Software
-
-### Desktop Environments
-
-## Prototypes
-
-## Radical Ideas
-
+I'm currently thinking and experimenting with spatial software designs. This means that I'm essentially putting [[📝 Everything on a canvas]].
