@@ -3,30 +3,6 @@ This document serves as a place to add all brain dump notes. It's a sort of purg
 
 ---
 
-I need to put the following somewhere:
-
-In my opinion, OSes like WonderOS will probably be only realistically possible if it's implemented as high-quality pro tools for the following platforms:
-
-For Windows: As a software that runs on top of it.
-
-For Linux: As a distro.
-
-For Mac: As a software that runs on top of it.
-
-For both Windows and Mac, the benefit will be the software tools (which is what would be sold).
-
-On Linux, since it's a whole distro, we can address it in multiple ways.
-
-1. An almost-native way of handling existing pieces of software.
-2. An ecosystem of software tools (for both devs and pro users). 
-
-This almost-native way of handling linux computing primitives (processes, etc) through a Desktop Environment that's user customizable with actual good UX, is the key to the success of an OS such as WonderOS.
-
-It would be interesting to explore those base computing units.
-
-
----
-
 I guess that the difference between real cortical columns and my ego cells/grid cells is the fact that my cells have the purpose of mirroring the attributes of their world that I care about.
 
 In my view a brain is divided in three parts:

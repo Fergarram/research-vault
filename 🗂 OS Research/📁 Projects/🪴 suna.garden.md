@@ -3,19 +3,12 @@
 
 As of Feb 29, 2024, this project was a lab for a lot of experimentation for everything canvas related. I even explored topics like [[📝 CRDTs]] and [[📝 Data Persistence]] in general.
 
-But after working on the [[🔬 HTML as the static canvas format]] experiment, I feel the need to change and maybe even commit to a final intent for this project or product:
+But after working on the [[🔬 HTML as the static canvas format]] experiment, I changed the way that this site is used.
 
-"suna.garden" is a tool for creating web rooms or canvas web docs.
+Now (Wed 26 Jun 2024) it's used as a way to browse html room files. The suna.garden points to a cloudflare worker that takes the url slug to fetch an are.na channel. It takes the channel's most recent block, if the block is an html it will render it. For private channels the client html can send a cookie with the auth token.
 
-Specifically, it allows users to:
-- Use are.na blocks as content cards
-- Customize the room's wallpaper, metadata, etc.
-- Export html files to do whatev the fuck you want.
-- Upload directly to are.na channels as html file.
+It even has a [404 page](https://www.suna.garden/this-room-doesnt-exist).
 
----
+Setting the domain this way has been a great tool for my own needs. I'm able to organize notes in different rooms while keeping a history of all uploaded versions of each room. It also informs what I'll need for rooom.online in terms of the backend.
 
-I want to make `suna.garden/logs` a blog/feed page that shows my activity:
-- Relevant updates on obscurity.wiki
-- Blocks added on relevant are.na channels
-- Communication about its progress and development such as announcements or just thoughts.
+Overall it allows me and others to see the progress and evolution of [[💡 Web Rooms]].
