@@ -27,13 +27,13 @@
     --bright-aqua:    #8ec07c;
     --bright-orange:  #fe8019;
 
-    --neutral-red:    #cc241d;
-    --neutral-green:  #98971a;
-    --neutral-yellow: #d79921;
-    --neutral-blue:   #458588;
-    --neutral-purple: #b16286;
-    --neutral-aqua:   #689d6a;
-    --neutral-orange: #d65d0e;
+    --blue-red:    #cc241d;
+    --blue-green:  #98971a;
+    --blue-yellow: #d79921;
+    --blue-blue:   #458588;
+    --blue-purple: #b16286;
+    --blue-aqua:   #689d6a;
+    --blue-orange: #d65d0e;
 
     --faded-red:      #9d0006;
     --faded-green:    #79740e;
@@ -52,12 +52,12 @@
     --background-secondary-alt:   var(--dark1);
     --text-normal:                var(--light0);
     --text-faint:                 var(--light3);
-    --text-title-h1:              var(--neutral-red);
-    --text-title-h2:              var(--neutral-orange);
-    --text-title-h3:              var(--neutral-yellow);
-    --text-title-h4:              var(--neutral-green);
-    --text-title-h5:              var(--neutral-aqua);
-    --text-title-h6:              var(--neutral-blue);
+    --text-title-h1:              var(--blue-red);
+    --text-title-h2:              var(--blue-orange);
+    --text-title-h3:              var(--blue-yellow);
+    --text-title-h4:              var(--blue-green);
+    --text-title-h5:              var(--blue-aqua);
+    --text-title-h6:              var(--blue-blue);
     --text-link:                  var(--bright-blue);
     --text-a:                     var(--bright-orange);
     --text-a-hover:               var(--bright-blue);
@@ -91,21 +91,21 @@
     --text-title-h4:              var(--faded-green);
     --text-title-h5:              var(--faded-aqua);
     --text-title-h6:              var(--faded-blue);
-    --text-link:                  var(--neutral-blue);
-    --text-a:                     var(--neutral-orange);
-    --text-a-hover:               var(--neutral-blue);
+    --text-link:                  var(--blue-blue);
+    --text-a:                     var(--blue-orange);
+    --text-a-hover:               var(--blue-blue);
     --text-mark:                  rgba(215, 153, 33, 0.4); /* neutral-yellow */
     --pre-code:                   var(--light1);
     --text-highlight-bg:          var(--bright-aqua);
-    --interactive-accent:         var(--neutral-orange);
+    --interactive-accent:         var(--blue-orange);
     --interactive-before:         var(--light4);
     --background-modifier-border: var(--light2);
-    --text-accent:                var(--neutral-orange);
-    --interactive-accent-rgb:     var(--neutral-orange);
-    --inline-code:                var(--neutral-blue);
-    --vim-cursor:                 var(--neutral-orange);
+    --text-accent:                var(--blue-orange);
+    --interactive-accent-rgb:     var(--blue-orange);
+    --inline-code:                var(--blue-blue);
+    --vim-cursor:                 var(--blue-orange);
     --text-selection:             rgba(189, 174, 147, 0.5); /* light3 */
-    --text-tag:                   var(--neutral-aqua);
+    --text-tag:                   var(--blue-aqua);
     --task-checkbox:              var(--light4);
 }
 

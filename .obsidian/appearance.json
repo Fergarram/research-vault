@@ -1,12 +1,13 @@
 {
   "baseFontSize": 14,
-  "cssTheme": "Wikipedia",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "font"
   ],
-  "accentColor": "",
+  "accentColor": "#8fb3e6",
   "showViewHeader": true,
   "textFontFamily": "Fragment Mono",
   "interfaceFontFamily": "Inter",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "system"
 }
